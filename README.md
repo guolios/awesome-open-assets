@@ -3,7 +3,9 @@
 > 🌏 全球开源 / 免费可商用素材资源的分类索引 — Curated index of openly-licensed assets for creators & developers.
 > 逐条标注**许可条款、可否商用、是否需署名**，拿来就能用，不用担心版权地雷。
 
-**收录规模**：150 个站点 / 项目 ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
+**收录规模**：**300 个站点 / 项目**（01–16 类）+ 2 篇授权速查 ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
+
+覆盖 **图片 · 视频 · 音频 · 字体 · 动效 · 3D · 游戏美术 · 配色 · 工具链** 九大领域。
 
 ---
 
@@ -19,6 +21,9 @@
 
 > 一句话定位：**素材界的 Awesome List，中文优先，但资源站以全球为主。**
 
+> ✅ 这个命名已经兑现过一次：仓库最初只有图片类（150 条），如今视频、音频、字体、动效、配色、工具链全部并入同一套分类与字段体系，
+> **仓库名、Description、目录结构一个字都没改** —— 这就是当初不用 `awesome-free-images` 的原因。
+
 ---
 
 ## 快速推荐（按场景速查）
@@ -27,7 +32,12 @@
 | --- | --- | --- |
 | 找一张能直接放进 PPT / 落地页的照片 | [Unsplash](https://unsplash.com) · [Pexels](https://www.pexels.com) | 质量最高，免署名，禁售原图而已 |
 | 找一张**授权最干净**（CC0）的图 | [StockSnap](https://stocksnap.io) · [Negative Space](https://negativespace.co) · [Pixnio](https://pixnio.com) | 全站 CC0，等同于放弃著作权 |
-| 找名画 / 历史 / 博物馆高清藏品 | [Smithsonian OA](https://www.si.edu/openaccess) · [The Met](https://www.metmuseum.org/art/collection/search) · [NASA](https://images.nasa.gov) | CC0 或公有领域，扫描分辨率极高 |
+| 找一段能直接剪进片子的视频 | [Pexels Videos](https://www.pexels.com/videos/) · [Coverr](https://coverr.co/) · [Mixkit](https://mixkit.co/free-stock-video/) | 免署名，4K 为主，唯一禁令是不得打包转售 |
+| 找一段配乐或音效 | [Pixabay Music](https://pixabay.com/music/) · [Mixkit Music](https://mixkit.co/free-stock-music/) · [Freesound](https://freesound.org/) | 前两个免署名；Freesound 记得用 License 过滤掉 NC |
+| 找一支能商用的字体 | [Google Fonts](https://fonts.google.com/) · [思源黑体](https://github.com/adobe-fonts/source-han-sans) · [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | SIL OFL 1.1，可嵌入、可改、免署名 |
+| 找一支能商用的**中文**字体 | [阿里巴巴普惠体 3.0](https://www.alibabafonts.com/) · [站酷 8 款](https://www.zcool.com.cn/special/zcoolfonts/) · [得意黑](https://github.com/atelier-anchor/smiley-sans) | OFL 或厂商明示免费商用，注意站酷禁改名 |
+| 给页面加动画 / Lottie | [lottie-web](https://github.com/airbnb/lottie-web) · [UseAnimations](https://useanimations.com/) · [Lordicon](https://lordicon.com/) | 运行时全 MIT；Lordicon 免费档可商用但须署名 |
+| 找历史 / 航天 / 政府影像 | [NASA Images](https://images.nasa.gov) · [美国国家档案馆](https://catalog.archives.gov/) · [Internet Archive](https://archive.org/details/movies) | 多为公有领域，但须看单条 Rights Statement |
 | 给项目配图标 | [Lucide](https://lucide.dev) · [Tabler Icons](https://tabler.io/icons) · [Iconify](https://iconify.design) | MIT / ISC，1700–6200+ 图标，免署名 |
 | 找扁平风插画 | [unDraw](https://undraw.co) · [Mixkit](https://mixkit.co) · [Open Peeps](https://www.openpeeps.com) | 可实时改主色，免署名可用 |
 | 做 3D / 渲染要贴图 HDRI | [Poly Haven](https://polyhaven.com) · [ambientCG](https://ambientcg.com) | 全站 CC0，PBR 材质最全 |
@@ -38,6 +48,8 @@
 ---
 
 ## 目录
+
+### 📷 图片与视觉（01–10，共 150 条）
 
 | # | 分类 | 文件 | 条目数 |
 | --- | --- | --- | --- |
@@ -50,7 +62,22 @@
 | 07 | AI 工具与授权搜索引擎 AI & Search | [docs/07-ai-tools-search.md](docs/07-ai-tools-search.md) | 12 |
 | 08 | 像素风与游戏美术 Pixel Art & Game Assets | [docs/08-pixel-game-assets.md](docs/08-pixel-game-assets.md) | 12 |
 | 09 | 图片处理与优化工具 Processing & Tooling | [docs/09-image-tooling.md](docs/09-image-tooling.md) | 14 |
-| 10 | 授权速查与常见坑 License Basics | [docs/10-licenses.md](docs/10-licenses.md) | 14 |
+| 10 | 📕 授权速查与常见坑 License Basics | [docs/10-licenses.md](docs/10-licenses.md) | 14 |
+
+### 🎬 多媒体（11–17，共 150 条）
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 11 | 开源视频素材 Video Footage | [docs/11-video-footage.md](docs/11-video-footage.md) | 23 |
+| 12 | 开源音频与音乐 Audio, Music & SFX | [docs/12-audio-music-sfx.md](docs/12-audio-music-sfx.md) | 28 |
+| 13 | 开源字体 Fonts | [docs/13-fonts.md](docs/13-fonts.md) | 47 |
+| 14 | 动效与 UI 动画 Motion & Animation | [docs/14-motion-animation.md](docs/14-motion-animation.md) | 14 |
+| 15 | 配色 / 渐变 / 背景生成器 Colors & Generators | [docs/15-colors-generators.md](docs/15-colors-generators.md) | 22 |
+| 16 | 音视频处理开源工具 Media Tooling | [docs/16-media-tooling.md](docs/16-media-tooling.md) | 16 |
+| 17 | 📕 多媒体授权速查与常见坑 Media License Basics | [docs/17-media-licenses.md](docs/17-media-licenses.md) | — |
+
+> 10 与 17 是**授权知识篇**（条款速查 + 避坑清单），不计入资源条目数。
+> 10 讲通用条款（CC / MIT / OFL / Apache 等），17 讲多媒体领域特有的雷区（权利分层、字体举证、Lottie 第三方 IP 等）。
 
 ---
 
@@ -75,9 +102,13 @@
 1. **先锁场景，再挑站台** — 做 C 端投放先去 Unsplash / Pexels；做素材二次创作只用 CC0 / 博物馆典藏。
 2. **下载即留证** — 重要项目把下载当天的许可页面截图存档。Pixabay 就曾在 2019 年从 CC0 改为自有授权，条款是会变的。
 3. **避开人物与商标** — 可辨识人物做广告用途需另取肖像授权；素材中的 logo 不受 CC 授权保护。
-4. **AI 生成图谨慎** — 多数图库已混入 AI 生成内容，纯 AI 生成物在多数法域可能不受著作权保护。
+4. **AI 生成内容谨慎** — 多数图库已混入 AI 生成内容，纯 AI 生成物在多数法域可能不受著作权保护。
+5. **音频要查三层权利** — 一段音乐同时存在词曲、录音、表演三层权利，拿到一层 ≠ 全部拿到。
+6. **字体看是 OFL 还是厂商声明** — SIL OFL 可嵌入可改可分发，但不得单独售字体文件；站酷/阿里/MiSans 等是厂商单方声明，须存档并遵守附加条件。
+7. **数据集默认只给研究用途** — 含 NC / -SA 的数据集（ESC-50、UrbanSound8K 等）用于训练商业模型已超范围。
+8. **绝不用素材搭素材站竞品** — 这是所有平台共通的明文禁令，也是被起诉概率最高的一条。
 
-详见 [授权速查与常见坑](docs/10-licenses.md)。
+详见 [10 · 授权速查](docs/10-licenses.md) 与 [17 · 多媒体授权速查](docs/17-media-licenses.md)。
 
 ---
 
