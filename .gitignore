@@ -1,0 +1,1 @@
+# OS / editor\n.DS_Store\nThumbs.db\n*.swp\n\n# Node / toolchain scratch\nnode_modules/\ndist/\n\n# Local scratch\n*.tmp\n*.bak\n~$*\n
