@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](05-3d-textures-hdri.md) · [🇬🇧 English](05-3d-textures-hdri.en.md)
+
 # 05 · 3D 模型 / 贴图 / HDRI 与纹理（3D & Textures & HDRI）
 
 > 做渲染、Blender 练习、游戏场景、元宇宙项目时的素材来源。

@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](08-pixel-game-assets.md) · [🇬🇧 English](08-pixel-game-assets.en.md)
+
 # 08 · 像素风与游戏美术（Pixel Art & Game Assets & UI Kit）
 
 > 做游戏原型、独立游戏、像素风设计的美术素材，以及占位图服务。

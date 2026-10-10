@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
+  <img alt="Awesome Open Assets" src="assets/logo.svg" width="96" height="96">
+</p>
+
+<p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-392-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-378-blue">
+  <img alt="Categories" src="https://img.shields.io/badge/categories-17-blue">
   <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20zh--TW%20%7C%20en-informational">
+  <img alt="Live Site" src="https://img.shields.io/badge/live%20site-github.io-brightgreen">
   <img alt="Updated" src="https://img.shields.io/badge/updated-2026--10-success">
 </p>
 
@@ -16,20 +22,34 @@
 > 🌏 全球開源 / 免費可商用素材資源的分類索引 — Curated index of openly-licensed assets for creators & developers.
 > 逐條標註**許可條款、可否商用、是否需署名**，拿來就能用，不用擔心版權地雷。
 
-**收錄規模**：**392 個站點 / 專案**（01–17 類）+ 2 篇授權速查 ｜ **更新時間**：2026-10 ｜ **維護狀態**：持續更新中
+**收錄規模**：**378 個資源條目**（01–16 類）+ **2 篇授權指南**（10、17）｜ **17 個分類** ｜ **更新時間**：2026-10 ｜ **維護狀態**：持續更新中
 
-覆蓋 **圖片 · 影片 · 音訊 · 字型 · 動效 · 3D · 遊戲美術 · 配色 · 工具鏈** 九大領域。
+覆蓋 **圖片 · 影片 · 音訊 · 字型 · 動效 · 3D · 遊戲美術 · 配色 · 工具鏈** 九大領域，並提供**簡體中文 / 繁體中文 / English** 三語文件與雙語線上展示站點。
 
 ## 目錄導航
 
+- [🌐 線上展示站點](#線上展示站點)
 - [為什麼叫這個名字](#為什麼叫這個名字)
 - [快速推薦（按場景速查）](#快速推薦按場景速查)
 - [分類目錄](#分類目錄)
 - [表格欄位說明](#表格欄位說明)
+- [多語言與專案結構](#多語言與專案結構)
 - [使用姿勢建議](#使用姿勢建議)
 - [貢獻與維護](#貢獻與維護)
 - [免責宣告](#免責宣告)
 - [License](#license)
+
+---
+
+## 🌐 線上展示站點
+
+除了 Markdown 文件，本專案還提供一個**零依賴的純靜態展示站點**，支援中英文一鍵切換、明暗雙主題、實時搜尋與「分類 / 許可」篩選，適合直接分享給團隊或作為內部素材中臺入口：
+
+- **GitHub Pages 線上版**：https://guolios.github.io/awesome-open-assets/
+- **站點原始碼**：[`index.html`](index.html) · [`assets/`](assets/)（樣式表、互動指令碼與資料來源）
+- **資料來源**：由 [`tools/build_data.py`](tools/build_data.py) 從 `docs/` 文件解析生成 [`assets/data.js`](assets/data.js)；**文件是唯一真相來源**，改完文件重跑指令碼即可讓站點同步，永不脫節
+
+> 站點讀取的是 `assets/data.js`（全域性變數），因此既能部署到 GitHub Pages，也能直接雙擊 `index.html` 本地開啟，無需構建步驟。
 
 ---
 
@@ -74,7 +94,7 @@
 
 ## 分類目錄
 
-### 📷 圖片與視覺（01–10，共 150 條）
+### 📷 圖片與視覺（01–09，共 136 條；10 為授權指南）
 
 | # | 分類 | 檔案 | 條目數 |
 | --- | --- | --- | --- |
@@ -89,7 +109,7 @@
 | 09 | 圖片處理與最佳化工具 Processing & Tooling | [docs/09-image-tooling.md](docs/09-image-tooling.md) | 14 |
 | 10 | 📕 授權速查與常見坑 License Basics | [docs/10-licenses.md](docs/10-licenses.md) | 14 |
 
-### 🎬 多媒體（11–17，其中 11–16 共 242 條，17 為授權知識篇）
+### 🎬 多媒體（11–16，共 242 條；17 為授權指南）
 
 | # | 分類 | 檔案 | 條目數 |
 | --- | --- | --- | --- |
@@ -103,6 +123,42 @@
 
 > 10 與 17 是**授權知識篇**（條款速查 + 避坑清單），不計入資源條目數。
 > 10 講通用條款（CC / MIT / OFL / Apache 等），17 講多媒體領域特有的雷區（權利分層、字型舉證、Lottie 第三方 IP 等）。
+
+---
+
+## 多語言與專案結構
+
+本專案刻意做成了**多語言、規範化**的結構，方便國際協作者與長期維護：
+
+**語言覆蓋**
+- 倉庫主頁與說明文件提供 **簡體中文 / 繁體中文 / English** 三版：`README.md` · `README.zh-TW.md` · `README.en.md`，頂部互相切換。
+- 每個分類文件都有中英雙語伴侶：中文 `docs/01-stock-photos.md` ↔ 英文 `docs/01-stock-photos.en.md`（頂部均有語言切換行）。
+- 線上站點內建語言開關（中文 / EN）與明暗主題，偏好記憶在瀏覽器本地。
+
+**目錄結構**
+
+```
+awesome-open-assets/
+├── index.html            # 雙語展示站點（可直接 GitHub Pages 部署）
+├── assets/
+│   ├── style.css         # 站點樣式（明暗雙主題）
+│   ├── app.js            # 站點邏輯（搜尋 / 篩選 / 語言切換）
+│   ├── data.js           # 由工具自動生成的結構化資料來源（請勿手改）
+│   └── logo.svg          # 專案 Logo / favicon
+├── docs/                 # 17 個分類文件（中文 .md + 英文 .en.md）
+│   ├── 01-stock-photos.md
+│   ├── 01-stock-photos.en.md
+│   └── …（依此類推）
+├── tools/
+│   └── build_data.py     # 解析 docs/ 生成 assets/data.js 的單一資料來源指令碼
+├── README.md             # 簡體中文（預設）
+├── README.zh-TW.md       # 繁體中文
+├── README.en.md          # English
+├── CONTRIBUTING.md
+└── LICENSE               # CC BY 4.0 全文
+```
+
+> 命名約定：檔名保持英文（對 URL 與跨平臺最友好），**語言差異放在內容上**——這正是大廠開源專案（如 Google / Vercel 出品）的通用做法。
 
 ---
 
@@ -144,6 +200,12 @@
 ```
 | 名稱 | URL | 許可 | 免費商用 | 署名 | 需註冊 | 地區 | 一句話特色 | GitHub |
 ```
+
+協作約定：
+
+- **雙語同步**：新增或修改資源時，請同步更新對應的英文伴侶檔案（`docs/XX-*.en.md`），保持中文與英文行一一對應。
+- **再生資料來源**：文件改完後執行 `python3 tools/build_data.py`，會自動更新 `assets/data.js`，站點隨之同步——請勿手改 `assets/data.js`。
+- 每個分類文件頂部都有語言切換行，修改時注意不要破壞它。
 
 收錄標準：
 

@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](17-media-licenses.md) · [🇬🇧 English](17-media-licenses.en.md)
+
 # 17 · 多媒体授权速查与常见坑（Media License Basics）
 
 > 视频、音频、字体、动效各自有自己的坑。这一篇与 [10 · 授权速查](10-licenses.md) 配合使用：

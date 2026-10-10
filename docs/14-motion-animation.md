@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](14-motion-animation.md) · [🇬🇧 English](14-motion-animation.en.md)
+
 # 14 · 动效与 UI 动画（Motion & Animation）
 
 > Lottie、动画图标、加载动效与 GIF 素材。

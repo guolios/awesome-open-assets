@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Awesome Open Assets · 全球开源素材资源导航</title>
+  <meta name="description" content="精选 378+ 全球开源 / CC 授权素材资源：图片、视频、音频、字体、3D、动效、配色与工具链，逐条标注许可与商用可行性。" />
+  <link rel="icon" type="image/svg+xml" href="assets/logo.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <!-- 顶部导航 -->
+  <header class="nav" id="nav">
+    <div class="nav-inner">
+      <a class="brand" href="#top" aria-label="Awesome Open Assets">
+        <img src="assets/logo.svg" alt="" class="brand-logo" width="34" height="34" />
+        <span class="brand-name">Awesome<span class="brand-accent">OpenAssets</span></span>
+      </a>
+      <nav class="nav-actions">
+        <div class="seg" id="langSwitch" role="group" aria-label="Language">
+          <button data-lang="zh" class="seg-btn is-active">中文</button>
+          <button data-lang="en" class="seg-btn">EN</button>
+        </div>
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle theme" title="切换明暗主题">
+          <span class="theme-icon">🌙</span>
+        </button>
+        <a class="ghost-btn" id="ghLink" href="https://github.com/guolios/awesome-open-assets" target="_blank" rel="noopener">GitHub ↗</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="hero-glow"></div>
+      <div class="hero-inner">
+        <span class="hero-badge" id="heroBadge">CC BY 4.0 · 持续更新</span>
+        <h1 class="hero-title" id="heroTitle">全球开源素材资源导航</h1>
+        <p class="hero-sub" id="heroSub">精选 378+ 个全球开源 / CC 授权素材：图片、视频、音频、字体、3D、动效、配色与工具链，逐条标注许可与商用可行性。</p>
+        <div class="hero-stats" id="heroStats"></div>
+        <div class="hero-cta">
+          <a class="primary-btn" id="ctaRepo" href="https://github.com/guolios/awesome-open-assets" target="_blank" rel="noopener">在 GitHub 查看仓库 ↗</a>
+          <a class="secondary-btn" id="ctaDocs" href="https://github.com/guolios/awesome-open-assets#readme" target="_blank" rel="noopener">阅读说明文档</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 工具栏 -->
+    <section class="toolbar" id="toolbar">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="search" class="search-input" placeholder="搜索名称、特色、许可……" autocomplete="off" />
+      </div>
+      <div class="filter-row">
+        <div class="chips" id="catChips" aria-label="按分类筛选"></div>
+      </div>
+      <div class="filter-row">
+        <div class="chips license-chips" id="licenseChips" aria-label="按许可筛选"></div>
+        <span class="result-count" id="resultCount"></span>
+      </div>
+    </section>
+
+    <!-- 结果 -->
+    <section class="results" id="results" aria-live="polite"></section>
+
+    <p class="empty" id="emptyState" hidden>没有匹配的资源，换个关键词试试。</p>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <div>
+        <strong id="footTitle">Awesome Open Assets</strong>
+        <p class="foot-note" id="footNote">一个持续维护的开源素材收藏清单。所有条目均经人工核实许可与存活性，正式取用前请再次确认。</p>
+      </div>
+      <div class="foot-meta">
+        <span id="footLicense">基于 CC BY 4.0 授权</span>
+        <a href="https://github.com/guolios/awesome-open-assets" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://github.com/guolios/awesome-open-assets#readme" target="_blank" rel="noopener">文档</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](09-image-tooling.md) · [🇬🇧 English](09-image-tooling.en.md)
+
 # 09 · 图片处理与优化工具（Processing & Optimization & Tooling）
 
 > 这一篇不是素材站，而是**处理素材的开源工具**：压缩、转码、格式转换、CDN 图床。

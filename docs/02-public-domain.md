@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](02-public-domain.md) · [🇬🇧 English](02-public-domain.en.md)
+
 # 02 · 公共领域与机构典藏（Public Domain & Cultural Heritage）
 
 > 博物馆、图书馆、航天机构开放的馆藏扫描件，**多为 CC0 或公有领域，是授权最干净的一档素材**。

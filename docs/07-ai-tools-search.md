@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](07-ai-tools-search.md) · [🇬🇧 English](07-ai-tools-search.en.md)
+
 # 07 · AI 工具与授权搜索引擎（AI Image Tools & Search Engines）
 
 > 两类东西混在这一篇：**① 跨平台搜 CC 授权素材的聚合搜索引擎**；**② 开源可自部署的图片生成模型与 AI 处理工具**。

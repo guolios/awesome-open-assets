@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](11-video-footage.md) · [🇬🇧 English](11-video-footage.en.md)
+
 # 11 · 开源视频素材（Video Footage）
 
 > 分两节：**11.1 免费可商用视频站**（拿来就能剪）、**11.2 机构与公共领域影音档案**（授权最干净的历史/航天/政府影像）。

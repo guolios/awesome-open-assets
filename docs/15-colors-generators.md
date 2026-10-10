@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](15-colors-generators.md) · [🇬🇧 English](15-colors-generators.en.md)
+
 # 15 · 配色、渐变与背景生成器（Colors, Gradients & Backgrounds）
 
 > 分两节：**15.1 配色与渐变工具**、**15.2 SVG 背景/纹理/分隔素材**。

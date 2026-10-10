@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](01-stock-photos.md) · [🇬🇧 English](01-stock-photos.en.md)
+
 # 01 · 综合免费图库（Stock Photos）
 
 > CC0 或自有宽松许可的高质量照片，**大部分可直接商用且无需署名**。

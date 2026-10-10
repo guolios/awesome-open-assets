@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](04-icons.md) · [🇬🇧 English](04-icons.en.md)
+
 # 04 · 图标资源（Icons）
 
 > 这一类是整个仓库里**授权最省心的一档**：图标库几乎全部采用 MIT / ISC / Apache-2.0 / CC0，免署名即可商用。

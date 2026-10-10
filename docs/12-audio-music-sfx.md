@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](12-audio-music-sfx.md) · [🇬🇧 English](12-audio-music-sfx.en.md)
+
 # 12 · 开源音频与音乐（Audio, Music & SFX）
 
 > 分两节：**12.1 免费音乐与音效**（配乐、环境音、采样包）、**12.2 开放音频数据集**（有声书、语音、环境音分类，多为研究授权）。

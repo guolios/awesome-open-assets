@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](06-emoji-avatars.md) · [🇬🇧 English](06-emoji-avatars.en.md)
+
 # 06 · Emoji 与头像（Emoji & Avatars）
 
 > 表情图标与占位头像。**这一类的授权陷阱最多**——Emoji 图形与代码常常是两套不同的 license，

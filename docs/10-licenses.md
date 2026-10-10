@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](10-licenses.md) · [🇬🇧 English](10-licenses.en.md)
+
 # 10 · 授权速查与常见坑（License Basics）
 
 > 这是整个仓库最该先读的一篇。**"免费下载"≠"可以商用"≠"可以不署名"**，三件事互不相等。

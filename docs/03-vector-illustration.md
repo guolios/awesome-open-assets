@@ -1,3 +1,5 @@
+> 🌐 Language: [简体中文](03-vector-illustration.md) · [🇬🇧 English](03-vector-illustration.en.md)
+
 # 03 · 矢量图与插画（Vector & Illustration）
 
 > 扁平风插画、可改色矢量人物、UI 场景包。做落地页 hero 图、空状态、App 引导页的上手素材。
