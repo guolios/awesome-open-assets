@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="README.md"><b>简体中文</b></a> ·
+  <a href="README.zh-TW.md">繁體中文</a> ·
+  <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-392-blue">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20zh--TW%20%7C%20en-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/updated-2026--10-success">
+</p>
+
 # Awesome Open Assets · 开源素材资源导航
 
 > 🌏 全球开源 / 免费可商用素材资源的分类索引 — Curated index of openly-licensed assets for creators & developers.
@@ -6,6 +19,17 @@
 **收录规模**：**392 个站点 / 项目**（01–17 类）+ 2 篇授权速查 ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
 
 覆盖 **图片 · 视频 · 音频 · 字体 · 动效 · 3D · 游戏美术 · 配色 · 工具链** 九大领域。
+
+## 目录导航
+
+- [为什么叫这个名字](#为什么叫这个名字)
+- [快速推荐（按场景速查）](#快速推荐按场景速查)
+- [分类目录](#分类目录)
+- [表格字段说明](#表格字段说明)
+- [使用姿势建议](#使用姿势建议)
+- [贡献与维护](#贡献与维护)
+- [免责声明](#免责声明)
+- [License](#license)
 
 ---
 
@@ -48,7 +72,7 @@
 
 ---
 
-## 目录
+## 分类目录
 
 ### 📷 图片与视觉（01–10，共 150 条）
 
@@ -65,7 +89,7 @@
 | 09 | 图片处理与优化工具 Processing & Tooling | [docs/09-image-tooling.md](docs/09-image-tooling.md) | 14 |
 | 10 | 📕 授权速查与常见坑 License Basics | [docs/10-licenses.md](docs/10-licenses.md) | 14 |
 
-### 🎬 多媒体（11–17，共 150 条）
+### 🎬 多媒体（11–17，其中 11–16 共 242 条，17 为授权知识篇）
 
 | # | 分类 | 文件 | 条目数 |
 | --- | --- | --- | --- |
@@ -115,7 +139,7 @@
 
 ## 贡献与维护
 
-新增或修改条目时，请保持表格格式一致，并优先补充以下字段：
+欢迎补充新的开源 / 免费可商用素材站。提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)，并保持表格格式一致：
 
 ```
 | 名称 | URL | 许可 | 免费商用 | 署名 | 需注册 | 地区 | 一句话特色 | GitHub |
@@ -125,7 +149,7 @@
 
 - ✅ 必须是**真实可访问**的站点或开源仓库（提交前请点开确认）
 - ✅ 授权条款**明示**，且至少部分内容可免费商用
-- ✅ feature 用不上的话宁缺毋滥，不要凑数
+- ✅ 用不上的话宁缺毋滥，不要凑数
 - ❌ 已关站、已转纯付费、条款不明的，请移除并在 PR 中说明原因
 
 > 发现失效链接欢迎提 Issue。
