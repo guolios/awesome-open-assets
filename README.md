@@ -3,7 +3,7 @@
 > 🌏 全球开源 / 免费可商用素材资源的分类索引 — Curated index of openly-licensed assets for creators & developers.
 > 逐条标注**许可条款、可否商用、是否需署名**，拿来就能用，不用担心版权地雷。
 
-**收录规模**：**300 个站点 / 项目**（01–16 类）+ 2 篇授权速查 ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
+**收录规模**：**392 个站点 / 项目**（01–17 类）+ 2 篇授权速查 ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
 
 覆盖 **图片 · 视频 · 音频 · 字体 · 动效 · 3D · 游戏美术 · 配色 · 工具链** 九大领域。
 
@@ -36,6 +36,7 @@
 | 找一段配乐或音效 | [Pixabay Music](https://pixabay.com/music/) · [Mixkit Music](https://mixkit.co/free-stock-music/) · [Freesound](https://freesound.org/) | 前两个免署名；Freesound 记得用 License 过滤掉 NC |
 | 找一支能商用的字体 | [Google Fonts](https://fonts.google.com/) · [思源黑体](https://github.com/adobe-fonts/source-han-sans) · [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | SIL OFL 1.1，可嵌入、可改、免署名 |
 | 找一支能商用的**中文**字体 | [阿里巴巴普惠体 3.0](https://www.alibabafonts.com/) · [站酷 8 款](https://www.zcool.com.cn/special/zcoolfonts/) · [得意黑](https://github.com/atelier-anchor/smiley-sans) | OFL 或厂商明示免费商用，注意站酷禁改名 |
+| 找蒙古文 / 藏文 / 梵文 / 阿拉伯文等多语种字体 | [Noto Fonts](https://fonts.google.com/noto) · [BabelStone](https://babelstone.co.uk/Fonts/) · [SIL 字体库](https://software.sil.org/fonts/) | 多语支系多为 OFL；注意竖排蒙古文与 RTL 文字方向 |
 | 给页面加动画 / Lottie | [lottie-web](https://github.com/airbnb/lottie-web) · [UseAnimations](https://useanimations.com/) · [Lordicon](https://lordicon.com/) | 运行时全 MIT；Lordicon 免费档可商用但须署名 |
 | 找历史 / 航天 / 政府影像 | [NASA Images](https://images.nasa.gov) · [美国国家档案馆](https://catalog.archives.gov/) · [Internet Archive](https://archive.org/details/movies) | 多为公有领域，但须看单条 Rights Statement |
 | 给项目配图标 | [Lucide](https://lucide.dev) · [Tabler Icons](https://tabler.io/icons) · [Iconify](https://iconify.design) | MIT / ISC，1700–6200+ 图标，免署名 |
@@ -70,7 +71,7 @@
 | --- | --- | --- | --- |
 | 11 | 开源视频素材 Video Footage | [docs/11-video-footage.md](docs/11-video-footage.md) | 23 |
 | 12 | 开源音频与音乐 Audio, Music & SFX | [docs/12-audio-music-sfx.md](docs/12-audio-music-sfx.md) | 28 |
-| 13 | 开源字体 Fonts | [docs/13-fonts.md](docs/13-fonts.md) | 47 |
+| 13 | 开源字体 Fonts（含英/中/少数民族/梵文/泰文/阿拉伯/西里尔等） | [docs/13-fonts.md](docs/13-fonts.md) | 139 |
 | 14 | 动效与 UI 动画 Motion & Animation | [docs/14-motion-animation.md](docs/14-motion-animation.md) | 14 |
 | 15 | 配色 / 渐变 / 背景生成器 Colors & Generators | [docs/15-colors-generators.md](docs/15-colors-generators.md) | 22 |
 | 16 | 音视频处理开源工具 Media Tooling | [docs/16-media-tooling.md](docs/16-media-tooling.md) | 16 |
