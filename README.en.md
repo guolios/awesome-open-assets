@@ -1,6 +1,5 @@
 <p align="center">
   <a href="README.md">简体中文</a> ·
-  <a href="README.zh-TW.md">繁體中文</a> ·
   <a href="README.en.md"><b>English</b></a>
 </p>
 
@@ -10,9 +9,9 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-378-blue">
-  <img alt="Categories" src="https://img.shields.io/badge/categories-17-blue">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20zh--TW%20%7C%20en-informational">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-511-blue">
+  <img alt="Categories" src="https://img.shields.io/badge/categories-29-blue">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20en-informational">
   <img alt="Live Site" src="https://img.shields.io/badge/live%20site-github.io-brightgreen">
   <img alt="Updated" src="https://img.shields.io/badge/updated-2026--10-success">
 </p>
@@ -22,9 +21,9 @@
 > 🌏 A categorized index of open-source / free-for-commercial-use assets worldwide — Curated index of openly-licensed assets for creators & developers.
 > Every entry is annotated with **license terms, commercial-use permission, and attribution requirements**, so you can grab and use them without worrying about copyright landmines.
 
-**Scope**: **378 resource entries** (categories 01–16) + **2 license guides** (10, 17) ｜ **17 categories** ｜ **Last updated**: 2026-10 ｜ **Maintenance**: actively maintained
+**Scope**: **378 resource entries** (categories 01–27) + **2 license guides** (28, 29) ｜ **29 categories** ｜ **Last updated**: 2026-10 ｜ **Maintenance**: actively maintained
 
-Covers nine major domains — **images · video · audio · fonts · motion · 3D · game art · color palettes · tooling** — and provides documentation in **Simplified Chinese / Traditional Chinese / English** plus a bilingual live showcase site.
+Covers nine major domains — **images · video · audio · fonts · motion · 3D · game art · color palettes · tooling** — and provides documentation in **Simplified Chinese / English** plus a bilingual live showcase site.
 
 ## Table of Contents
 
@@ -33,7 +32,7 @@ Covers nine major domains — **images · video · audio · fonts · motion · 3
 - [Quick Picks (by Scenario)](#quick-picks-by-scenario)
 - [Category Index](#category-index)
 - [Table Field Reference](#table-field-reference)
-- [Multilingual & Project Structure](#multilingual--project-structure)
+- [Bilingual & Project Structure](#bilingual--project-structure)
 - [Usage Tips](#usage-tips)
 - [Contributing & Maintenance](#contributing--maintenance)
 - [Disclaimer](#disclaimer)
@@ -124,12 +123,12 @@ This repository is a **long-term asset ledger**, so the naming deliberately leav
 
 ---
 
-## Multilingual & Project Structure
+## Bilingual & Project Structure
 
-This project is deliberately structured to be **multilingual and standardized**, making it easy for international collaborators and long-term maintenance:
+This project is deliberately structured to be **bilingual and standardized**, making it easy for international collaborators and long-term maintenance:
 
 **Language Coverage**
-- The repo homepage and docs are available in **Simplified Chinese / Traditional Chinese / English**: `README.md` · `README.zh-TW.md` · `README.en.md`, switchable from the top.
+- The repo homepage and docs are available in **Simplified Chinese / English**: `README.md` · `README.en.md`, switchable from the top.
 - Every category doc has a bilingual companion: Chinese `docs/01-stock-photos.md` ↔ English `docs/01-stock-photos.en.md` (each has a language-switch line at the top).
 - The live site has a built-in language toggle (中文 / EN) and light/dark theme, with preferences stored locally in the browser.
 
@@ -150,7 +149,6 @@ awesome-open-assets/
 ├── tools/
 │   └── build_data.py     # Single-source script that parses docs/ to generate assets/data.js
 ├── README.md             # Simplified Chinese (default)
-├── README.zh-TW.md       # Traditional Chinese
 ├── README.en.md          # English
 ├── CONTRIBUTING.md
 └── LICENSE               # Full CC BY 4.0 text

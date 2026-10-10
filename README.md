@@ -1,6 +1,5 @@
 <p align="center">
   <a href="README.md"><b>简体中文</b></a> ·
-  <a href="README.zh-TW.md">繁體中文</a> ·
   <a href="README.en.md">English</a>
 </p>
 
@@ -10,9 +9,9 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-378-blue">
-  <img alt="Categories" src="https://img.shields.io/badge/categories-17-blue">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20zh--TW%20%7C%20en-informational">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-511-blue">
+  <img alt="Categories" src="https://img.shields.io/badge/categories-29-blue">
+  <img alt="Languages" src="https://img.shields.io/badge/languages-zh--CN%20%7C%20en-informational">
   <img alt="Live Site" src="https://img.shields.io/badge/live%20site-github.io-brightgreen">
   <img alt="Updated" src="https://img.shields.io/badge/updated-2026--10-success">
 </p>
@@ -22,18 +21,18 @@
 > 🌏 全球开源 / 免费可商用素材资源的分类索引 — Curated index of openly-licensed assets for creators & developers.
 > 逐条标注**许可条款、可否商用、是否需署名**，拿来就能用，不用担心版权地雷。
 
-**收录规模**：**378 个资源条目**（01–16 类）+ **2 篇授权指南**（10、17）｜ **17 个分类** ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
+**收录规模**：**511 个资源条目**（01–27 资源类）+ **2 篇授权指南**（28、29）｜ **29 个分类** ｜ **更新时间**：2026-10 ｜ **维护状态**：持续更新中
 
-覆盖 **图片 · 视频 · 音频 · 字体 · 动效 · 3D · 游戏美术 · 配色 · 工具链** 九大领域，并提供**简体中文 / 繁體中文 / English** 三语文档与双语在线展示站点。
+覆盖 **图片 · 视频 · 音频 · 字体 · 动效 · 3D · 游戏美术 · 配色 · 设计模板 · 公共领域艺术 · 工具链** 等领域，并提供**简体中文 / English** 双语文档与双语在线展示站点。
 
 ## 目录导航
 
 - [🌐 在线展示站点](#在线展示站点)
 - [为什么叫这个名字](#为什么叫这个名字)
 - [快速推荐（按场景速查）](#快速推荐按场景速查)
-- [分类目录](#分类目录)
+- [分类目录（七大专题）](#分类目录七大专题)
 - [表格字段说明](#表格字段说明)
-- [多语言与项目结构](#多语言与项目结构)
+- [双语与项目结构](#双语与项目结构)
 - [使用姿势建议](#使用姿势建议)
 - [贡献与维护](#贡献与维护)
 - [免责声明](#免责声明)
@@ -65,7 +64,7 @@
 
 > 一句话定位：**素材界的 Awesome List，中文优先，但资源站以全球为主。**
 
-> ✅ 这个命名已经兑现过一次：仓库最初只有图片类（150 条），如今视频、音频、字体、动效、配色、工具链全部并入同一套分类与字段体系，
+> ✅ 这个命名已经兑现过多次：仓库最初只有图片类（150 条），如今视频、音频、字体、动效、配色、工具链、设计模板、公共领域艺术全部并入同一套分类与字段体系，
 > **仓库名、Description、目录结构一个字都没改** —— 这就是当初不用 `awesome-free-images` 的原因。
 
 ---
@@ -79,12 +78,14 @@
 | 找一段能直接剪进片子的视频 | [Pexels Videos](https://www.pexels.com/videos/) · [Coverr](https://coverr.co/) · [Mixkit](https://mixkit.co/free-stock-video/) | 免署名，4K 为主，唯一禁令是不得打包转售 |
 | 找一段配乐或音效 | [Pixabay Music](https://pixabay.com/music/) · [Mixkit Music](https://mixkit.co/free-stock-music/) · [Freesound](https://freesound.org/) | 前两个免署名；Freesound 记得用 License 过滤掉 NC |
 | 找一支能商用的字体 | [Google Fonts](https://fonts.google.com/) · [思源黑体](https://github.com/adobe-fonts/source-han-sans) · [霞鹜文楷](https://github.com/lxgw/LxgwWenKai) | SIL OFL 1.1，可嵌入、可改、免署名 |
-| 找一支能商用的**中文**字体 | [阿里巴巴普惠体 3.0](https://www.alibabafonts.com/) · [站酷 8 款](https://www.zcool.com.cn/special/zcoolfonts/) · [得意黑](https://github.com/atelier-anchor/smiley-sans) | OFL 或厂商明示免费商用，注意站酷禁改名 |
 | 找蒙古文 / 藏文 / 梵文 / 阿拉伯文等多语种字体 | [Noto Fonts](https://fonts.google.com/noto) · [BabelStone](https://babelstone.co.uk/Fonts/) · [SIL 字体库](https://software.sil.org/fonts/) | 多语支系多为 OFL；注意竖排蒙古文与 RTL 文字方向 |
+| 找可直接套用的网页 / UI 模板 | [HTML5 UP](https://html5up.net) · [Start Bootstrap](https://startbootstrap.com) · [Figma Community](https://www.figma.com/community) | MIT/CCA 零署名，或社区海量 UI Kit |
+| 找演示 / 简历 / 社媒模板 | [SlidesCarnival](https://www.slidescarnival.com) · [SlidesMania](https://slidesmania.com) · [Canva](https://www.canva.com) | 无注册可商用，或免费档需署名 |
+| 找复古 / 公共领域艺术做设计 | [Met Museum Open Access](https://www.metmuseum.org/art/collection) · [Rijksmuseum](https://www.rijksmuseum.nl) · [Old Book Illustrations](https://www.oldbookillustrations.com) | 多为 CC0，做文创 / 海报极香 |
+| 找 3D 模型 / 扫描 | [Poly Pizza](https://poly.pizza) · [Quaternius](https://quaternius.com) · [Kenney](https://kenney.nl) | 全站 CC0 最省心 |
 | 给页面加动画 / Lottie | [lottie-web](https://github.com/airbnb/lottie-web) · [UseAnimations](https://useanimations.com/) · [Lordicon](https://lordicon.com/) | 运行时全 MIT；Lordicon 免费档可商用但须署名 |
 | 找历史 / 航天 / 政府影像 | [NASA Images](https://images.nasa.gov) · [美国国家档案馆](https://catalog.archives.gov/) · [Internet Archive](https://archive.org/details/movies) | 多为公有领域，但须看单条 Rights Statement |
 | 给项目配图标 | [Lucide](https://lucide.dev) · [Tabler Icons](https://tabler.io/icons) · [Iconify](https://iconify.design) | MIT / ISC，1700–6200+ 图标，免署名 |
-| 找扁平风插画 | [unDraw](https://undraw.co) · [Mixkit](https://mixkit.co) · [Open Peeps](https://www.openpeeps.com) | 可实时改主色，免署名可用 |
 | 做 3D / 渲染要贴图 HDRI | [Poly Haven](https://polyhaven.com) · [ambientCG](https://ambientcg.com) | 全站 CC0，PBR 材质最全 |
 | 做游戏原型要美术资源 | [Kenney](https://kenney.nl/assets) · [OpenGameArt](https://opengameart.org) · [Quaternius](https://quaternius.com) | Kenney 全 CC0 最省心 |
 | 一次搜遍所有 CC 授权素材 | [Openverse](https://openverse.org) | 聚合 8 亿+ 条，提供 API |
@@ -92,9 +93,11 @@
 
 ---
 
-## 分类目录
+## 分类目录（七大专题）
 
-### 📷 图片与视觉（01–09，共 136 条；10 为授权指南）
+全站按「专题」分七组，共 29 个分类（01–27 为资源类，28–29 为授权指南）。
+
+### 🎨 视觉素材（Visual Assets）· 01–10
 
 | # | 分类 | 文件 | 条目数 |
 | --- | --- | --- | --- |
@@ -102,36 +105,73 @@
 | 02 | 公共领域与机构典藏 Public Domain | [docs/02-public-domain.md](docs/02-public-domain.md) | 19 |
 | 03 | 矢量图与插画 Vector & Illustration | [docs/03-vector-illustration.md](docs/03-vector-illustration.md) | 15 |
 | 04 | 图标资源 Icons | [docs/04-icons.md](docs/04-icons.md) | 18 |
-| 05 | 3D / 贴图 / HDRI 与纹理 3D & Textures | [docs/05-3d-textures-hdri.md](docs/05-3d-textures-hdri.md) | 11 |
-| 06 | Emoji 与头像 Emoji & Avatars | [docs/06-emoji-avatars.md](docs/06-emoji-avatars.md) | 9 |
-| 07 | AI 工具与授权搜索引擎 AI & Search | [docs/07-ai-tools-search.md](docs/07-ai-tools-search.md) | 12 |
-| 08 | 像素风与游戏美术 Pixel Art & Game Assets | [docs/08-pixel-game-assets.md](docs/08-pixel-game-assets.md) | 12 |
-| 09 | 图片处理与优化工具 Processing & Tooling | [docs/09-image-tooling.md](docs/09-image-tooling.md) | 14 |
-| 10 | 📕 授权速查与常见坑 License Basics | [docs/10-licenses.md](docs/10-licenses.md) | 14 |
+| 05 | Emoji 与头像 Emoji & Avatars | [docs/05-emoji-avatars.md](docs/05-emoji-avatars.md) | 9 |
+| 06 | 公共领域艺术 / 复古插画 Public Domain Art | [docs/06-public-domain-art.md](docs/06-public-domain-art.md) | 12 |
+| 07 | 无缝图案与 2D 纹理 Patterns & Textures | [docs/07-patterns-textures.md](docs/07-patterns-textures.md) | 11 |
+| 08 | 数字绘画笔刷 Brushes | [docs/08-brushes.md](docs/08-brushes.md) | 11 |
+| 09 | 角色与 3D 形象 Characters & Avatars | [docs/09-characters-avatars.md](docs/09-characters-avatars.md) | 11 |
+| 10 | 像素风与游戏美术 Pixel Art & Game Assets | [docs/10-pixel-game-assets.md](docs/10-pixel-game-assets.md) | 12 |
 
-### 🎬 多媒体（11–16，共 242 条；17 为授权指南）
+### 🧊 3D 与空间（3D & Spatial）· 11–13
 
 | # | 分类 | 文件 | 条目数 |
 | --- | --- | --- | --- |
-| 11 | 开源视频素材 Video Footage | [docs/11-video-footage.md](docs/11-video-footage.md) | 23 |
-| 12 | 开源音频与音乐 Audio, Music & SFX | [docs/12-audio-music-sfx.md](docs/12-audio-music-sfx.md) | 28 |
-| 13 | 开源字体 Fonts（含英/中/少数民族/梵文/泰文/阿拉伯/西里尔等） | [docs/13-fonts.md](docs/13-fonts.md) | 139 |
-| 14 | 动效与 UI 动画 Motion & Animation | [docs/14-motion-animation.md](docs/14-motion-animation.md) | 14 |
-| 15 | 配色 / 渐变 / 背景生成器 Colors & Generators | [docs/15-colors-generators.md](docs/15-colors-generators.md) | 22 |
-| 16 | 音视频处理开源工具 Media Tooling | [docs/16-media-tooling.md](docs/16-media-tooling.md) | 16 |
-| 17 | 📕 多媒体授权速查与常见坑 Media License Basics | [docs/17-media-licenses.md](docs/17-media-licenses.md) | — |
+| 11 | 3D / 贴图 / HDRI 与纹理 3D & Textures | [docs/11-3d-textures-hdri.md](docs/11-3d-textures-hdri.md) | 11 |
+| 12 | 独立 3D 模型库 3D Models | [docs/12-3d-models.md](docs/12-3d-models.md) | 11 |
+| 13 | 开放扫描 / 摄影测量 Scans & Photogrammetry | [docs/13-scans-photogrammetry.md](docs/13-scans-photogrammetry.md) | 11 |
 
-> 10 与 17 是**授权知识篇**（条款速查 + 避坑清单），不计入资源条目数。
-> 10 讲通用条款（CC / MIT / OFL / Apache 等），17 讲多媒体领域特有的雷区（权利分层、字体举证、Lottie 第三方 IP 等）。
+### 🧩 设计模板（Design Templates）· 14–16
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 14 | 网页 / App / UI 模板与 UI Kit UI Templates | [docs/14-ui-templates.md](docs/14-ui-templates.md) | 11 |
+| 15 | 演示 / 简历 / 社媒模板 Document Templates | [docs/15-document-templates.md](docs/15-document-templates.md) | 11 |
+| 16 | 样机与品牌套件 Mockups & Brand Kits | [docs/16-mockups-brand.md](docs/16-mockups-brand.md) | 11 |
+
+### 🎬 动态与多媒体（Motion & Media）· 17–22
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 17 | 开源视频素材 Video Footage | [docs/17-video-footage.md](docs/17-video-footage.md) | 23 |
+| 18 | 开源音频与音乐 Audio, Music & SFX | [docs/18-audio-music-sfx.md](docs/18-audio-music-sfx.md) | 28 |
+| 19 | 动效与 UI 动画 Motion & Animation | [docs/19-motion-animation.md](docs/19-motion-animation.md) | 14 |
+| 20 | GIF / 动态贴纸 GIFs & Stickers | [docs/20-gifs-stickers.md](docs/20-gifs-stickers.md) | 11 |
+| 21 | 有声书 / 公共领域语音 Audiobooks & Voice | [docs/21-audiobooks-voice.md](docs/21-audiobooks-voice.md) | 11 |
+| 22 | 音乐分轨 / 循环 Stems & Loops | [docs/22-stems-loops.md](docs/22-stems-loops.md) | 11 |
+
+### 🔤 字体（Fonts）· 23
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 23 | 开源字体 Fonts（含英/中/少数民族/梵文/泰文/阿拉伯/西里尔等） | [docs/23-fonts.md](docs/23-fonts.md) | 139 |
+
+### 🛠 配色与工具（Colors & Tooling）· 24–27
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 24 | 配色 / 渐变 / 背景生成器 Colors & Generators | [docs/24-colors-generators.md](docs/24-colors-generators.md) | 22 |
+| 25 | AI 工具与授权搜索引擎 AI & Search | [docs/25-ai-tools-search.md](docs/25-ai-tools-search.md) | 12 |
+| 26 | 图片处理与优化工具 Image Tooling | [docs/26-image-tooling.md](docs/26-image-tooling.md) | 14 |
+| 27 | 音视频处理开源工具 Media Tooling | [docs/27-media-tooling.md](docs/27-media-tooling.md) | 16 |
+
+### 📕 指南（Guides）· 28–29
+
+| # | 分类 | 文件 | 条目数 |
+| --- | --- | --- | --- |
+| 28 | 📕 授权速查与常见坑 License Basics | [docs/28-licenses.md](docs/28-licenses.md) | 指南 |
+| 29 | 📕 多媒体授权速查与常见坑 Media License Basics | [docs/29-media-licenses.md](docs/29-media-licenses.md) | 指南 |
+
+> 28 与 29 是**授权知识篇**（条款速查 + 避坑清单），不计入资源条目数。
+> 28 讲通用条款（CC / MIT / OFL / Apache 等），29 讲多媒体领域特有的雷区（权利分层、字体举证、Lottie 第三方 IP 等）。
 
 ---
 
-## 多语言与项目结构
+## 双语与项目结构
 
-本项目刻意做成了**多语言、规范化**的结构，方便国际协作者与长期维护：
+本项目刻意做成了**中英双语、规范化**的结构，方便国际协作者与长期维护：
 
 **语言覆盖**
-- 仓库主页与说明文档提供 **简体中文 / 繁體中文 / English** 三版：`README.md` · `README.zh-TW.md` · `README.en.md`，顶部互相切换。
+- 仓库主页与说明文档提供 **简体中文 / English** 两版：`README.md` · `README.en.md`，顶部互相切换。
 - 每个分类文档都有中英双语伴侣：中文 `docs/01-stock-photos.md` ↔ 英文 `docs/01-stock-photos.en.md`（顶部均有语言切换行）。
 - 在线站点内置语言开关（中文 / EN）与明暗主题，偏好记忆在浏览器本地。
 
@@ -142,17 +182,13 @@ awesome-open-assets/
 ├── index.html            # 双语展示站点（可直接 GitHub Pages 部署）
 ├── assets/
 │   ├── style.css         # 站点样式（明暗双主题）
-│   ├── app.js            # 站点逻辑（搜索 / 筛选 / 语言切换）
+│   ├── app.js            # 站点逻辑（搜索 / 筛选 / 语言切换 / 专题分组）
 │   ├── data.js           # 由工具自动生成的结构化数据源（请勿手改）
 │   └── logo.svg          # 项目 Logo / favicon
-├── docs/                 # 17 个分类文档（中文 .md + 英文 .en.md）
-│   ├── 01-stock-photos.md
-│   ├── 01-stock-photos.en.md
-│   └── …（依此类推）
+├── docs/                 # 29 个分类文档（中文 .md + 英文 .en.md）
 ├── tools/
 │   └── build_data.py     # 解析 docs/ 生成 assets/data.js 的单一数据源脚本
 ├── README.md             # 简体中文（默认）
-├── README.zh-TW.md       # 繁體中文
 ├── README.en.md          # English
 ├── CONTRIBUTING.md
 └── LICENSE               # CC BY 4.0 全文
@@ -189,7 +225,7 @@ awesome-open-assets/
 7. **数据集默认只给研究用途** — 含 NC / -SA 的数据集（ESC-50、UrbanSound8K 等）用于训练商业模型已超范围。
 8. **绝不用素材搭素材站竞品** — 这是所有平台共通的明文禁令，也是被起诉概率最高的一条。
 
-详见 [10 · 授权速查](docs/10-licenses.md) 与 [17 · 多媒体授权速查](docs/17-media-licenses.md)。
+详见 [28 · 授权速查](docs/28-licenses.md) 与 [29 · 多媒体授权速查](docs/29-media-licenses.md)。
 
 ---
 
@@ -198,7 +234,7 @@ awesome-open-assets/
 欢迎补充新的开源 / 免费可商用素材站。提交前请阅读 [CONTRIBUTING.md](CONTRIBUTING.md)，并保持表格格式一致：
 
 ```
-| 名称 | URL | 许可 | 免费商用 | 署名 | 需注册 | 地区 | 一句话特色 | GitHub |
+| 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 ```
 
 协作约定：

@@ -20,6 +20,25 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, "docs")
 OUT = os.path.join(ROOT, "assets", "data.js")
 
+# 专题分组：编号 -> (中文, 英文)，供站点按专题分区展示
+def group_of(cid):
+    n = int(cid) if cid.isdigit() else 0
+    if 1 <= n <= 10:
+        return ("视觉素材", "Visual Assets")
+    if 11 <= n <= 13:
+        return ("3D 与空间", "3D & Spatial")
+    if 14 <= n <= 16:
+        return ("设计模板", "Design Templates")
+    if 17 <= n <= 22:
+        return ("动态与多媒体", "Motion & Media")
+    if n == 23:
+        return ("字体", "Fonts")
+    if 24 <= n <= 27:
+        return ("配色与工具", "Colors & Tooling")
+    if 28 <= n <= 29:
+        return ("指南", "Guides")
+    return ("其他", "Other")
+
 # ---------- 工具函数 ----------
 
 def norm(s: str) -> str:
@@ -204,7 +223,7 @@ def main():
     # 中文文档（排除 .en.md）
     zh_files = sorted(
         f for f in os.listdir(DOCS)
-        if f.endswith(".md") and not f.endswith(".en.md") and f.startswith(("0", "1"))
+        if f.endswith(".md") and not f.endswith(".en.md") and f[0].isdigit()
     )
     categories = []
     resources = []
@@ -232,6 +251,7 @@ def main():
 
         count = len(zh["resources"])
         cat_type = "guide" if count == 0 else "resources"
+        gz, ge = group_of(zh["cid"])
         categories.append({
             "id": zh["cid"],
             "titleZh": zh["title"],
@@ -242,6 +262,8 @@ def main():
             "notesEn": notes_en,
             "count": count,
             "type": cat_type,
+            "groupZh": gz,
+            "groupEn": ge,
         })
 
         for r in zh["resources"]:
