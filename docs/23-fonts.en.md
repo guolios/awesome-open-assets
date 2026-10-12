@@ -81,7 +81,7 @@
 | 抖音美好体 / 字节字体合集 | https://github.com/bytedance/fonts | 字节免费商用声明（非开源协议） | ⚠️ | 视情况 | 否 | CN | ByteDance's free font collection ⚠️ verify | https://github.com/bytedance/fonts |
 | Noto Serif SC | https://fontsource.org/fonts/noto-serif-sc | SIL OFL 1.1 | ✅ | Not required | No | US | Google's release of Source Han Serif | https://github.com/notofonts/noto-cjk |
 | Sarasa Gothic | https://github.com/be5invis/Sarasa-Gothic | SIL OFL 1.1 | ✅ | Not required | No | CN | CJK family mixing Source Han and mono | https://github.com/be5invis/Sarasa-Gothic |
-| Glow Sans | https://github.com/max32002/Glow-Sans | SIL OFL 1.1 (Source Han derivative) | ✅ | Not required | No | CN | Screen-friendly Source Han variant | https://github.com/max32002/Glow-Sans |
+| Glow Sans | https://github.com/welai/glow-sans | SIL OFL 1.1 (Source Han derivative) | ✅ | Not required | No | CN | Screen-friendly Source Han variant | https://github.com/welai/glow-sans |
 | Fusion Pixel Font | https://github.com/TakWolf/fusion-pixel-font | SIL OFL 1.1 | ✅ | Not required | No | CN | Open-source pixel-style Chinese font | https://github.com/TakWolf/fusion-pixel-font |
 
 > **13.3 Selection Advice**
@@ -102,13 +102,13 @@ Covers Traditional Mongolian (vertical), Cyrillic Mongolian, Tibetan, Uyghur/Kaz
 | Noto Sans Mongolian | https://fontsource.org/fonts/noto-sans-mongolian | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Traditional Uyghur-style Mongolian vertical support | https://github.com/notofonts/mongolian |
 | Noto Serif Tibetan | https://fontsource.org/fonts/noto-serif-tibetan | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Tibetan serif for print and web | https://github.com/notofonts/tibetan |
 | Noto Sans Yi | https://fontsource.org/fonts/noto-sans-yi | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Yi (Nuosu) Unicode font | https://github.com/notofonts/yi |
-| Noto Sans Tai Tham | https://fontsource.org/fonts/noto-sans-tai-tham | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Tai Tham (Lanna) script support | https://github.com/notofonts/taitham |
-| Noto Sans Tai Le | https://fontsource.org/fonts/noto-sans-tai-le | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Tai Le (Dehong Dai) script support | https://github.com/notofonts/taile |
-| Noto Sans KR | https://fontsource.org/fonts/noto-sans-kr | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Korean sans-serif | https://github.com/notofonts/korean |
-| Jomolhari | https://fontsource.org/fonts/jomolhari | SIL OFL 1.1 | ✅ | 不需要 | 否 | BT / UK | Open-source Tibetan / Dzongkha font | https://github.com/googlefonts/jomolhari |
+| Noto Sans Tai Tham | https://fontsource.org/fonts/noto-sans-tai-tham | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Tai Tham (Lanna) script support | https://github.com/notofonts/tai-tham |
+| Noto Sans Tai Le | https://fontsource.org/fonts/noto-sans-tai-le | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Tai Le (Dehong Dai) script support | https://github.com/notofonts/tai-le |
+| Noto Sans KR | https://fontsource.org/fonts/noto-sans-kr | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Korean sans-serif | https://github.com/notofonts/noto-cjk |
+| Jomolhari | https://fontsource.org/fonts/jomolhari | SIL OFL 1.1 | ✅ | 不需要 | 否 | BT / UK | Open-source Tibetan / Dzongkha font | — |
 | Nuosu SIL | https://fontsource.org/fonts/nuosu-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Yi (Nuosu) font by SIL | — |
-| BabelStone Phags-pa | https://babelstone.co.uk/Fonts/Phags-pa/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Phags-pa Unicode font | — |
-| BabelStone Tibetan | https://babelstone.co.uk/Fonts/Tibetan/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Tibetan font with broad glyph coverage | — |
+| BabelStone Phags-pa | https://www.babelstone.co.uk/Fonts/Phags-pa.html | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Phags-pa Unicode font | — |
+| BabelStone Tibetan | https://www.babelstone.co.uk/Fonts/Tibetan.html | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Tibetan font with broad glyph coverage | — |
 | BabelStone Zanabazar Square | https://babelstone.co.uk/Fonts/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Mongolian square script (vertical) | — |
 | BabelStone Marchen | https://babelstone.co.uk/Fonts/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | UK | Marchen (Tibetan-derived) Unicode font | — |
 | UKIJ 系列（维吾尔 / 哈萨克 / 柯尔克孜） | https://ukij.org/ | 免费可商用（具体许可待确认） | ✅ | 不需要 | 否 | CN / 新疆 | Uyghur/Turkic Arabic-script fonts ⚠️ verify | https://github.com/Uyghur-Institute/Uyghur-Fonts-UKIJ |
@@ -116,7 +116,7 @@ Covers Traditional Mongolian (vertical), Cyrillic Mongolian, Tibetan, Uyghur/Kaz
 | Tibetan Machine Uni | https://sourceforge.net/projects/thdltools/ | GPL 1.0+（可商用） | ✅ | 需要 | 否 | US / THDL | Long-standing open-source Tibetan OpenType font | — |
 | DDC Uchen | https://www.dzongkha.gov.bt/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | BT | Bhutanese Dzongkha Tibetan-style font | — |
 | Qomolangma 藏文系列（珠峰） | https://www.yalasoo.com/ | 厂商免费下载（商用未明） | ⚠️ | 不需要 | 否 | CN | 17 free Tibetan fonts to download ⚠️ verify | — |
-| Noto Serif KR | https://fontsource.org/fonts/noto-serif-kr | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Korean serif | https://github.com/notofonts/korean |
+| Noto Serif KR | https://fontsource.org/fonts/noto-serif-kr | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Korean serif | https://github.com/notofonts/noto-cjk |
 | Gowun Batang | https://fonts.google.com/specimen/Gowun+Batang | SIL OFL 1.1 | ✅ | Not required | No | KR | Humanist Korean serif for text | — |
 
 ## 13.5 Devanagari / Indic Scripts (Devanagari / Bengali / Tamil / etc.)
@@ -174,7 +174,7 @@ Covers Thai, Khmer (Cambodia), Lao, and Myanmar (Burmese). Thai has **complex co
 | Kanit | https://fontsource.org/fonts/kanit | SIL OFL 1.1 | ✅ | 不需要 | 否 | TH | Compact Thai sans-serif | — |
 | Mitr | https://fontsource.org/fonts/mitr | SIL OFL 1.1 | ✅ | 不需要 | 否 | TH | Rounded Thai sans-serif | — |
 | Niramit | https://fontsource.org/fonts/niramit | SIL OFL 1.1 | ✅ | 不需要 | 否 | TH | Clear Thai body text | — |
-| Padauk | https://fontsource.org/fonts/padauk | SIL OFL 1.1 | ✅ | 不需要 | 否 | MM / SIL | SIL open-source Myanmar font | https://github.com/silnrsi/padauk |
+| Padauk | https://fontsource.org/fonts/padauk | SIL OFL 1.1 | ✅ | 不需要 | 否 | MM / SIL | SIL open-source Myanmar font | https://github.com/silnrsi/font-padauk |
 | Pyidaungsu | https://github.com/mcfnlp/Pyidaungsu | 自由许可（具体待确认） | ✅ | 不需要 | 否 | MM | Myanmar Unicode font ⚠️ verify | https://github.com/mcfnlp/Pyidaungsu |
 | Noto Serif Khmer | https://fontsource.org/fonts/noto-serif-khmer | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Khmer serif | https://github.com/notofonts/khmer |
 | Kantumruy | https://fontsource.org/fonts/kantumruy | SIL OFL 1.1 | ✅ | Not required | No | KH | Clean Khmer sans-serif | — |
@@ -188,9 +188,9 @@ Covers Arabic, Persian (Farsi), Urdu (Arabic-script variant), and Hebrew. Arabic
 | Noto Naskh Arabic | https://fontsource.org/fonts/noto-naskh-arabic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Arabic Naskh style | https://github.com/notofonts/arabic |
 | Noto Sans Arabic | https://fontsource.org/fonts/noto-sans-arabic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Arabic sans-serif | https://github.com/notofonts/arabic |
 | Noto Kufi Arabic | https://fontsource.org/fonts/noto-kufi-arabic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Arabic Kufi style | https://github.com/notofonts/arabic |
-| Amiri | https://fontsource.org/fonts/amiri | SIL OFL 1.1 | ✅ | 不需要 | 否 | EG | Arabic calligraphic serif | https://github.com/alif-type/amiri |
-| Scheherazade New | https://fontsource.org/fonts/scheherazade-new | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Arabic/Urdu font by SIL | https://github.com/silnrsi/scheherazade |
-| Lateef | https://fontsource.org/fonts/lateef | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Arabic/Urdu font by SIL | https://github.com/silnrsi/lateef |
+| Amiri | https://fontsource.org/fonts/amiri | SIL OFL 1.1 | ✅ | 不需要 | 否 | EG | Arabic calligraphic serif | https://github.com/aliftype/amiri |
+| Scheherazade New | https://fontsource.org/fonts/scheherazade-new | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Arabic/Urdu font by SIL | https://github.com/silnrsi/font-scheherazade |
+| Lateef | https://fontsource.org/fonts/lateef | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Arabic/Urdu font by SIL | https://github.com/silnrsi/font-lateef |
 | Reem Kufi | https://fontsource.org/fonts/reem-kufi | SIL OFL 1.1 | ✅ | 不需要 | 否 | EG | Modern Kufi Arabic | — |
 | Aref Ruqaa | https://fontsource.org/fonts/aref-ruqaa | SIL OFL 1.1 | ✅ | 不需要 | 否 | EG | Ruqaa style Arabic | — |
 | Cairo | https://fontsource.org/fonts/cairo | SIL OFL 1.1 | ✅ | 不需要 | 否 | EG | Arabic sans-serif | — |
@@ -205,7 +205,6 @@ Covers Arabic, Persian (Farsi), Urdu (Arabic-script variant), and Hebrew. Arabic
 | Assistant | https://fontsource.org/fonts/assistant | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | Hebrew sans-serif | — |
 | Heebo | https://fontsource.org/fonts/heebo | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | Modern Hebrew sans-serif | — |
 | David CLM | https://culmus.sourceforge.net/ | Culmus 自由许可（可商用） | ✅ | 不需要 | 否 | IL | Classic Hebrew serif (Culmus) | https://github.com/gooselinux/culmus-fonts |
-| Noto Serif Arabic | https://fontsource.org/fonts/noto-serif-arabic | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Arabic serif | https://github.com/notofonts/arabic |
 | Noto Nastaliq Urdu | https://fontsource.org/fonts/noto-nastaliq-urdu | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Urdu Nastaliq calligraphic style | — |
 
 ## 13.8 Cyrillic / Greek / African & Pacific Scripts (Cyrillic / Greek / Ethiopic / IPA)
@@ -218,16 +217,15 @@ Covers Cyrillic (Russian, etc.), Greek, the International Phonetic Alphabet (IPA
 | PT Serif | https://fontsource.org/fonts/pt-serif | ParaType 免费字体许可 | ✅ | 不需要 | 否 | RU | Serif with Cyrillic | — |
 | PT Mono | https://fontsource.org/fonts/pt-mono | ParaType 免费字体许可 | ✅ | 不需要 | 否 | RU | Monospace with Cyrillic | — |
 | Rubik | https://fontsource.org/fonts/rubik | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL / HU | Geometric sans with Cyrillic | — |
-| Andika | https://fontsource.org/fonts/andika | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Readable font with Cyrillic and IPA | https://github.com/silnrsi/andika |
-| Gentium Plus | https://fontsource.org/fonts/gentium-plus | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Latin + Greek + IPA academic font | https://github.com/silnrsi/gentium |
-| Gentium Book Plus | https://fontsource.org/fonts/gentium-book-plus | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Book edition of Gentium | https://github.com/silnrsi/gentium |
-| Charis SIL | https://fontsource.org/fonts/charis-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Latin + IPA newspaper serif | https://github.com/silnrsi/charis |
+| Andika | https://fontsource.org/fonts/andika | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Readable font with Cyrillic and IPA | https://github.com/silnrsi/font-andika |
+| Gentium Plus | https://fontsource.org/fonts/gentium-plus | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Latin + Greek + IPA academic font | https://github.com/silnrsi/font-gentium |
+| Gentium Book Plus | https://fontsource.org/fonts/gentium-book-plus | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Book edition of Gentium | https://github.com/silnrsi/font-gentium |
+| Charis SIL | https://fontsource.org/fonts/charis-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Latin + IPA newspaper serif | https://github.com/silnrsi/font-charis |
 | UnifrakturMaguntia | https://fontsource.org/fonts/unifrakturmaguntia | SIL OFL 1.1 | ✅ | 不需要 | 否 | DE | German blackletter (Fraktur) | — |
 | UnifrakturCook | https://fontsource.org/fonts/unifrakturcook | SIL OFL 1.1 | ✅ | 不需要 | 否 | DE | Bold German blackletter (Fraktur) | — |
 | Noto Sans Ethiopic | https://fontsource.org/fonts/noto-sans-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Amharic / Ge'ez | https://github.com/notofonts/ethiopic |
 | Noto Serif Ethiopic | https://fontsource.org/fonts/noto-serif-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Ethiopian serif | https://github.com/notofonts/ethiopic |
-| Abyssinica SIL | https://fontsource.org/fonts/abyssinica-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Ethiopian font by SIL | https://github.com/silnrsi/abyssinica |
-| Noto Sans Greek | https://fontsource.org/fonts/noto-sans-greek | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Greek sans-serif | — |
+| Abyssinica SIL | https://fontsource.org/fonts/abyssinica-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Ethiopian font by SIL | https://github.com/silnrsi/font-abyssinica |
 | Doulos SIL | https://software.sil.org/doulos/ | SIL OFL 1.1 | ✅ | Not required | No | US / SIL | Latin + IPA newspaper serif | — |
 
 > **Notes on multi-script fonts**

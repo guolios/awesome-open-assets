@@ -9,11 +9,11 @@
 
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Scan the World | https://www.myminifactory.com/scan-the-world | CC（多档） | ⚠️ | 视情况 | 是 | Global | 博物馆名作 3D 扫描归档 | — |
+| Scan the World | https://www.myminifactory.com/scantheworld/ | CC（多档） | ⚠️ | 视情况 | 是 | Global | 博物馆名作 3D 扫描归档 | — |
 | Smithsonian 3D | https://3d.si.edu | CC0 | ✅ | 不需要 | 否 | US | 史密森尼开放 3D 藏品 | — |
 | NIH 3D Print Exchange | https://3dprint.nih.gov | 公共领域 | ✅ | 不需要 | 否 | US | 生物 / 医学可打印 3D 模型 | — |
 | Open Heritage 3D | https://openheritage3d.org | CC | ⚠️ | 视情况 | 否 | Global | 文化遗产 3D 扫描归档 | — |
-| Threedscans | https://threedscans.com | CC（多为 CC0/PD） | ✅ | 不需要 | 否 | Global | 雕塑 / 文物高精扫描 | https://github.com/hughsk/threedscans |
+| Threedscans | https://threedscans.com | CC（多为 CC0/PD） | ✅ | 不需要 | 否 | Global | 雕塑 / 文物高精扫描 | — |
 | Google Arts & Culture 3D | https://artsandculture.google.com | 混合 | ⚠️ | 视情况 | 否 | Global | 文物 3D / 全景，逐条看 | — |
 | MorphoSource | https://www.morphosource.org | 研究用途（逐许可） | ⚠️ | 视情况 | 是 | US | 生物 / 解剖 3D 数据 | — |
 | 3D Scan Store 免费 | https://www.3dscanstore.com | 免费样本（逐款） | ⚠️ | 视情况 | 部分 | UK | 人体扫描免费样本 | — |
@@ -29,7 +29,7 @@
 | Rijksmuseum Rijksstudio | https://www.rijksmuseum.nl/en/rijksstudio | CC0 | ✅ | 不需要 | 部分 | NL | 荷兰国立博物馆开放藏品含 3D | — |
 | Smithsonian Open Access | https://www.si.edu/openaccess | CC0 | ✅ | 不需要 | 否 | US | 史密森尼开放数据含 3D 模型 | — |
 | NGA Open Access | https://www.nga.gov/open-access.html | CC0 | ✅ | 不需要 | 否 | US | 美国国家美术馆开放图像数据 | — |
-| ambientCG | https://ambientcg.com | CC0 | ✅ | 不需要 | 否 | Global | 照片扫描 CC0 PBR 与模型 | https://github.com/ambientCG |
+| ambientCG | https://ambientcg.com | CC0 | ✅ | 不需要 | 否 | Global | 照片扫描 CC0 PBR 与模型 | — |
 | openVertebrate (oVert) | https://www.morphosource.org | 研究用途（逐许可） | ⚠️ | 视情况 | 是 | US | 1.3 万脊椎动物 CT 扫描开放 | — |
 | British Museum 藏品 | https://www.britishmuseum.org/collection | CC BY-NC / 混合 | ⚠️ | 需要 | 否 | UK | 大英博物馆开放数字藏品 | — |
 | Europeana | https://www.europeana.eu | 混合（逐件） | ⚠️ | 视情况 | 部分 | EU | 欧洲文化遗产 3D 聚合门户 | — |

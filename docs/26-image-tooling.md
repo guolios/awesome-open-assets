@@ -25,11 +25,11 @@
 | images.weserv.nl | https://images.weserv.nl | 开源核心（weserv/images） | ⚠️ | 不需要 | 否 | NL / EU | 免搭建的开源图片处理 CDN ⚠️待核实 | https://github.com/weserv/images |
 | Pillow | https://python-pillow.org | MIT / HPND | ✅ | 不需要 | 否 | Global | Python 图像处理事实标准 | https://github.com/python-pillow/Pillow |
 | ImageSharp | https://sixlabors.com/products/imagesharp | Apache-2.0 | ⚠️ | 不需要 | 否 | Global | .NET 图像库，大营收需授权 | https://github.com/SixLabors/ImageSharp |
-| GraphicsMagick | http://www.graphicsmagick.org | MIT | ✅ | 不需要 | 否 | US | ImageMagick 精简高效分支 | https://github.com/GraphicsMagick/GraphicsMagick |
+| GraphicsMagick | http://www.graphicsmagick.org | MIT | ✅ | 不需要 | 否 | US | ImageMagick 精简高效分支 | — |
 | libpng | http://www.libpng.org | libpng / zlib | ✅ | 不需要 | 否 | Global | PNG 参考实现编解码库 | https://github.com/glennrp/libpng |
 | libheif | https://github.com/strukturag/libheif | LGPL-3.0 / MIT | ✅ | 不需要 | 否 | Global | HEIF/AVIF 编解码核心库 | https://github.com/strukturag/libheif |
 | libavif | https://github.com/AOMediaCodec/libavif | BSD-2-Clause | ✅ | 不需要 | 否 | US | AVIF 官方编解码库 | https://github.com/AOMediaCodec/libavif |
-| OptiPNG | https://optipng.sourceforge.net | zlib | ✅ | 不需要 | 否 | Global | PNG 无损再压缩优化 | https://github.com/optipng/optipng |
+| OptiPNG | https://optipng.sourceforge.net | zlib | ✅ | 不需要 | 否 | Global | PNG 无损再压缩优化 | — |
 | pngcrush | https://pmt.sourceforge.io/pngcrush | libpng / zlib | ✅ | 不需要 | 否 | Global | PNG 多策略压损优化器 | — |
 | gifsicle | https://www.lcdf.org/gifsicle | GPL-2.0 | ✅ | 不需要 | 否 | US | GIF 动图制作与优化 | https://github.com/kohler/gifsicle |
 | svgo | https://github.com/svg/svgo | MIT | ✅ | 不需要 | 否 | Global | SVG 矢量图无损优化 | https://github.com/svg/svgo |

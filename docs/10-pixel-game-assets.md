@@ -13,18 +13,18 @@
 | OpenGameArt.org | https://opengameart.org | 混合（CC0 / CC-BY / CC-BY-SA / OGA-BY / GPL / PD） | ✅ | 视情况 | 否 | Global | 游戏素材最大的开源库 | — |
 | Quaternius（Game Assets） | https://quaternius.com | CC0 | ✅ | 不需要 | 否 | EU | 低多边形模型与场景素材包 | — |
 | Kay Lousberg（Game Assets） | https://kaylousberg.com | CC0 | ✅ | 不需要 | 否 | BE / EU | 可爱风低多边形与游戏模型 | — |
-| Liberated Pixel Cup | https://lpc.opengameart.org | CC BY-SA 3.0 / GPL | ✅ | 需要 | 否 | Global | 经典像素 RPG 美术资产体系 | https://github.com/LiberatedPixelCup/LPC-style-guide |
+| Liberated Pixel Cup | https://lpc.opengameart.org | CC BY-SA 3.0 / GPL | ✅ | 需要 | 否 | Global | 经典像素 RPG 美术资产体系 | https://github.com/OpenGameArt/LiberatedPixelCup |
 | Lorem Picsum | https://picsum.photos | Unsplash License | ✅ | 不需要 | 否 | Global | 随机占位图服务，支持 WebP 与 API | https://github.com/DMarby/picsum-photos |
 | DummyImage | https://dummyimage.com | 自有（生成图可自由使用） | ✅ | 不需要 | 否 | US | 快速生成灰底尺寸占位图 ⚠️待核实 | — |
 | Placehold.co | https://placehold.co | 自有 | ✅ | 不需要 | 否 | Global | 占位图服务，可自定义文字颜色 ⚠️待核实 | — |
 | itch.io（免费素材） | https://itch.io/game-assets/free | 各作者授权不一 | ⚠️ | 视情况 | 部分 | Global | 大量独立开发者免费素材 ⚠️待核实 | — |
 | CraftPix Freebies | https://craftpix.net/freebies/ | 自有许可（免费可商用） | ⚠️ | 不需要 | 部分 | EU | 2D 游戏素材免费包，更新频繁 | — |
 | Lospec | https://lospec.com | 依各素材 / 调色盘而异 | ⚠️ | 视情况 | 否 | Global | 像素调色盘与素材索引 ⚠️待核实 | — |
-| GrafxKid | https://grafxkid.com | 自有（免费部分可商用） | ⚠️ | 视情况 | 部分 | EU | 像素素材与 UI 模板 ⚠️待核实 | — |
+| GrafxKid | https://grafxkid.itch.io/ | 自有（免费部分可商用） | ⚠️ | 视情况 | 部分 | EU | 像素素材与 UI 模板 ⚠️待核实 | — |
 | Open Pixel Project | https://www.openpixelproject.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 像素角色与 tiles，2000+ 素材 | — |
 | Game-icons.net | https://game-icons.net | CC BY 3.0 | ✅ | 需要 | 否 | Global | 4180+ 游戏图标，CC BY 署名 | — |
 | ambientCG | https://ambientcg.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 PBR 材质/HDR/模型库 | — |
-| fakeimg.pl | https://fakeimg.pl | 开源（MIT） | ✅ | 不需要 | 否 | Global | 占位图生成器，自定义文字尺寸 | https://github.com/RomanistHere/fakeimgpl |
+| fakeimg.pl | https://fakeimg.pl | 开源（MIT） | ✅ | 不需要 | 否 | Global | 占位图生成器，自定义文字尺寸 | — |
 | Poly Haven | https://polyhaven.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 纹理/HDR/3D 模型库 | — |
 | Pixel Frog | https://pixelfrog-assets.itch.io | CC0 | ✅ | 不需要 | 否 | Global | Pixel Adventure 等 CC0 像素包 | — |
 | Pipoya | https://pipoya.itch.io | 免费可商用（禁转售） | ✅ | 不需要 | 否 | JP | 免费 RPG 角色/图标，可商用 | — |

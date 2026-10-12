@@ -50,12 +50,12 @@
 | Remove.bg | https://www.remove.bg | 自有（免费版仅预览尺寸） | ⚠️ | 视情况 | 是 | AT / EU | One-click background removal, free tier size-limited | — |
 | Clipdrop | https://clipdrop.co | 自有（部分免费） | ⚠️ | 视情况 | 是 | EU | Stability AI's bg/upscale/relight suite ⚠️ verify | — |
 | Upscale.media | https://www.upscale.media | 自有（部分免费） | ⚠️ | 视情况 | 是 | Global | AI image upscaling & enhancement ⚠️ verify | — |
-| Bing Image Creator | https://www.bing.com/images/create | Microsoft 服务条款 | ⚠️ | 视情况 | 是 | US | Commercial use must follow MS terms ⚠️ verify | — |
+| Bing Image Creator | https://www.bing.com/create | Microsoft 服务条款 | ⚠️ | 视情况 | 是 | US | Commercial use must follow MS terms ⚠️ verify | — |
 | Photopea | https://www.photopea.com | Own (free to use) | ✅ | Not required | No | CZ | Online Photoshop alternative, runs in browser | — |
 | Upscayl | https://www.upscayl.org | AGPL-3.0 | ✅ | Not required | No | Global | Local AI upscaler, free batch processing | https://github.com/upscayl/upscayl |
 | chaiNNer | https://chainner.app | GPL-3.0 | ✅ | Not required | No | Global | Node-based image processing workflows | https://github.com/chaiNNer-org/chaiNNer |
 | waifu2x | https://github.com/nagadomi/waifu2x | MIT | ✅ | Not required | No | JP | Anime super-resolution, self-hostable | https://github.com/nagadomi/waifu2x |
-| Segment Anything | https://segment-anything.com | Apache-2.0 | ✅ | Not required | No | US | Meta's promptable segmentation for matting | https://github.com/facebookresearch/segment-anything |
+| Segment Anything | https://ai.meta.com/sam2/ | Apache-2.0 | ✅ | Not required | No | US | Meta's promptable segmentation for matting | https://github.com/facebookresearch/segment-anything |
 | BigJPG | https://bigjpg.com | Own (free tier) | ⚠️ | Varies | Yes | CN | Anime AI upscaler, free tier limited ⚠️ verify | — |
 
 > **Selection Guide**

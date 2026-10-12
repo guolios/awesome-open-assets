@@ -34,13 +34,13 @@
 | Blobmaker | https://blobmaker.app | 自有免费许可 | ✅ | 不需要 | 否 | Global | 在线生成可商用 SVG 形状 | — |
 | Haikei | https://haikei.app | 自有免费许可 | ✅ | 不需要 | 否 | Global | 生成波浪/blob SVG 形状 | — |
 | Get Waves | https://getwaves.io | 自有免费许可 | ✅ | 不需要 | 否 | Global | 在线生成 SVG 波浪分隔 | — |
-| Hero Patterns | https://heropatterns.com | MIT | ✅ | 不需要 | 否 | US | 可平铺 SVG 背景图案 | https://github.com/steveschoger/hero-patterns |
+| Hero Patterns | https://heropatterns.com | MIT | ✅ | 不需要 | 否 | US | 可平铺 SVG 背景图案 | — |
 | Cool Backgrounds | https://coolbackgrounds.io | CC0 | ✅ | 不需要 | 否 | Global | 渐变背景生成，CC0 | — |
 | Error 404 Illustrations | https://error404.fun | CC0 / 公共领域 | ✅ | 不需要 | 否 | GR / EU | 404 专用插画，公共领域 ⚠️待核实 | — |
 | Fresh Folk | https://fresh-folk.com | CC BY 4.0 | ✅ | 需要 | 部分 | Global | 可换装人物插画，需署名 | — |
 | Pixel True Illustrations | https://www.pixeltrue.com/free-illustrations | 自有免费许可（需注册） | ⚠️ | 需要 | 是 | US | 免费动效插画，需注册 | — |
 | Patternpad | https://patternpad.com | 自有免费许可 | ✅ | 不需要 | 否 | Global | 免费 SVG 图案生成器 | — |
-| Storytale Free Illustrations | https://storytale.io/free-illustrations | 自有免费许可（需注册） | ⚠️ | 需要 | 是 | US | 免费插画，需注册 | — |
+| Storytale Free Illustrations | https://ultima.storytale.io/ | 自有免费许可（需注册） | ⚠️ | 需要 | 是 | US | 免费插画，需注册 | — |
 | Wikimedia Commons (SVG) | https://commons.wikimedia.org | CC / 公共领域（各异） | ⚠️ | 视情况 | 否 | Global | 海量公有领域矢量，授权各异 | — |
 | Pixabay | https://pixabay.com | Pixabay License（自有） | ✅ | 不需要 | 否 | Global | 百万级免费矢量，免署名 | — |
 | Sketchvalley | https://sketchvalley.com | CC0 | ✅ | 不需要 | 否 | Global | 70+ 手绘插画，公共领域 ⚠️待核实 | — |

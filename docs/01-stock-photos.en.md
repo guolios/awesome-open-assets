@@ -58,7 +58,7 @@
 | Styled Stock | https://styledstock.co | Own license (free commercial) | ✅ | Not required | No | Global | Free styled shots for female entrepreneurs. | — |
 | RGBStock | https://www.rgbstock.com | Own license (free commercial) | ✅ | Not required | No | Global | Community-contributed free photo library. | — |
 | StreetWill | https://streetwill.co | CC0 | ✅ | Not required | No | Global | Small CC0 site for urban and people photos. | — |
-| Freejpg | https://en.freejpg.com | Own license (free commercial) | ✅ | Not required | No | ES / EU | Spanish free library, commercial-friendly. | — |
+| Freejpg | https://en.freejpg.com.ar/ | Own license (free commercial) | ✅ | Not required | No | ES / EU | Spanish free library, commercial-friendly. | — |
 
 > **Selection Tips**
 > - Want the **cleanest licensing** → look for CC0: StockSnap, Negative Space, Pixnio, Life of Pix, LibreShot, Skitterphoto, Freestocks, Picography

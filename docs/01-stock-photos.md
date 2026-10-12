@@ -58,7 +58,7 @@
 | Styled Stock | https://styledstock.co | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 女性创业风免费摆拍 | — |
 | RGBStock | https://www.rgbstock.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 社区贡献的免费图库 | — |
 | StreetWill | https://streetwill.co | CC0 | ✅ | 不需要 | 否 | Global | 城市与人文 CC0 小站 | — |
-| Freejpg | https://en.freejpg.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | ES / EU | 西班牙免费图库，可商用 | — |
+| Freejpg | https://en.freejpg.com.ar/ | 自有许可（免费商用） | ✅ | 不需要 | 否 | ES / EU | 西班牙免费图库，可商用 | — |
 
 > **选型建议**
 > - 想要**授权最干净** → 认准标 CC0 的：StockSnap、Negative Space、Pixnio、Life of Pix、LibreShot、Skitterphoto、Freestocks、Picography

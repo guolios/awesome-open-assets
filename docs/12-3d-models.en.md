@@ -9,7 +9,7 @@
 
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Poly Pizza | https://poly.pizza | CC0 | ✅ | Not required | No | Global | CC0 | https://github.com/poly-pizza/poly-pizza |
+| Poly Pizza | https://poly.pizza | CC0 | ✅ | Not required | No | Global | CC0 | — |
 | Quaternius | https://quaternius.com | CC0 | ✅ | Not required | No | Global | CC0 | https://github.com/quaternius |
 | Kenney | https://kenney.nl | CC0 | ✅ | Not required | No | NL | CC0 | https://github.com/KenneyNL |
 | Sketchfab | https://sketchfab.com | 筛选「免费 / CC」 | ⚠️ | Varies | Yes | Global | Filter free/CC | — |
@@ -36,7 +36,7 @@
 | Fab (Megascans) | https://www.fab.com | Fab Standard | ✅ | Not required | Yes | US | Former Megascans, Fab license | — |
 | Printables | https://www.printables.com | CC BY default | ✅ | Required | Yes | CZ | Prusa 3D-printing community | — |
 | BIMobject | https://www.bimobject.com | Free BIM | ⚠️ | Varies | Yes | SE | BIM / CAD component library | — |
-| MB-Lab | https://www.mblab.cloud | AGPL / CC BY | ⚠️ | Required | No | IT | Blender human-modeling add-on | — |
+| MB-Lab | https://github.com/animate1978/MB-Lab | AGPL / CC BY | ⚠️ | Required | No | IT | Blender human-modeling add-on | — |
 | BodyParts3D | https://lifesciencedb.jp | CC BY-SA 3.0 | ✅ | Required | No | JP | Anatomical 3D models | — |
 | Stanford 3D Scanning Repository | https://graphics.stanford.edu/data/3Dscanrep | Public domain (research) | ⚠️ | Not required | No | US | Classic scan models ⚠️ verify | — |
 | Wikimedia Commons (3D) | https://commons.wikimedia.org/wiki/Category:3D_models | Mixed CC | ✅ | Varies | No | Global | Open-media 3D file hub | — |

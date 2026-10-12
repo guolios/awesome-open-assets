@@ -13,16 +13,15 @@
 | Tenor | https://tenor.com | 免费可商用（Google） | ⚠️ | 视情况 | 是 | US | Google 动图库，嵌入免费 | — |
 | OpenMoji | https://openmoji.org | CC BY | ✅ | 需要 | 否 | Global | 开源表情符号，彩色 / 黑白 | https://github.com/hfg-gmuend/openmoji |
 | Twemoji | https://twemoji.twitter.com | CC BY | ✅ | 需要 | 否 | US | Twitter 开源 emoji，跨平台一致 | https://github.com/twitter/twemoji |
-| Noto Emoji | https://googlefonts.github.io/noto-emoji | Apache-2.0 | ✅ | 不需要 | 否 | US | Google 开源 emoji 字体 / 图 | https://github.com/googlefonts/noto-emoji |
+| Noto Emoji | https://github.com/googlefonts/noto-emoji | Apache-2.0 | ✅ | 不需要 | 否 | US | Google 开源 emoji 字体 / 图 | https://github.com/googlefonts/noto-emoji |
 | IconScout 免费 | https://iconscout.com | 免费档（逐款） | ⚠️ | 视情况 | 是 | Global | 含免费 GIF / 贴纸 / 插画 | — |
-| Gfycat | https://gfycat.com | 免费可商用（条文） | ⚠️ | 视情况 | 是 | US | 高清 GIF 托管 / 分享 | — |
 | Imgflip | https://imgflip.com | 免费（生成） | ⚠️ | 视情况 | 部分 | US | Meme / GIF 生成与库 | — |
 | Telegram 开源贴纸 | https://telegram.org | 部分开源贴纸集 | ⚠️ | 视情况 | 否 | Global | 开源贴纸包（部分 CC） | — |
 | Gifer | https://gifer.com | 免费 | ⚠️ | 视情况 | 否 | Global | 免费 GIF 搜索与下载 | ⚠️待核实 |
 | Wifflegif | https://wifflegif.com | 免费 | ⚠️ | 视情况 | 否 | Global | 反应 GIF 库 | ⚠️待核实 |
 | Pixabay | https://pixabay.com | Pixabay License（CC0 类） | ✅ | 不需要 | 部分 | DE | 含动画 GIF 的免费图库 | — |
 | Pexels | https://www.pexels.com | Pexels License | ✅ | 不需要 | 部分 | Global | 免费视频与动态素材库 | — |
-| Mixkit | https://mixkit.co/free-gifs | Mixkit Free License | ✅ | 不需要 | 否 | Global | 免费 GIF 与动图素材 | — |
+| Mixkit | https://mixkit.co | Mixkit Free License | ✅ | 不需要 | 否 | Global | 免费 GIF 与动图素材 | — |
 | Videvo | https://www.videvo.net | 混合（CC0 / 需署名） | ⚠️ | 视情况 | 部分 | Global | 免费视频与动态图形库 | — |
 | Coverr | https://coverr.co | Coverr License | ✅ | 不需要 | 否 | Global | 免费循环背景视频 / GIF | — |
 | Freepik 贴纸 | https://www.freepik.com/stickers | 混合（免费需署名） | ⚠️ | 需要 | 部分 | ES | 海量贴纸与动画图标 | ⚠️待核实 |
@@ -39,7 +38,7 @@
 | DrawKit | https://www.drawkit.io | 自有（免费需署名） | ⚠️ | 需要 | 否 | AU | 免费插画含动画贴纸 | ⚠️待核实 |
 | Absurd Design | https://absurd.design | 自有（免费需署名） | ⚠️ | 需要 | 否 | Global | 怪诞风免费插画贴纸 | ⚠️待核实 |
 | LINE 贴纸 | https://store.line.me | 自有（部分免费） | ⚠️ | 视情况 | 是 | JP | LINE 官方贴纸市场含免费 | ⚠️待核实 |
-| Sticker Mule 免费 | https://www.stickermule.com/freebies | 自有（免费贴纸） | ✅ | 不需要 | 部分 | US | 免费透明贴纸素材 | ⚠️待核实 |
+| Sticker Mule 免费 | https://www.stickermule.com/deals/free-stickers | 自有（免费贴纸） | ✅ | 不需要 | 部分 | US | 免费透明贴纸素材 | ⚠️待核实 |
 | Best Animations | https://bestanimations.com | 自有（免费下载） | ⚠️ | 视情况 | 否 | Global | 剪贴画与搞笑 GIF 库 | ⚠️待核实 |
 
 > **要授权最干净** → 开源 emoji：OpenMoji、Twemoji、Noto Emoji（CC BY/Apache）。

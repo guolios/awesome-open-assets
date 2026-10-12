@@ -26,8 +26,8 @@
 | Avataaars | https://www.avataaars.com | Custom (free commercial) | ✅ | Not required | Partial | US | Customizable cartoon avatar library | — |
 | Multiavatar | https://multiavatar.com | Custom (free commercial) | ✅ | Not required | No | Global | Multicultural avatars, 12B combos | https://github.com/multiavatar/Multiavatar |
 | Bean Heads | https://beanheads.robertbroersma.com | MIT | ✅ | Not required | No | US | Round "bean head" character avatars | https://github.com/RobertBroersma/beanheads |
-| NI Nice Avatar | https://nice-avatar.chilllab.io | MIT | ✅ | Not required | No | TW | Customizable cartoon face component | https://github.com/chilllab/react-nice-avatar |
-| Big Heads | https://bigheads.robertbroersma.com | MIT | ✅ | Not required | No | US | React bean-head avatar generator | https://github.com/RobertBroersma/bigheads |
+| NI Nice Avatar | https://nice-avatar.wwayne.com | MIT | ✅ | Not required | No | TW | Customizable cartoon face component | https://github.com/chilllab/react-nice-avatar |
+| Big Heads | https://beanheads.robertbroersma.com | MIT | ✅ | Not required | No | US | React bean-head avatar generator | https://github.com/RobertBroersma/bigheads |
 | Humaaans | https://www.humaaans.com | CC0 | ✅ | Not required | Partial | MX | Mix-and-match people illustrations | — |
 | Jdenticon | https://jdenticon.com | MIT | ✅ | Not required | No | Global | Hash-based symmetric identicons | https://github.com/dmester/jdenticon |
 | Minidenticons | https://laurentpayot.github.io/minidenticons | MIT | ✅ | Not required | No | FR | Minimal pixel identicons, zero-dep | https://github.com/laurentpayot/minidenticons |
@@ -37,11 +37,11 @@
 | Random User Generator | https://randomuser.me | Unspecified | ⚠️ | Varies | No | Global | Random photo placeholder API ⚠️ verify | — |
 | Iconify | https://iconify.design | MIT | ✅ | Not required | No | Global | Aggregates open emoji/icon sets | https://github.com/iconify/iconify |
 | Emojidex | https://emojidex.com | LGPL | ✅ | Required | No | JP | Open emoji set; attribution needed | — |
-| Personas | https://personas.design | Custom (free commercial) | ✅ | Not required | Partial | US | Free Figma avatar library | — |
+| Personas | https://personas.draftbit.com/ | Custom (free commercial) | ✅ | Not required | Partial | US | Free Figma avatar library | — |
 | Gravatar | https://en.gravatar.com | Custom (free service) | ✅ | Not required | No | US | Automattic user avatar service | — |
 | Fresh Folk | https://fresh-folk.com | Custom (free commercial) | ✅ | Not required | Partial | AU | Mix-and-match illustration kit | — |
 | Open Doodles | https://www.opendoodles.com | CC0 | ✅ | Not required | Partial | MX | Hand-drawn doodle illustrations | — |
-| EmojiMart | https://emoji-mart.com | MIT | ✅ | Not required | No | BE | Emoji picker component | https://github.com/missive/emoji-mart |
+| EmojiMart | https://missiveapp.com/open/emoji-mart | MIT | ✅ | Not required | No | BE | Emoji picker component | https://github.com/missive/emoji-mart |
 
 > **Selection Guide**
 > - **Use emoji artwork in a product** (not system IME) → choose **Noto Emoji** (Apache-2.0) or **Fluent Emoji** (MIT), both attribution-free and comprehensive

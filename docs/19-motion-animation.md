@@ -14,7 +14,7 @@
 | UseAnimations | https://useanimations.com/ | MIT | ✅ | 不需要 | 否 | Global | 298 个手作动画图标，开箱可用 | https://github.com/useAnimations |
 | rlottie | https://github.com/Samsung/rlottie | 三星自有开源许可 ⚠️待核实 | ✅ | 不需要 | 否 | KR | 三星 C++ Lottie 渲染库 | https://github.com/Samsung/rlottie |
 | Lordicon | https://lordicon.com/ | Lordicon Free License | ✅ | 需要 | 否 | PL / EU | 免费档可商用但必须署名 | — |
-| Noto Emoji Animations | https://googlefonts.github.io/noto-emoji-animation/ | Apache-2.0 / CC BY 4.0 | ✅ | 视情况 | 否 | US | Google 开源动态表情预览 ⚠️待核实 | — |
+| Noto Emoji Animations | https://github.com/googlefonts/noto-emoji-animation/ | Apache-2.0 / CC BY 4.0 | ✅ | 视情况 | 否 | US | Google 开源动态表情预览 ⚠️待核实 | — |
 | LottieFiles | https://lottiefiles.com/ | 自有条款（免费 / Premium 混合） | ⚠️ | 视情况 | 部分 | US | 80 万+ Lottie，全球最大动画库 | — |
 | IconScout | https://iconscout.com/ | 混合（免费需署名 / 付费） | ⚠️ | 需要 | 部分 | IN | 动画图标与 Lottie 混合库 | — |
 | Icons8 动画图标 | https://icons8.com/animated-icons | Icons8 免费条款（须链接署名） | ⚠️ | 需要 | 部分 | US | 万级动画图标，免费档须署名 | — |
@@ -30,9 +30,9 @@
 | Rive | https://rive.app | MIT（运行时） | ✅ | 不需要 | 部分 | US | 交互式动画运行时，MIT 开源 | https://github.com/rive-app/rive-runtime |
 | anime.js | https://animejs.com | MIT | ✅ | 不需要 | 否 | Global | 轻量 JavaScript 动画引擎 | https://github.com/juliangarnier/anime |
 | GSAP | https://gsap.com | 自有（现 100% 免费含商用） | ✅ | 不需要 | 否 | US | 专业级 JS 动画库，2025 起全免费 | https://github.com/greensock/GSAP |
-| Motion | https://motion.dev | MIT | ✅ | 不需要 | 否 | Global | 原 Framer Motion 的 React 动画库 | https://github.com/pmndrs/motion |
+| Motion | https://motion.dev | MIT | ✅ | 不需要 | 否 | Global | 原 Framer Motion 的 React 动画库 | https://github.com/motiondivision/motion |
 | react-spring | https://react-spring.dev | MIT | ✅ | 不需要 | 否 | Global | 基于物理的 React 动画 | https://github.com/pmndrs/react-spring |
-| AutoAnimate | https://auto-animate.formkit.com | MIT | ✅ | 不需要 | 否 | Global | 给任意 UI 自动加过渡动画 | https://github.com/formkit/autoAnimate |
+| AutoAnimate | https://auto-animate.formkit.com | MIT | ✅ | 不需要 | 否 | Global | 给任意 UI 自动加过渡动画 | https://github.com/formkit/auto-animate |
 | PixiJS | https://pixijs.com | MIT | ✅ | 不需要 | 否 | Global | WebGL 2D 渲染与动画引擎 | https://github.com/pixijs/pixijs |
 | mo.js | https://mojs.github.io | MIT | ✅ | 不需要 | 否 | Global | 运动图形与粒子动画库 | https://github.com/mojs/mojs |
 | tsParticles | https://particles.js.org | MIT | ✅ | 不需要 | 否 | Global | 粒子动画引擎 | https://github.com/tsparticles/tsparticles |

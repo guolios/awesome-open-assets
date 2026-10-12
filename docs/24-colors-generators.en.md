@@ -33,7 +33,7 @@
 | Colorsinspo | https://colorsinspo.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Aggregated palette inspiration | — |
 | BrandColors | https://brandcolors.net/ | Own terms (brand color values) | ✅ | Not required | No | Global | Quick lookup of brand hex codes | — |
 | Hypercolor | https://hypercolor.dev/ | MIT (open source) | ✅ | Not required | No | Global | Tailwind gradient code library | https://github.com/jordihales/hypercolor |
-| Leonardo | https://leonardocolor.io/ | Apache-2.0 (open source) | ✅ | Not required | No | US | Adobe contrast-based color system | https://github.com/adobe/leonardo-contrast-colors |
+| Leonardo | https://leonardocolor.io/ | Apache-2.0 (open source) | ✅ | Not required | No | US | Adobe contrast-based color system | https://github.com/adobe/leonardo |
 | Randoma11y | https://randoma11y.com/ | Own terms (accessible) | ✅ | Not required | No | Global | Random accessible color pairs | — |
 | Tint & Shade Generator | https://maketintsandshades.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Generate tint and shade scales | — |
 | ColorHexa | https://www.colorhexa.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Color conversion and mixing tool | — |

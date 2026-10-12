@@ -9,11 +9,11 @@
 
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Scan the World | https://www.myminifactory.com/scan-the-world | CC（多档） | ⚠️ | Varies | Yes | Global | CC | — |
+| Scan the World | https://www.myminifactory.com/scantheworld/ | CC（多档） | ⚠️ | Varies | Yes | Global | CC | — |
 | Smithsonian 3D | https://3d.si.edu | CC0 | ✅ | Not required | No | US | CC0 | — |
 | NIH 3D Print Exchange | https://3dprint.nih.gov | 公共领域 | ✅ | Not required | No | US | Public Domain | — |
 | Open Heritage 3D | https://openheritage3d.org | CC | ⚠️ | Varies | No | Global | CC | — |
-| Threedscans | https://threedscans.com | CC（多为 CC0/PD） | ✅ | Not required | No | Global | CC0/PD | https://github.com/hughsk/threedscans |
+| Threedscans | https://threedscans.com | CC（多为 CC0/PD） | ✅ | Not required | No | Global | CC0/PD | — |
 | Google Arts & Culture 3D | https://artsandculture.google.com | 混合 | ⚠️ | Varies | No | Global | Mixed | — |
 | MorphoSource | https://www.morphosource.org | 研究用途（逐许可） | ⚠️ | Varies | Yes | US | Research | — |
 | 3D Scan Store 免费 | https://www.3dscanstore.com | 免费样本（逐款） | ⚠️ | Varies | Partial | UK | Free samples | — |
@@ -29,7 +29,7 @@
 | Rijksmuseum Rijksstudio | https://www.rijksmuseum.nl/en/rijksstudio | CC0 | ✅ | Not required | Partial | NL | Dutch national museum open | — |
 | Smithsonian Open Access | https://www.si.edu/openaccess | CC0 | ✅ | Not required | No | US | Smithsonian open data + 3D | — |
 | NGA Open Access | https://www.nga.gov/open-access.html | CC0 | ✅ | Not required | No | US | National Gallery open images | — |
-| ambientCG | https://ambientcg.com | CC0 | ✅ | Not required | No | Global | Photoscanned CC0 PBR/models | https://github.com/ambientCG |
+| ambientCG | https://ambientcg.com | CC0 | ✅ | Not required | No | Global | Photoscanned CC0 PBR/models | — |
 | openVertebrate (oVert) | https://www.morphosource.org | Research (per-item) | ⚠️ | Varies | Yes | US | 13k vertebrate CT scans | — |
 | British Museum Collection | https://www.britishmuseum.org/collection | CC BY-NC / Mixed | ⚠️ | Required | No | UK | British Museum open collection | — |
 | Europeana | https://www.europeana.eu | Mixed (per-item) | ⚠️ | Varies | Partial | EU | European heritage 3D portal | — |

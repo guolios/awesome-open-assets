@@ -50,7 +50,7 @@
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LibriVox | https://librivox.org/ | 公有领域文本 + 录音 PD Release | ✅ | 不需要 | 否 | Global | 志愿者朗读公有领域有声书 | — |
-| Mozilla Common Voice | https://commonvoice.mozilla.org/en/datasets | CC0 | ✅ | 不需要 | 否 | Global | 多语种众包语音数万小时 | https://github.com/common-voice/commonvoice |
+| Mozilla Common Voice | https://commonvoice.mozilla.org/en/datasets | CC0 | ✅ | 不需要 | 否 | Global | 多语种众包语音数万小时 | https://github.com/common-voice/common-voice |
 | NSynth | https://magenta.tensorflow.org/datasets/nsynth | CC BY 4.0 | ✅ | 需要 | 否 | US | 音符级合成音乐数据集 ⚠️待核实 | — |
 | OpenSLR | https://www.openslr.org/ | 逐资源（常见 CC BY 4.0 / Apache-2.0） | ⚠️ | 视情况 | 否 | Global | 语音数据集集散地，逐条看许可 | — |
 | GigaSpeech | https://github.com/SpeechColab/GigaSpeech | Apache-2.0（代码）+ 数据另行许可 | ⚠️ | 视情况 | 是 | Global | 万小时英文语音，含 YouTube 语料 ⚠️待核实 | https://github.com/SpeechColab/GigaSpeech |
@@ -60,11 +60,11 @@
 | FMA Dataset | https://github.com/mdeff/fma | 元数据 CC0，音频为各曲 CC 许可 | ❌ | 需要 | 否 | Global | 十万级曲目 + 特征/元数据 ⚠️待核实 | https://github.com/mdeff/fma |
 | MTG Jamendo Dataset | https://mtg.github.io/mtg-jamendo-dataset/ | 音乐为 CC，商用需另行取得 | ❌ | 需要 | 否 | ES / EU | 多标签/歌词/流派自动标注集 | https://github.com/MTG/mtg-jamendo-dataset |
 | LibriSpeech | https://www.openslr.org/12/ | CC BY 4.0 | ✅ | 需要 | 否 | Global | 千小时英文朗读语料基准 | — |
-| MAESTRO | https://magenta.tensorflow.org/datasets/MAESTRO | CC BY 4.0 | ✅ | 需要 | 否 | US | 钢琴演奏与对齐 MIDI 集 | https://github.com/magenta/magenta |
-| VocalSet | https://vocalset.cs.cmu.edu/ | CC BY 4.0 | ✅ | 需要 | 否 | US | 歌唱技巧多风格录音集 | — |
+| MAESTRO | https://magenta.tensorflow.org/datasets/maestro | CC BY 4.0 | ✅ | 需要 | 否 | US | 钢琴演奏与对齐 MIDI 集 | https://github.com/magenta/magenta |
+| VocalSet | https://zenodo.org/record/1193957 | CC BY 4.0 | ✅ | 需要 | 否 | US | 歌唱技巧多风格录音集 | — |
 | Spoken Wikipedia | https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia | PD / CC BY 混合 | ⚠️ | 视情况 | 否 | Global | 维基条目朗读语音集 | — |
 | MLS（多语种 LibriSpeech） | https://www.openslr.org/94/ | CC0 | ✅ | 不需要 | 否 | Global | 多语种朗读语料，CC0 | — |
-| LJSpeech | https://keithito.com/LJ_Speech-Demo/ | 公有领域（源自 LibriVox） | ✅ | 不需要 | 否 | US | 单说话人英文朗读集 | — |
+| LJSpeech | https://keithito.com/LJ-Speech-Dataset/ | 公有领域（源自 LibriVox） | ✅ | 不需要 | 否 | US | 单说话人英文朗读集 | — |
 | VCTK | https://datashare.ed.ac.uk/handle/10283/3443 | ODbl / 站点条款 | ⚠️ | 视情况 | 是 | UK | 百说话人多口音语音集 | — |
 | Tatoeba | https://tatoeba.org/ | CC BY 混合 | ⚠️ | 视情况 | 否 | Global | 多语种句子语音对照库 | https://github.com/Tatoeba/tatoeba2 |
 

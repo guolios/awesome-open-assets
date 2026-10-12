@@ -9,7 +9,7 @@
 
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Poly Pizza | https://poly.pizza | CC0 | ✅ | 不需要 | 否 | Global | 精选 CC0 低多边形模型 | https://github.com/poly-pizza/poly-pizza |
+| Poly Pizza | https://poly.pizza | CC0 | ✅ | 不需要 | 否 | Global | 精选 CC0 低多边形模型 | — |
 | Quaternius | https://quaternius.com | CC0 | ✅ | 不需要 | 否 | Global | 海量 CC0 低模 / 体素 / PBR | https://github.com/quaternius |
 | Kenney | https://kenney.nl | CC0 | ✅ | 不需要 | 否 | NL | 游戏素材之王，全 CC0 | https://github.com/KenneyNL |
 | Sketchfab | https://sketchfab.com | 筛选「免费 / CC」 | ⚠️ | 视情况 | 是 | Global | 最大 3D 库，可按授权筛选 | — |
@@ -36,7 +36,7 @@
 | Fab（Megascans） | https://www.fab.com | Fab Standard | ✅ | 不需要 | 是 | US | 原 Megascans 现 Fab 授权 | — |
 | Printables | https://www.printables.com | CC BY 默认 | ✅ | 需要 | 是 | CZ | Prusa 3D 打印社区 | — |
 | BIMobject | https://www.bimobject.com | 免费 BIM | ⚠️ | 视情况 | 是 | SE | BIM / CAD 构件库 | — |
-| MB-Lab | https://www.mblab.cloud | AGPL / CC BY | ⚠️ | 需要 | 否 | IT | Blender 人体建模插件 | — |
+| MB-Lab | https://github.com/animate1978/MB-Lab | AGPL / CC BY | ⚠️ | 需要 | 否 | IT | Blender 人体建模插件 | — |
 | BodyParts3D | https://lifesciencedb.jp | CC BY-SA 3.0 | ✅ | 需要 | 否 | JP | 解剖学 3D 模型 | — |
 | Stanford 3D 扫描库 | https://graphics.stanford.edu/data/3Dscanrep | 公共领域（研究用） | ⚠️ | 不需要 | 否 | US | 经典扫描模型 ⚠️待核实 | — |
 | Wikimedia Commons（3D） | https://commons.wikimedia.org/wiki/Category:3D_models | 混合 CC | ✅ | 视情况 | 否 | Global | 公开媒体 3D 文件汇聚 | — |

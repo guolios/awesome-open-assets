@@ -33,7 +33,7 @@
 | Colorsinspo | https://colorsinspo.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 配色灵感聚合站 | — |
 | BrandColors | https://brandcolors.net/ | 自有条款（品牌色值） | ✅ | 不需要 | 否 | Global | 大牌品牌色值速查 | — |
 | Hypercolor | https://hypercolor.dev/ | MIT（代码开源） | ✅ | 不需要 | 否 | Global | Tailwind 渐变代码库 | https://github.com/jordihales/hypercolor |
-| Leonardo | https://leonardocolor.io/ | Apache-2.0（开源） | ✅ | 不需要 | 否 | US | Adobe 对比度配色系统 | https://github.com/adobe/leonardo-contrast-colors |
+| Leonardo | https://leonardocolor.io/ | Apache-2.0（开源） | ✅ | 不需要 | 否 | US | Adobe 对比度配色系统 | https://github.com/adobe/leonardo |
 | Randoma11y | https://randoma11y.com/ | 自有条款（无障碍） | ✅ | 不需要 | 否 | Global | 随机无障碍配色对 | — |
 | Tint & Shade Generator | https://maketintsandshades.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 一键生成深浅色阶 | — |
 | ColorHexa | https://www.colorhexa.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 色值转换与调色 | — |

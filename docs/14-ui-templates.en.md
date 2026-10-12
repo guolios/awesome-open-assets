@@ -9,7 +9,7 @@
 
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HTML5 UP | https://html5up.net | CCA 3.0 | ✅ | Required | No | Global | CCA 3.0 | https://github.com/ajlkn/html5up |
+| HTML5 UP | https://html5up.net | CCA 3.0 | ✅ | Required | No | Global | CCA 3.0 | — |
 | Start Bootstrap | https://startbootstrap.com | MIT | ✅ | Not required | No | US | MIT | https://github.com/StartBootstrap |
 | HyperUI | https://www.hyperui.dev | MIT | ✅ | Not required | No | Global | MIT | https://github.com/markmead/hyperui |
 | Figma Community | https://www.figma.com/community | 免费文件（逐作者） | ⚠️ | Varies | Yes | Global | Per-author | — |
@@ -34,7 +34,7 @@
 | CoreUI Free | https://coreui.io | MIT (free) | ✅ | Not required | No | Global | Bootstrap admin free template | https://github.com/coreui/coreui-free-bootstrap-admin-template |
 | Bootswatch | https://bootswatch.com | MIT | ✅ | Not required | No | Global | Free Bootstrap themes | https://github.com/thomaspark/bootswatch |
 | Material Dashboard | https://www.creative-tim.com/product/material-dashboard | MIT (free) | ✅ | Not required | No | US | Free Bootstrap dashboard | https://github.com/creativetimofficial/material-dashboard |
-| Volt Dashboard | https://themesberg.com/product/free-dashboard/volt-bootstrap-5-dashboard | MIT (free) | ✅ | Not required | No | Global | Free Bootstrap 5 dashboard | https://github.com/themesberg/volt-bootstrap-5-dashboard |
+| Volt Dashboard | https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard | MIT (free) | ✅ | Not required | No | Global | Free Bootstrap 5 dashboard | https://github.com/themesberg/volt-bootstrap-5-dashboard |
 | Sneat Free | https://themeselection.com/item/sneat-free-bootstrap-html-admin-template | MIT (free) | ✅ | Required | No | Global | Free Bootstrap 5 admin | https://github.com/themeselection/sneat-bootstrap-html-admin-template-free |
 | MDBootstrap | https://mdbootstrap.com | MIT (free) | ✅ | Not required | No | Global | Material Design for Bootstrap | https://github.com/mdbootstrap/mdb-ui-kit |
 | shadcn/ui | https://ui.shadcn.com | MIT | ✅ | Not required | No | Global | Copy-paste React components | https://github.com/shadcn-ui/ui |

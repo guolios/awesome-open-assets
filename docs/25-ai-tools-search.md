@@ -50,12 +50,12 @@
 | Remove.bg | https://www.remove.bg | 自有（免费版仅预览尺寸） | ⚠️ | 视情况 | 是 | AT / EU | 一键去背，免费版分辨率受限 | — |
 | Clipdrop | https://clipdrop.co | 自有（部分免费） | ⚠️ | 视情况 | 是 | EU | Stability AI 旗下，去背/放大/重打光 ⚠️待核实 | — |
 | Upscale.media | https://www.upscale.media | 自有（部分免费） | ⚠️ | 视情况 | 是 | Global | AI 图片放大增强 ⚠️待核实 | — |
-| Bing Image Creator | https://www.bing.com/images/create | Microsoft 服务条款 | ⚠️ | 视情况 | 是 | US | 生成图商用须遵守 MS 条款 ⚠️待核实 | — |
+| Bing Image Creator | https://www.bing.com/create | Microsoft 服务条款 | ⚠️ | 视情况 | 是 | US | 生成图商用须遵守 MS 条款 ⚠️待核实 | — |
 | Photopea | https://www.photopea.com | 自有（免费可用） | ✅ | 不需要 | 否 | CZ | 在线 PS 替代图片可不出端 | — |
 | Upscayl | https://www.upscayl.org | AGPL-3.0 | ✅ | 不需要 | 否 | Global | 本地 AI 放大批量免费 | https://github.com/upscayl/upscayl |
 | chaiNNer | https://chainner.app | GPL-3.0 | ✅ | 不需要 | 否 | Global | 节点式图片处理工作流 | https://github.com/chaiNNer-org/chaiNNer |
 | waifu2x | https://github.com/nagadomi/waifu2x | MIT | ✅ | 不需要 | 否 | JP | 二次元超分降噪可自部署 | https://github.com/nagadomi/waifu2x |
-| Segment Anything | https://segment-anything.com | Apache-2.0 | ✅ | 不需要 | 否 | US | Meta 通用分割抠图自部署 | https://github.com/facebookresearch/segment-anything |
+| Segment Anything | https://ai.meta.com/sam2/ | Apache-2.0 | ✅ | 不需要 | 否 | US | Meta 通用分割抠图自部署 | https://github.com/facebookresearch/segment-anything |
 | BigJPG | https://bigjpg.com | 自有（免费额度） | ⚠️ | 视情况 | 是 | CN | 动漫图 AI 放大免费有限 ⚠️待核实 | — |
 
 > **选型建议**

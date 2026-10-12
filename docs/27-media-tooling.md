@@ -13,7 +13,7 @@
 | GStreamer | https://gstreamer.freedesktop.org/ | LGPL-2.1+ | ✅ | 视情况 | 否 | Global | 流式多媒体管线框架 | https://github.com/GStreamer/gstreamer |
 | VLC | https://www.videolan.org/vlc/ | GPL-2.0+ / LGPL-2.1+ | ✅ | 视情况 | 否 | FR / EU | 全能播放器，也能转码串流 | https://github.com/videolan/vlc |
 | HandBrake | https://handbrake.fr/ | GPL-2.0 | ✅ | 视情况 | 否 | Global | 图形化转码与压制 | https://github.com/HandBrake/HandBrake |
-| LosslessCut | https://www.losslesscut.com/ | GPL-2.0 | ✅ | 视情况 | 否 | NO / EU | 无损裁剪拼接，不重编码 | https://github.com/mifi/lossless-cut |
+| LosslessCut | https://www.losslesscut.app | GPL-2.0 | ✅ | 视情况 | 否 | NO / EU | 无损裁剪拼接，不重编码 | https://github.com/mifi/lossless-cut |
 | OBS Studio | https://obsproject.com/ | GPL-2.0 | ✅ | 视情况 | 否 | Global | 录屏与直播的开源标配 | https://github.com/obsproject/obs-studio |
 | Kdenlive | https://kdenlive.org/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 多轨非线性剪辑，跨平台 | https://github.com/KDE/kdenlive |
 | Shotcut | https://www.shotcut.org/ | GPL-3.0 | ✅ | 视情况 | 否 | US | 基于 MLT 的免费剪辑器 | https://github.com/mltframework/shotcut |
@@ -44,10 +44,10 @@
 | MediaMTX | https://github.com/bluenviron/mediamtx | MIT | ✅ | 不需要 | 否 | Global | 多协议流媒体服务器 | https://github.com/bluenviron/mediamtx |
 | SRS | https://ossrs.io/ | MIT | ✅ | 不需要 | 否 | CN | 高性能实时流媒体服务器 | https://github.com/ossrs/srs |
 | Owncast | https://owncast.online/ | MIT | ✅ | 不需要 | 否 | US | 自托管直播与聊天服务 | https://github.com/owncast/owncast |
-| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | 视情况 | 否 | DE / EU | MKV 封装合并与提取 | https://github.com/mbunkus/mkvtoolnix |
+| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | 视情况 | 否 | DE / EU | MKV 封装合并与提取 | — |
 | mpv | https://mpv.io/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 可嵌入命令行播放器 | https://github.com/mpv-player/mpv |
 | MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | 不需要 | 否 | Global | Python 脚本化视频编辑 | https://github.com/Zulko/moviepy |
-| PySceneDetect | https://pyscenedetect.readthedocs.io/ | BSD-3-Clause | ✅ | 不需要 | 否 | US | OpenCV 视频转场切分 | https://github.com/Breakthrough/PySceneDetect |
+| PySceneDetect | https://www.scenedetect.com/docs/ | BSD-3-Clause | ✅ | 不需要 | 否 | US | OpenCV 视频转场切分 | https://github.com/Breakthrough/PySceneDetect |
 
 
 > **按场景快速决策**

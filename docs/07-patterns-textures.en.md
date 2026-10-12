@@ -9,17 +9,17 @@
 
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hero Patterns | https://heropatterns.com | 免费可商用（MIT 库） | ✅ | Not required | No | Global | MIT | https://github.com/GAINN/hero-patterns |
+| Hero Patterns | https://heropatterns.com | 免费可商用（MIT 库） | ✅ | Not required | No | Global | MIT | — |
 | Toptal Subtle Patterns | https://www.toptal.com/designers/subtlepatterns | 免费可商用（需署名） | ✅ | Required | No | Global | Attribution | — |
 | Transparent Textures | https://transparenttextures.com | 免费可商用 | ✅ | Not required | No | Global | Free | — |
-| SVG Patterns Gallery | https://www.svg-patterns.com | 免费可商用 | ✅ | Not required | No | Global | Free | https://github.com/nanoship/patterns |
+| SVG Patterns Gallery | https://philiprogers.com/svgpatterns/ | 免费可商用 | ✅ | Not required | No | Global | Free | — |
 | Cool Backgrounds | https://coolbackgrounds.io | 免费可商用 | ✅ | Not required | No | Global | Free | — |
-| BGJar | https://bgjar.com | 免费可商用 | ✅ | Not required | No | Global | MIT | https://github.com/philipcdavis/bgjar |
-| Magical Pattern Generator | https://magicalpattern.com | 免费可商用 | ✅ | Not required | No | Global | Free | ⚠️待核实 |
+| BGJar | https://bgjar.com | 免费可商用 | ✅ | Not required | No | Global | MIT | — |
+| Magical Pattern Generator | https://magicpattern.design/ | 免费可商用 | ✅ | Not required | No | Global | Free | ⚠️待核实 |
 | Trianglify | https://trianglify.io | MIT | ✅ | Not required | No | US | MIT | https://github.com/qrohlf/trianglify |
 | Patterninja | https://patterninja.com | 免费可商用（自制） | ✅ | Not required | No | Global | Free | — |
-| CSS Pattern | https://css-pattern.com | 免费可商用 | ✅ | Not required | No | Global | Free | https://github.com/anshuman_bhardwaj/css-pattern |
-| BackgroundSVG | https://backgroundsvg.com | 免费可商用 | ✅ | Not required | No | Global | Free | https://github.com/webkul/backgroundsvg |
+| CSS Pattern | https://css-pattern.com | 免费可商用 | ✅ | Not required | No | Global | Free | — |
+| BackgroundSVG | https://backgroundsvg.com | 免费可商用 | ✅ | Not required | No | Global | Free | — |
 | Poly Haven | https://polyhaven.com | CC0 | ✅ | Not required | No | Global | CC0 PBR textures & HDRIs up to 8K | — |
 | AmbientCG | https://ambientcg.com | CC0 | ✅ | Not required | No | DE | 1000+ CC0 PBR materials w/ maps | — |
 | Texture.ninja | https://texture.ninja | CC0 | ✅ | Not required | No | Global | Seamlessly tileable photo textures, CC0 | — |

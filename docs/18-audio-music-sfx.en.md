@@ -50,7 +50,7 @@
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | LibriVox | https://librivox.org/ | 公有领域文本 + 录音 PD Release | ✅ | Not required | No | Global | Volunteer-read public-domain audiobooks | — |
-| Mozilla Common Voice | https://commonvoice.mozilla.org/en/datasets | CC0 | ✅ | Not required | No | Global | Multilingual crowdsourced speech, tens of thousands of hours | https://github.com/common-voice/commonvoice |
+| Mozilla Common Voice | https://commonvoice.mozilla.org/en/datasets | CC0 | ✅ | Not required | No | Global | Multilingual crowdsourced speech, tens of thousands of hours | https://github.com/common-voice/common-voice |
 | NSynth | https://magenta.tensorflow.org/datasets/nsynth | CC BY 4.0 | ✅ | Required | No | US | Note-level synthetic music dataset ⚠️ verify | — |
 | OpenSLR | https://www.openslr.org/ | 逐资源（常见 CC BY 4.0 / Apache-2.0） | ⚠️ | Varies | No | Global | Hub for speech datasets; check each license | — |
 | GigaSpeech | https://github.com/SpeechColab/GigaSpeech | Apache-2.0（代码）+ 数据另行许可 | ⚠️ | Varies | Yes | Global | Ten-thousand-hour English speech incl. YouTube corpus ⚠️ verify | https://github.com/SpeechColab/GigaSpeech |
@@ -60,11 +60,11 @@
 | FMA Dataset | https://github.com/mdeff/fma | 元数据 CC0，音频为各曲 CC 许可 | ❌ | Required | No | Global | Hundred-thousand tracks + features/metadata ⚠️ verify | https://github.com/mdeff/fma |
 | MTG Jamendo Dataset | https://mtg.github.io/mtg-jamendo-dataset/ | 音乐为 CC，商用需另行取得 | ❌ | Required | No | ES / EU | Multi-label/lyrics/genre auto-annotated set | https://github.com/MTG/mtg-jamendo-dataset |
 | LibriSpeech | https://www.openslr.org/12/ | CC BY 4.0 | ✅ | Required | No | Global | Thousand-hour English read-speech benchmark | — |
-| MAESTRO | https://magenta.tensorflow.org/datasets/MAESTRO | CC BY 4.0 | ✅ | Required | No | US | Piano performances with aligned MIDI | https://github.com/magenta/magenta |
-| VocalSet | https://vocalset.cs.cmu.edu/ | CC BY 4.0 | ✅ | Required | No | US | Multi-style singing-technique recordings | — |
+| MAESTRO | https://magenta.tensorflow.org/datasets/maestro | CC BY 4.0 | ✅ | Required | No | US | Piano performances with aligned MIDI | https://github.com/magenta/magenta |
+| VocalSet | https://zenodo.org/record/1193957 | CC BY 4.0 | ✅ | Required | No | US | Multi-style singing-technique recordings | — |
 | Spoken Wikipedia | https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia | PD / CC BY mixed | ⚠️ | Varies | No | Global | Read-aloud speech of Wikipedia articles | — |
 | MLS (Multilingual LibriSpeech) | https://www.openslr.org/94/ | CC0 | ✅ | Not required | No | Global | Multilingual read-speech corpus, CC0 | — |
-| LJSpeech | https://keithito.com/LJ_Speech-Demo/ | Public domain (from LibriVox) | ✅ | Not required | No | US | Single-speaker English read-speech set | — |
+| LJSpeech | https://keithito.com/LJ-Speech-Dataset/ | Public domain (from LibriVox) | ✅ | Not required | No | US | Single-speaker English read-speech set | — |
 | VCTK | https://datashare.ed.ac.uk/handle/10283/3443 | ODbl / site terms | ⚠️ | Varies | Yes | UK | Hundred-speaker multi-accent speech set | — |
 | Tatoeba | https://tatoeba.org/ | CC BY mixed | ⚠️ | Varies | No | Global | Multilingual sentence-audio pairing database | https://github.com/Tatoeba/tatoeba2 |
 

@@ -33,7 +33,7 @@
 | SMK Open (National Gallery of Denmark) | https://open.smk.dk | CC0 | ✅ | Not required | No | DK / EU | Nordic masterpieces in CC0 HD. | — |
 | Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | Not required | No | US | 20K+ CC0 art holdings. | — |
 | Dallas Museum of Art | https://www.dma.org/art/collection | CC0 | ✅ | Not required | No | US | DMA Open Access CC0 collection. | — |
-| Harvard Art Museums | https://harvardartmuseums.org/collection | CC0 | ✅ | Not required | No | US | Harvard art museums' CC0 open access. | — |
+| Harvard Art Museums | https://harvardartmuseums.org/collections | CC0 | ✅ | Not required | No | US | Harvard art museums' CC0 open access. | — |
 | Openverse | https://openverse.org | Mixed (CC0 / CC BY / PD) | ⚠️ | Varies | No | Global | WP-origin aggregator of open media. | https://github.com/WordPress/openverse |
 | NOAA Photo Library | https://www.photolib.noaa.gov | Public Domain | ✅ | Not required | No | US | U.S. ocean and atmosphere public-domain images. | — |
 | USGS Multimedia Gallery | https://www.usgs.gov/media | Public Domain | ✅ | Not required | No | US | U.S. Geological Survey public-domain media. | — |
@@ -48,7 +48,7 @@
 | Indianapolis Museum of Art (Newfields) | https://collections.discovernewfields.org | CC0 | ✅ | Not required | No | US | Newfields collection released as CC0. | — |
 | National Park Service | https://www.nps.gov/photosmultimedia | Public Domain | ✅ | Not required | No | US | U.S. National Park Service public-domain images. | — |
 | U.S. Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | Not required | No | US | FWS public-domain wildlife imagery. | — |
-| Clark Art Institute | https://www.clarkart.edu/collection | Public Domain | ✅ | Not required | No | US | Clark Art Institute public-domain images. | — |
+| Clark Art Institute | https://www.clarkart.edu/museum/collections/browse-collections | Public Domain | ✅ | Not required | No | US | Clark Art Institute public-domain images. | — |
 | DigitaltMuseum | https://digitaltmuseum.org | Mixed (CC0 / CC BY / PD) | ⚠️ | Varies | No | NO / SE | Nordic museums aggregator; mixed licenses ⚠️ verify | — |
 
 > **Selection Tips**

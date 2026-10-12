@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-1143-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-1139-blue">
   <img alt="Categories" src="https://img.shields.io/badge/categories-29-blue">
 </p>
 
@@ -18,7 +18,7 @@
 A curated index of open-source / free-for-commercial multimedia assets, with per-entry license, commercial-use and attribution info — covering images, video, audio, fonts, 3D, motion, color, design templates and tooling.
 
 - 🌐 Live site: https://guolios.github.io/awesome-open-assets/
-- 📊 Scale: **1,143 resources** · **27 categories** + 2 license guides (7 groups) · Simplified Chinese / English
+- 📊 Scale: **1,139 resources** · **27 categories** + 2 license guides (7 groups) · Simplified Chinese / English
 
 ## Topics & Categories
 

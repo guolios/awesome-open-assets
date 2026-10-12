@@ -20,7 +20,7 @@
 | Bedroom Producers Blog 采样 | https://bedroomproducersblog.com | 免费可商用（逐款） | ⚠️ | Varies | No | Global | Per pack | — |
 | Ghosthack 免费 | https://ghosthack.com | 免费样本（逐款） | ⚠️ | Varies | Partial | DE | Free samples | — |
 | ProducerSpot 免费 | https://producerspot.com | 免费样本 | ⚠️ | Varies | No | Global | Free | ⚠️待核实 |
-| SampleRadar | https://www.musicradar.com/samplradar | Royalty-free (editorial) | ✅ | Not required | No | Global | 90,000+ royalty-free samples ⚠️待核实 | — |
+| SampleRadar | https://www.musicradar.com/news/tech/sampleradar-free-sample-downloads-217833 | Royalty-free (editorial) | ✅ | Not required | No | Global | 90,000+ royalty-free samples ⚠️待核实 | — |
 | Cymatics | https://cymatics.fm | Free commercial (email) | ✅ | Not required | Yes | US | Free trap/EDM sample packs | — |
 | Loopmasters Free | https://www.loopmasters.com | Royalty-free (free tier) | ✅ | Not required | Yes | UK | Label free sample tasters | — |
 | FiftySounds | https://fiftysounds.com | Royalty-free (commercial) | ✅ | Not required | No | Global | 10,000+ free loops | — |
@@ -32,8 +32,8 @@
 | Mixkit | https://mixkit.co/free-stock-music | Mixkit License | ✅ | Not required | No | Global | Royalty-free music & SFX | — |
 | Pixabay Music | https://pixabay.com/music | Pixabay License | ✅ | Not required | No | Global | Royalty-free music & SFX | — |
 | Looplabs | https://looplabs.com | Royalty-free (online) | ✅ | Not required | Yes | US | Online loop maker | — |
-| SampleScience | https://samplescience.ca | Free samples (per pack) | ⚠️ | Varies | No | CA | Free VSTs & samples | — |
-| Soniss GDC | https://soniss.net | Royalty-free (game audio) | ✅ | Not required | No | US | GDC game-audio giveaway | — |
+| SampleScience | https://www.samplescience.info | Free samples (per pack) | ⚠️ | Varies | No | CA | Free VSTs & samples | — |
+| Soniss GDC | https://sonniss.com/gameaudiogdc | Royalty-free (game audio) | ✅ | Not required | No | US | GDC game-audio giveaway | — |
 | 99Sounds | https://99sounds.org | Free commercial | ✅ | Not required | No | Global | Free SFX & sample libraries | — |
 | SoundPacks | https://soundpacks.com | Free samples (per pack) | ⚠️ | Varies | No | US | Free sample-pack downloads | — |
 | Free-Loops | https://free-loops.com | Royalty-free | ✅ | Not required | No | US | Royalty-free loop downloads | — |

@@ -20,17 +20,17 @@
 | Smithsonian Open Access | https://www.smithsonianopenaccess.si.edu | CC0 | ✅ | Not required | No | US | CC0 | — |
 | Paris Musées | https://www.parismuseescollections.paris.fr | CC0 | ✅ | Not required | No | FR | CC0 | — |
 | Wellcome Collection | https://wellcomecollection.org/works | CC BY | ✅ | Required | No | UK | CC BY | — |
-| Art Institute of Chicago | https://www.artic.edu/collection | CC0 / 公有领域 | ✅ | Not required | No | US | CC0 / PD | https://github.com/art-institute-of-chicago/api |
+| Art Institute of Chicago | https://www.artic.edu/collection | CC0 / 公有领域 | ✅ | Not required | No | US | CC0 / PD | https://github.com/art-institute-of-chicago/artic.edu |
 | Getty Museum Open Content | https://www.getty.edu/art/collection/ | CC0 | ✅ | Not required | No | US | Getty 88k+ works CC0 | — |
 | National Gallery of Art | https://www.nga.gov/artworks/free-images-and-open-access | CC0 | ✅ | Not required | No | US | 60k+ public-domain images | — |
-| Cleveland Museum of Art | https://openaccess.clevelandart.org | CC0 | ✅ | Not required | No | US | 37k+ CC0 with API | — |
+| Cleveland Museum of Art | https://www.clevelandart.org/open-access | CC0 | ✅ | Not required | No | US | 37k+ CC0 with API | — |
 | Los Angeles County Museum | https://collections.lacma.org | CC0 / Public Domain | ✅ | Not required | No | US | LACMA CC0 collection | — |
 | Harvard Art Museums | https://harvardartmuseums.org/collections | CC0 | ✅ | Not required | No | US | 200k+ CC0 images | — |
 | The Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | Not required | No | US | Walters CC0 collection | — |
 | Minneapolis Institute of Art | https://collections.artsmia.org | CC0 | ✅ | Not required | No | US | Minneapolis CC0 art | — |
 | Library of Congress | https://www.loc.gov/free-to-use/ | Public Domain | ✅ | Not required | No | US | LOC free-to-use sets | — |
 | NASA Image Library | https://images.nasa.gov | Public Domain (US Gov) | ✅ | Not required | No | US | NASA public-domain imagery | — |
-| NOAA Photo Library | https://www.photolibrary.noaa.gov | Public Domain | ✅ | Not required | No | US | Ocean/atmosphere public domain | — |
+| NOAA Photo Library | https://photolib.noaa.gov | Public Domain | ✅ | Not required | No | US | Ocean/atmosphere public domain | — |
 | David Rumsey Map Collection | https://www.davidrumsey.com | Public Domain | ✅ | Not required | No | US | Vast historical map collection | — |
 | Statens Museum for Kunst | https://open.smk.dk/en/ | CC0 / Public Domain Mark | ✅ | Not required | No | DK | Danish national gallery CC0 | — |
 | Nasjonalmuseet | https://www.nasjonalmuseet.no/en/ | CC0 / Public Domain | ✅ | Not required | No | NO | Norwegian national gallery CC0 | — |

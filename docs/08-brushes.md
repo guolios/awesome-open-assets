@@ -32,7 +32,7 @@
 | Cubebrush | https://cubebrush.co | 免费档（逐款） | ⚠️ | 视情况 | 是 | Global | CG 艺术家免费笔刷 | — |
 | Freepik 笔刷 | https://www.freepik.com | 免费档（需署名） | ⚠️ | 需要 | 部分 | ES | 综合素材含笔刷免费档 | — |
 | Gumroad | https://gumroad.com | 免费档（逐作者） | ⚠️ | 视情况 | 部分 | US | 独立作者 $0 笔刷 | — |
-| True Grit 免费样本 | https://www.truegrittexture.com | 免费样本可商用 | ⚠️ | 不需要 | 部分 | US | 复古质感笔刷免费样本 | — |
+| True Grit 免费样本 | https://www.truegrittexturesupply.com | 免费样本可商用 | ⚠️ | 不需要 | 部分 | US | 复古质感笔刷免费样本 | — |
 | Brushonic 铅笔笔刷 | https://brushonic.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 17 支写实铅笔笔刷 | — |
 | Tuhis 水彩笔刷 | https://tuhis.gumroad.com | 免费可商用 | ✅ | 不需要 | 部分 | Global | 23 支水彩笔刷套装 | — |
 | Mateusz 素描笔刷 | https://mateusz-urbanowicz.gumroad.com | 免费可商用 | ✅ | 不需要 | 部分 | JP | 水彩素描笔刷套装 | — |

@@ -13,7 +13,7 @@
 | GStreamer | https://gstreamer.freedesktop.org/ | LGPL-2.1+ | ✅ | Varies | No | Global | Streaming multimedia pipeline framework | https://github.com/GStreamer/gstreamer |
 | VLC | https://www.videolan.org/vlc/ | GPL-2.0+ / LGPL-2.1+ | ✅ | Varies | No | FR / EU | All-purpose player; also transcode & stream | https://github.com/videolan/vlc |
 | HandBrake | https://handbrake.fr/ | GPL-2.0 | ✅ | Varies | No | Global | GUI transcoding & encoding | https://github.com/HandBrake/HandBrake |
-| LosslessCut | https://www.losslesscut.com/ | GPL-2.0 | ✅ | Varies | No | NO / EU | Lossless trim & merge, no re-encode | https://github.com/mifi/lossless-cut |
+| LosslessCut | https://www.losslesscut.app | GPL-2.0 | ✅ | Varies | No | NO / EU | Lossless trim & merge, no re-encode | https://github.com/mifi/lossless-cut |
 | OBS Studio | https://obsproject.com/ | GPL-2.0 | ✅ | Varies | No | Global | Open-source standard for screen capture & live | https://github.com/obsproject/obs-studio |
 | Kdenlive | https://kdenlive.org/ | GPL-2.0+ | ✅ | Varies | No | Global | Multi-track non-linear editor, cross-platform | https://github.com/KDE/kdenlive |
 | Shotcut | https://www.shotcut.org/ | GPL-3.0 | ✅ | Varies | No | US | Free MLT-based editor | https://github.com/mltframework/shotcut |
@@ -44,10 +44,10 @@
 | MediaMTX | https://github.com/bluenviron/mediamtx | MIT | ✅ | Not required | No | Global | Multi-protocol media server | https://github.com/bluenviron/mediamtx |
 | SRS | https://ossrs.io/ | MIT | ✅ | Not required | No | CN | High-performance real-time media server | https://github.com/ossrs/srs |
 | Owncast | https://owncast.online/ | MIT | ✅ | Not required | No | US | Self-hosted live stream + chat | https://github.com/owncast/owncast |
-| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | Varies | No | DE / EU | MKV mux, merge & extract | https://github.com/mbunkus/mkvtoolnix |
+| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | Varies | No | DE / EU | MKV mux, merge & extract | — |
 | mpv | https://mpv.io/ | GPL-2.0+ | ✅ | Varies | No | Global | Embeddable command-line player | https://github.com/mpv-player/mpv |
 | MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | Not required | No | Global | Scriptable video editing in Python | https://github.com/Zulko/moviepy |
-| PySceneDetect | https://pyscenedetect.readthedocs.io/ | BSD-3-Clause | ✅ | Not required | No | US | OpenCV scene-cut detection | https://github.com/Breakthrough/PySceneDetect |
+| PySceneDetect | https://www.scenedetect.com/docs/ | BSD-3-Clause | ✅ | Not required | No | US | OpenCV scene-cut detection | https://github.com/Breakthrough/PySceneDetect |
 
 
 > **Quick decision by scenario**

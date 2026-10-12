@@ -9,20 +9,19 @@
 
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Open Peeps | https://www.openpeeps.com | MIT | ✅ | 不需要 | 否 | Global | 手绘风人物插画，可混搭拼接 | https://github.com/ubunsox/open-peeps |
+| Open Peeps | https://www.openpeeps.com | MIT | ✅ | 不需要 | 否 | Global | 手绘风人物插画，可混搭拼接 | — |
 | Humaaans | https://www.humaaans.com | 免费可商用（禁转售） | ✅ | 不需要 | 否 | Global | 可拼装人物插画，Figma 组件 | — |
-| Avataaars | https://avataaars.com | MIT | ✅ | 不需要 | 否 | Global | 扁平头像生成器 + 组件 | https://github.com/fisshy/avataaars |
+| Avataaars | https://avataaars.com | MIT | ✅ | 不需要 | 否 | Global | 扁平头像生成器 + 组件 | https://github.com/fangpenlin/avataaars |
 | Storyset | https://storyset.com | 免费可商用（需署名） | ✅ | 需要 | 否 | Global | 动画 / 静态插画场景库 | — |
 | DrawKit | https://drawkit.com | 免费可商用（部分付费） | ⚠️ | 需要 | 否 | Global | 精致矢量人物 / 场景插画 | — |
-| Open Doodles | https://www.opendoodles.com | MIT | ✅ | 不需要 | 否 | Global | 手绘涂鸦人物，可改色 | https://github.com/opendoodles |
-| IRA Design | https://iradesign.io | MIT | ✅ | 不需要 | 否 | Global | 渐变风插画 + 角色生成 | https://github.com/IranianDesign/iRa |
+| Open Doodles | https://www.opendoodles.com | MIT | ✅ | 不需要 | 否 | Global | 手绘涂鸦人物，可改色 | — |
+| IRA Design | https://iradesign.io | MIT | ✅ | 不需要 | 否 | Global | 渐变风插画 + 角色生成 | https://github.com/ira-design/ira-illustrations |
 | Manypixels Illustrations | https://manypixels.co/gallery | 免费可商用（需署名） | ✅ | 需要 | 否 | Global | 量大扁平插画画廊 | — |
-| Ready Player Me | https://readyplayer.me | 免费可商用（条款） | ✅ | 不需要 | 是 | Global | 跨应用 3D 虚拟形象生成 | — |
 | Blush | https://blush.design | 免费档可商用（署名） | ⚠️ | 需要 | 否 | Global | 可混搭插画头像，Figma 插件 | — |
 | Delesign Illustrations | https://delesign.com/free-designs | 免费可商用（无署名） | ✅ | 不需要 | 否 | Global | 免费插图 + 图标集 | ⚠️待核实 |
 | DiceBear | https://www.dicebear.com | MIT（部分风格 CC BY） | ✅ | 视情况 | 否 | Global | 开源头像库 30+ SVG 风格，API/JS | https://github.com/dicebear/dicebear |
 | unDraw | https://undraw.co | 自有（免费可商用无署名） | ✅ | 不需要 | 否 | Global | 海量矢量插画含人物，可改色无署名 | — |
-| Boring Avatars | https://boringavatars.com | MIT | ✅ | 不需要 | 否 | Global | 开源 SVG 头像生成器，6 种主题 | https://github.com/boringdesigns/boring-avatars |
+| Boring Avatars | https://boringavatars.com | MIT | ✅ | 不需要 | 否 | Global | 开源 SVG 头像生成器，6 种主题 | https://github.com/boringdesigners/boring-avatars |
 | Personas by Draftbit | https://personas.draftbit.com | MIT | ✅ | 不需要 | 否 | Global | 可拼装头像生成器，URL 即头像 | https://github.com/draftbit/avatar-generator |
 | Mixamo | https://www.mixamo.com | 免费（Adobe 账户） | ✅ | 不需要 | 是 | US | Adobe 免费 3D 角色与动画 | — |
 | VRoid Studio | https://vroid.com | 免费（自建模可商用） | ✅ | 不需要 | 否 | JP | 二次元 3D 形象建模，导出 VRM | — |

@@ -33,7 +33,7 @@
 | SMK Open（丹麦国家美术馆） | https://open.smk.dk | CC0 | ✅ | 不需要 | 否 | DK / EU | 北欧名画 CC0 高清下载 | — |
 | Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | 不需要 | 否 | US | 2 万+ CC0 艺术馆藏 | — |
 | Dallas Museum of Art | https://www.dma.org/art/collection | CC0 | ✅ | 不需要 | 否 | US | DMA 开放获取 CC0 藏品 | — |
-| Harvard Art Museums | https://harvardartmuseums.org/collection | CC0 | ✅ | 不需要 | 否 | US | 哈佛艺术馆 CC0 开放 | — |
+| Harvard Art Museums | https://harvardartmuseums.org/collections | CC0 | ✅ | 不需要 | 否 | US | 哈佛艺术馆 CC0 开放 | — |
 | Openverse | https://openverse.org | 混合（CC0 / CC BY / PD） | ⚠️ | 视情况 | 否 | Global | WP 系聚合全网开放媒体 | https://github.com/WordPress/openverse |
 | NOAA Photo Library | https://www.photolib.noaa.gov | Public Domain | ✅ | 不需要 | 否 | US | 美国海洋大气局公有领域图 | — |
 | USGS Multimedia Gallery | https://www.usgs.gov/media | Public Domain | ✅ | 不需要 | 否 | US | 美国地质调查局公有领域素材 | — |
@@ -48,7 +48,7 @@
 | Indianapolis Museum of Art（Newfields） | https://collections.discovernewfields.org | CC0 | ✅ | 不需要 | 否 | US | Newfields 馆藏 CC0 开放 | — |
 | National Park Service | https://www.nps.gov/photosmultimedia | Public Domain | ✅ | 不需要 | 否 | US | 美国国家公园公有领域图 | — |
 | US Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | 不需要 | 否 | US | 鱼类野生动物局公有领域图 | — |
-| Clark Art Institute | https://www.clarkart.edu/collection | Public Domain | ✅ | 不需要 | 否 | US | 克拉克艺术中心公有领域图 | — |
+| Clark Art Institute | https://www.clarkart.edu/museum/collections/browse-collections | Public Domain | ✅ | 不需要 | 否 | US | 克拉克艺术中心公有领域图 | — |
 | DigitaltMuseum | https://digitaltmuseum.org | 混合（CC0 / CC BY / PD） | ⚠️ | 视情况 | 否 | NO / SE | 北欧多馆聚合，授权杂 ⚠️待核实 | — |
 
 > **选型建议**

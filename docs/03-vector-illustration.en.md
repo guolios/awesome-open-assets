@@ -34,13 +34,13 @@
 | Blobmaker | https://blobmaker.app | Custom free license | ✅ | Not required | No | Global | Generate commercial-usable SVG blobs online. | — |
 | Haikei | https://haikei.app | Custom free license | ✅ | Not required | No | Global | Generate wave / blob SVG shapes. | — |
 | Get Waves | https://getwaves.io | Custom free license | ✅ | Not required | No | Global | Generate SVG wave dividers online. | — |
-| Hero Patterns | https://heropatterns.com | MIT | ✅ | Not required | No | US | Tileable SVG background patterns. | https://github.com/steveschoger/hero-patterns |
+| Hero Patterns | https://heropatterns.com | MIT | ✅ | Not required | No | US | Tileable SVG background patterns. | — |
 | Cool Backgrounds | https://coolbackgrounds.io | CC0 | ✅ | Not required | No | Global | Gradient background generator, CC0. | — |
 | Error 404 Illustrations | https://error404.fun | CC0 / Public Domain | ✅ | Not required | No | GR / EU | 404-page illustrations, public domain ⚠️ verify | — |
 | Fresh Folk | https://fresh-folk.com | CC BY 4.0 | ✅ | Required | Partial | Global | Dress-up character illustrations; attribution required. | — |
 | Pixel True Illustrations | https://www.pixeltrue.com/free-illustrations | Custom free license (sign-up required) | ⚠️ | Required | Yes | US | Free animated illustrations; sign-up needed. | — |
 | Patternpad | https://patternpad.com | Custom free license | ✅ | Not required | No | Global | Free SVG pattern generator. | — |
-| Storytale Free Illustrations | https://storytale.io/free-illustrations | Custom free license (sign-up required) | ⚠️ | Required | Yes | US | Free illustrations; sign-up required. | — |
+| Storytale Free Illustrations | https://ultima.storytale.io/ | Custom free license (sign-up required) | ⚠️ | Required | Yes | US | Free illustrations; sign-up required. | — |
 | Wikimedia Commons (SVG) | https://commons.wikimedia.org | CC / Public Domain (varies) | ⚠️ | Varies | No | Global | Huge public-domain vector pool, licenses vary. | — |
 | Pixabay | https://pixabay.com | Pixabay License (custom) | ✅ | Not required | No | Global | Millions of free vectors, no attribution. | — |
 | Sketchvalley | https://sketchvalley.com | CC0 | ✅ | Not required | No | Global | 70+ hand-drawn illustrations, public domain ⚠️ verify | — |

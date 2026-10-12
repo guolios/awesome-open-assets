@@ -25,11 +25,11 @@
 | images.weserv.nl | https://images.weserv.nl | 开源核心（weserv/images） | ⚠️ | Not required | No | NL / EU | Zero-setup open-source image CDN ⚠️ verify | https://github.com/weserv/images |
 | Pillow | https://python-pillow.org | MIT / HPND | ✅ | Not required | No | Global | De facto Python imaging library | https://github.com/python-pillow/Pillow |
 | ImageSharp | https://sixlabors.com/products/imagesharp | Apache-2.0 | ⚠️ | Not required | No | Global | Cross-platform .NET imaging; >1M USD revenue needs license | https://github.com/SixLabors/ImageSharp |
-| GraphicsMagick | http://www.graphicsmagick.org | MIT | ✅ | Not required | No | US | Lean, faster ImageMagick fork | https://github.com/GraphicsMagick/GraphicsMagick |
+| GraphicsMagick | http://www.graphicsmagick.org | MIT | ✅ | Not required | No | US | Lean, faster ImageMagick fork | — |
 | libpng | http://www.libpng.org | libpng / zlib | ✅ | Not required | No | Global | Reference PNG codec library | https://github.com/glennrp/libpng |
 | libheif | https://github.com/strukturag/libheif | LGPL-3.0 / MIT | ✅ | Not required | No | Global | HEIF/AVIF codec core library | https://github.com/strukturag/libheif |
 | libavif | https://github.com/AOMediaCodec/libavif | BSD-2-Clause | ✅ | Not required | No | US | Official AVIF codec library | https://github.com/AOMediaCodec/libavif |
-| OptiPNG | https://optipng.sourceforge.net | zlib | ✅ | Not required | No | Global | Lossless PNG recompression | https://github.com/optipng/optipng |
+| OptiPNG | https://optipng.sourceforge.net | zlib | ✅ | Not required | No | Global | Lossless PNG recompression | — |
 | pngcrush | https://pmt.sourceforge.io/pngcrush | libpng / zlib | ✅ | Not required | No | Global | Multi-strategy PNG optimizer | — |
 | gifsicle | https://www.lcdf.org/gifsicle | GPL-2.0 | ✅ | Not required | No | US | GIF animation creation and optimization | https://github.com/kohler/gifsicle |
 | svgo | https://github.com/svg/svgo | MIT | ✅ | Not required | No | Global | Lossless SVG optimizer | https://github.com/svg/svgo |

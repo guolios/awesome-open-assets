@@ -9,17 +9,17 @@
 
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hero Patterns | https://heropatterns.com | 免费可商用（MIT 库） | ✅ | 不需要 | 否 | Global | SVG 背景图案，可实时改色 | https://github.com/GAINN/hero-patterns |
+| Hero Patterns | https://heropatterns.com | 免费可商用（MIT 库） | ✅ | 不需要 | 否 | Global | SVG 背景图案，可实时改色 | — |
 | Toptal Subtle Patterns | https://www.toptal.com/designers/subtlepatterns | 免费可商用（需署名） | ✅ | 需要 | 否 | Global | 最知名的轻量纹理库 | — |
 | Transparent Textures | https://transparenttextures.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 透明叠加纹理，叠色即用 | — |
-| SVG Patterns Gallery | https://www.svg-patterns.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 纯 SVG 几何图案集 | https://github.com/nanoship/patterns |
+| SVG Patterns Gallery | https://philiprogers.com/svgpatterns/ | 免费可商用 | ✅ | 不需要 | 否 | Global | 纯 SVG 几何图案集 | — |
 | Cool Backgrounds | https://coolbackgrounds.io | 免费可商用 | ✅ | 不需要 | 否 | Global | 渐变 / 网格 / 图片背景生成 | — |
-| BGJar | https://bgjar.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 开源 SVG 背景，可定制 | https://github.com/philipcdavis/bgjar |
-| Magical Pattern Generator | https://magicalpattern.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 在线生成无缝几何图案 | ⚠️待核实 |
+| BGJar | https://bgjar.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 开源 SVG 背景，可定制 | — |
+| Magical Pattern Generator | https://magicpattern.design/ | 免费可商用 | ✅ | 不需要 | 否 | Global | 在线生成无缝几何图案 | ⚠️待核实 |
 | Trianglify | https://trianglify.io | MIT | ✅ | 不需要 | 否 | US | 低多边形渐变背景生成 | https://github.com/qrohlf/trianglify |
 | Patterninja | https://patterninja.com | 免费可商用（自制） | ✅ | 不需要 | 否 | Global | 在线拼贴生成无缝图案 | — |
-| CSS Pattern | https://css-pattern.com | 免费可商用 | ✅ | 不需要 | 否 | Global | CSS 背景图案代码片段 | https://github.com/anshuman_bhardwaj/css-pattern |
-| BackgroundSVG | https://backgroundsvg.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 可编辑 SVG 背景素材 | https://github.com/webkul/backgroundsvg |
+| CSS Pattern | https://css-pattern.com | 免费可商用 | ✅ | 不需要 | 否 | Global | CSS 背景图案代码片段 | — |
+| BackgroundSVG | https://backgroundsvg.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 可编辑 SVG 背景素材 | — |
 | Poly Haven | https://polyhaven.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 PBR 纹理与 HDRI，达 8K | — |
 | AmbientCG | https://ambientcg.com | CC0 | ✅ | 不需要 | 否 | DE | 千款 CC0 PBR 材质含贴图 | — |
 | Texture.ninja | https://texture.ninja | CC0 | ✅ | 不需要 | 否 | Global | 可平铺照片纹理，CC0 | — |

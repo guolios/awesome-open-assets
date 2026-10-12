@@ -9,7 +9,7 @@
 
 | 名称 | 官网 | 许可 / License | 免费商用 | 署名 | 需注册 | 来源地区 | 一句话特色 | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HTML5 UP | https://html5up.net | CCA 3.0 | ✅ | 需要（署名） | 否 | Global | 响应式 HTML 模板标杆 | https://github.com/ajlkn/html5up |
+| HTML5 UP | https://html5up.net | CCA 3.0 | ✅ | 需要（署名） | 否 | Global | 响应式 HTML 模板标杆 | — |
 | Start Bootstrap | https://startbootstrap.com | MIT | ✅ | 不需要 | 否 | US | Bootstrap 免费主题 / 模板 | https://github.com/StartBootstrap |
 | HyperUI | https://www.hyperui.dev | MIT | ✅ | 不需要 | 否 | Global | 免费 Tailwind 组件集合 | https://github.com/markmead/hyperui |
 | Figma Community | https://www.figma.com/community | 免费文件（逐作者） | ⚠️ | 视情况 | 是 | Global | 最大 UI Kit / 模板社区 | — |
@@ -34,7 +34,7 @@
 | CoreUI 免费版 | https://coreui.io | MIT（免费版） | ✅ | 不需要 | 否 | Global | Bootstrap 后台免费模板 | https://github.com/coreui/coreui-free-bootstrap-admin-template |
 | Bootswatch | https://bootswatch.com | MIT | ✅ | 不需要 | 否 | US | 免费 Bootstrap 主题 | https://github.com/thomaspark/bootswatch |
 | Material Dashboard | https://www.creative-tim.com/product/material-dashboard | MIT（免费版） | ✅ | 不需要 | 否 | US | 免费 Bootstrap 仪表盘 | https://github.com/creativetimofficial/material-dashboard |
-| Volt Dashboard | https://themesberg.com/product/free-dashboard/volt-bootstrap-5-dashboard | MIT（免费版） | ✅ | 不需要 | 否 | Global | 免费 Bootstrap 5 仪表盘 | https://github.com/themesberg/volt-bootstrap-5-dashboard |
+| Volt Dashboard | https://themesberg.com/product/admin-dashboard/volt-bootstrap-5-dashboard | MIT（免费版） | ✅ | 不需要 | 否 | Global | 免费 Bootstrap 5 仪表盘 | https://github.com/themesberg/volt-bootstrap-5-dashboard |
 | Sneat 免费版 | https://themeselection.com/item/sneat-free-bootstrap-html-admin-template | MIT（免费版） | ✅ | 需要 | 否 | Global | 免费 Bootstrap 5 后台 | https://github.com/themeselection/sneat-bootstrap-html-admin-template-free |
 | MDBootstrap | https://mdbootstrap.com | MIT（免费版） | ✅ | 不需要 | 否 | Global | Material Design Bootstrap | https://github.com/mdbootstrap/mdb-ui-kit |
 | shadcn/ui | https://ui.shadcn.com | MIT | ✅ | 不需要 | 否 | Global | 复制即用 React 组件 | https://github.com/shadcn-ui/ui |

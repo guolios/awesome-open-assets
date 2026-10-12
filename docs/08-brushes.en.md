@@ -32,7 +32,7 @@
 | Cubebrush | https://cubebrush.co | Free tier (per item) | ⚠️ | Varies | Yes | Global | CG artist free brushes | — |
 | Freepik Brushes | https://www.freepik.com | Free tier (attribution) | ⚠️ | Required | Partial | ES | Brushes in free stock tier | — |
 | Gumroad | https://gumroad.com | Free tier (per author) | ⚠️ | Varies | Partial | US | Indie $0 brush packs | — |
-| True Grit Free | https://www.truegrittexture.com | Free samples commercial | ⚠️ | Not required | Partial | US | Vintage-texture free brush samples | — |
+| True Grit Free | https://www.truegrittexturesupply.com | Free samples commercial | ⚠️ | Not required | Partial | US | Vintage-texture free brush samples | — |
 | Brushonic Pencils | https://brushonic.com | Free for commercial | ✅ | Not required | No | Global | 17 realistic pencil brushes | — |
 | Tuhis Watercolor | https://tuhis.gumroad.com | Free for commercial | ✅ | Not required | Partial | Global | 23-brush watercolor set | — |
 | Mateusz Sketching | https://mateusz-urbanowicz.gumroad.com | Free for commercial | ✅ | Not required | Partial | JP | Watercolor sketch brush set | — |

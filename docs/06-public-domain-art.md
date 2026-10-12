@@ -20,17 +20,17 @@
 | Smithsonian Open Access | https://www.smithsonianopenaccess.si.edu | CC0 | ✅ | 不需要 | 否 | US | 300 万+ 藏品 CC0 开放 | — |
 | Paris Musées | https://www.parismuseescollections.paris.fr | CC0 | ✅ | 不需要 | 否 | FR | 巴黎博物馆联盟开放藏品 | — |
 | Wellcome Collection | https://wellcomecollection.org/works | CC BY | ✅ | 需要 | 否 | UK | 医学 / 历史图像，CC BY 需署名 | — |
-| Art Institute of Chicago | https://www.artic.edu/collection | CC0 / 公有领域 | ✅ | 不需要 | 否 | US | 4.4 万+ 公开领域藏品，含 API | https://github.com/art-institute-of-chicago/api |
+| Art Institute of Chicago | https://www.artic.edu/collection | CC0 / 公有领域 | ✅ | 不需要 | 否 | US | 4.4 万+ 公开领域藏品，含 API | https://github.com/art-institute-of-chicago/artic.edu |
 | 盖蒂博物馆 Open Content | https://www.getty.edu/art/collection/ | CC0 | ✅ | 不需要 | 否 | US | 盖蒂 8.8 万+ 藏品 CC0 开放 | — |
 | 美国国家美术馆（华盛顿） | https://www.nga.gov/artworks/free-images-and-open-access | CC0 | ✅ | 不需要 | 否 | US | 6 万+ 公共领域高清图 | — |
-| 克利夫兰艺术博物馆 | https://openaccess.clevelandart.org | CC0 | ✅ | 不需要 | 否 | US | 3.7 万+ CC0 含 API | — |
+| 克利夫兰艺术博物馆 | https://www.clevelandart.org/open-access | CC0 | ✅ | 不需要 | 否 | US | 3.7 万+ CC0 含 API | — |
 | 洛杉矶郡艺术博物馆 | https://collections.lacma.org | CC0 / 公共领域 | ✅ | 不需要 | 否 | US | LACMA CC0 藏品 | — |
 | 哈佛艺术博物馆 | https://harvardartmuseums.org/collections | CC0 | ✅ | 不需要 | 否 | US | 20 万+ CC0 图 | — |
 | 华尔特斯艺术博物馆 | https://art.thewalters.org | CC0 | ✅ | 不需要 | 否 | US | 华尔特斯 CC0 藏品 | — |
 | 明尼阿波利斯艺术学院 | https://collections.artsmia.org | CC0 | ✅ | 不需要 | 否 | US | 明尼阿波利斯 CC0 藏 | — |
 | 美国国会图书馆 | https://www.loc.gov/free-to-use/ | 公共领域 | ✅ | 不需要 | 否 | US | 国会图书馆免费使用图集 | — |
 | NASA 影像库 | https://images.nasa.gov | 公共领域（美国政府） | ✅ | 不需要 | 否 | US | NASA 公共领域太空影像 | — |
-| NOAA 影像库 | https://www.photolibrary.noaa.gov | 公共领域 | ✅ | 不需要 | 否 | US | 海洋大气公共领域图 | — |
+| NOAA 影像库 | https://photolib.noaa.gov | 公共领域 | ✅ | 不需要 | 否 | US | 海洋大气公共领域图 | — |
 | David Rumsey 历史地图 | https://www.davidrumsey.com | 公共领域 | ✅ | 不需要 | 否 | US | 海量历史地图公共领域 | — |
 | 丹麦国家美术馆（SMK） | https://open.smk.dk/en/ | CC0 / 公共领域标识 | ✅ | 不需要 | 否 | DK | 丹麦国家美术馆 CC0 | — |
 | 挪威国家美术馆 | https://www.nasjonalmuseet.no/en/ | CC0 / 公共领域 | ✅ | 不需要 | 否 | NO | 挪威国家美术馆 CC0 | — |

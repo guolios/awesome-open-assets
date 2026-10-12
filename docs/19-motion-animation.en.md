@@ -14,7 +14,7 @@
 | UseAnimations | https://useanimations.com/ | MIT | ✅ | Not required | No | Global | 298 handcrafted animated icons, ready to use | https://github.com/useAnimations |
 | rlottie | https://github.com/Samsung/rlottie | 三星自有开源许可 ⚠️待核实 | ✅ | Not required | No | KR | Samsung's C++ Lottie rendering library | https://github.com/Samsung/rlottie |
 | Lordicon | https://lordicon.com/ | Lordicon Free License | ✅ | Required | No | PL / EU | Free tier is commercial but must credit | — |
-| Noto Emoji Animations | https://googlefonts.github.io/noto-emoji-animation/ | Apache-2.0 / CC BY 4.0 | ✅ | Varies | No | US | Google's open-source animated emoji preview ⚠️ verify | — |
+| Noto Emoji Animations | https://github.com/googlefonts/noto-emoji-animation/ | Apache-2.0 / CC BY 4.0 | ✅ | Varies | No | US | Google's open-source animated emoji preview ⚠️ verify | — |
 | LottieFiles | https://lottiefiles.com/ | 自有条款（免费 / Premium 混合） | ⚠️ | Varies | Partial | US | 800k+ Lotties, world's largest animation library | — |
 | IconScout | https://iconscout.com/ | 混合（免费需署名 / 付费） | ⚠️ | Required | Partial | IN | Mixed library of animated icons and Lottie | — |
 | Icons8 动画图标 | https://icons8.com/animated-icons | Icons8 免费条款（须链接署名） | ⚠️ | Required | Partial | US | Ten-thousand-level animated icons; free tier needs credit | — |
@@ -30,9 +30,9 @@
 | Rive | https://rive.app | MIT (runtime) | ✅ | Not required | Partial | US | Interactive animation runtime, MIT-licensed | https://github.com/rive-app/rive-runtime |
 | anime.js | https://animejs.com | MIT | ✅ | Not required | No | Global | Lightweight JavaScript animation engine | https://github.com/juliangarnier/anime |
 | GSAP | https://gsap.com | Custom (100% free incl. commercial) | ✅ | Not required | No | US | Pro-grade JS animation library, free since 2025 | https://github.com/greensock/GSAP |
-| Motion | https://motion.dev | MIT | ✅ | Not required | No | Global | React animation library, formerly Framer Motion | https://github.com/pmndrs/motion |
+| Motion | https://motion.dev | MIT | ✅ | Not required | No | Global | React animation library, formerly Framer Motion | https://github.com/motiondivision/motion |
 | react-spring | https://react-spring.dev | MIT | ✅ | Not required | No | Global | Physics-based spring animations for React | https://github.com/pmndrs/react-spring |
-| AutoAnimate | https://auto-animate.formkit.com | MIT | ✅ | Not required | No | Global | Add motion to any UI with one line | https://github.com/formkit/autoAnimate |
+| AutoAnimate | https://auto-animate.formkit.com | MIT | ✅ | Not required | No | Global | Add motion to any UI with one line | https://github.com/formkit/auto-animate |
 | PixiJS | https://pixijs.com | MIT | ✅ | Not required | No | Global | WebGL 2D rendering and animation engine | https://github.com/pixijs/pixijs |
 | mo.js | https://mojs.github.io | MIT | ✅ | Not required | No | Global | Motion graphics and particle animation lib | https://github.com/mojs/mojs |
 | tsParticles | https://particles.js.org | MIT | ✅ | Not required | No | Global | Highly configurable particle animation engine | https://github.com/tsparticles/tsparticles |

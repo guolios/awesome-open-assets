@@ -9,20 +9,19 @@
 
 | Name | Website | License | Commercial | Attribution | Sign-up | Region | Highlight | GitHub |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Open Peeps | https://www.openpeeps.com | MIT | ✅ | Not required | No | Global | MIT | https://github.com/ubunsox/open-peeps |
+| Open Peeps | https://www.openpeeps.com | MIT | ✅ | Not required | No | Global | MIT | — |
 | Humaaans | https://www.humaaans.com | 免费可商用（禁转售） | ✅ | Not required | No | Global | No resale | — |
-| Avataaars | https://avataaars.com | MIT | ✅ | Not required | No | Global | MIT | https://github.com/fisshy/avataaars |
+| Avataaars | https://avataaars.com | MIT | ✅ | Not required | No | Global | MIT | https://github.com/fangpenlin/avataaars |
 | Storyset | https://storyset.com | 免费可商用（需署名） | ✅ | Required | No | Global | Attribution | — |
 | DrawKit | https://drawkit.com | 免费可商用（部分付费） | ⚠️ | Required | No | Global | Partial paid | — |
-| Open Doodles | https://www.opendoodles.com | MIT | ✅ | Not required | No | Global | MIT | https://github.com/opendoodles |
-| IRA Design | https://iradesign.io | MIT | ✅ | Not required | No | Global | MIT | https://github.com/IranianDesign/iRa |
+| Open Doodles | https://www.opendoodles.com | MIT | ✅ | Not required | No | Global | MIT | — |
+| IRA Design | https://iradesign.io | MIT | ✅ | Not required | No | Global | MIT | https://github.com/ira-design/ira-illustrations |
 | Manypixels Illustrations | https://manypixels.co/gallery | 免费可商用（需署名） | ✅ | Required | No | Global | Attribution | — |
-| Ready Player Me | https://readyplayer.me | 免费可商用（条款） | ✅ | Not required | Yes | Global | Free (terms) | — |
 | Blush | https://blush.design | 免费档可商用（署名） | ⚠️ | Required | No | Global | Attribution (free) | — |
 | Delesign Illustrations | https://delesign.com/free-designs | 免费可商用（无署名） | ✅ | Not required | No | Global | No attribution | ⚠️待核实 |
 | DiceBear | https://www.dicebear.com | MIT (some styles CC BY) | ✅ | Varies | No | Global | Open-source avatar library, 30+ SVG styles, API/JS | https://github.com/dicebear/dicebear |
 | unDraw | https://undraw.co | Custom (free, no attribution) | ✅ | Not required | No | Global | Huge illustration set incl. people, recolorable, no credit | — |
-| Boring Avatars | https://boringavatars.com | MIT | ✅ | Not required | No | Global | Open-source SVG avatar generator, 6 themes | https://github.com/boringdesigns/boring-avatars |
+| Boring Avatars | https://boringavatars.com | MIT | ✅ | Not required | No | Global | Open-source SVG avatar generator, 6 themes | https://github.com/boringdesigners/boring-avatars |
 | Personas by Draftbit | https://personas.draftbit.com | MIT | ✅ | Not required | No | Global | Mix-and-match avatar generator, URL-as-avatar | https://github.com/draftbit/avatar-generator |
 | Mixamo | https://www.mixamo.com | Free (Adobe account) | ✅ | Not required | Yes | US | Adobe's free 3D characters & animations | — |
 | VRoid Studio | https://vroid.com | Free (your models commercial) | ✅ | Not required | No | JP | Anime 3D avatar modeling, export VRM | — |
