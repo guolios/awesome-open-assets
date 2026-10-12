@@ -52,7 +52,7 @@
       empty: "没有匹配的资源，换个关键词试试。",
       footNote: "一个持续维护的开源素材收藏清单。所有条目均经人工核实许可与存活性，正式取用前请再次确认。",
       footLicense: "基于 CC BY 4.0 授权",
-      ghLink: "GitHub"
+      ghLink: "@guolios"
     },
     en: {
       heroTitle: "Global Open-Source Asset Navigator",
@@ -80,7 +80,7 @@
       empty: "No matching resources. Try another keyword.",
       footNote: "A maintained collection of open-source assets. Every entry is manually verified for license and availability — please re-confirm before production use.",
       footLicense: "Licensed under CC BY 4.0",
-      ghLink: "GitHub"
+      ghLink: "@guolios"
     }
   };
 
