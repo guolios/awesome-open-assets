@@ -124,7 +124,6 @@
     document.documentElement.setAttribute("lang", state.lang === "zh" ? "zh-CN" : "en");
     document.getElementById("heroTitle").textContent = t0.heroTitle;
     document.getElementById("heroSub").textContent = t0.heroSub;
-    document.getElementById("heroBadgeText").textContent = t0.heroBadge;
     document.getElementById("ctaRepoText").textContent = t0.ctaRepo;
     document.getElementById("ctaDocsText").textContent = t0.ctaDocs;
     document.getElementById("search").placeholder = t0.searchPlaceholder;
