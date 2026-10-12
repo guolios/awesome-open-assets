@@ -50,8 +50,8 @@
       guideHint: "这是一篇授权指南，点击查看完整文档",
       loadingMore: "加载中…",
       empty: "没有匹配的资源，换个关键词试试。",
-      footNote: "一个持续维护的开源素材收藏清单。所有条目均经人工核实许可与存活性，正式取用前请再次确认。",
       footLicense: "基于 CC BY 4.0 授权",
+      footDocs: "文档",
       ghLink: "@guolios"
     },
     en: {
@@ -78,8 +78,8 @@
       guideHint: "This is a license guide — open the full document",
       loadingMore: "Loading…",
       empty: "No matching resources. Try another keyword.",
-      footNote: "A maintained collection of open-source assets. Every entry is manually verified for license and availability — please re-confirm before production use.",
       footLicense: "Licensed under CC BY 4.0",
+      footDocs: "Docs",
       ghLink: "@guolios"
     }
   };
@@ -158,8 +158,9 @@
     document.getElementById("ctaDocsText").textContent = t0.ctaDocs;
     document.getElementById("search").placeholder = t0.searchPlaceholder;
     document.querySelector("#ghLink .gh-text").textContent = t0.ghLink;
-    document.getElementById("footNote").textContent = t0.footNote;
     document.getElementById("footLicense").textContent = t0.footLicense;
+    var fd = document.getElementById("footDocsText");
+    if (fd) fd.textContent = t0.footDocs;
     document.querySelectorAll("#langSwitch .seg-btn").forEach(function (b) {
       b.classList.toggle("is-active", b.getAttribute("data-lang") === state.lang);
     });
@@ -232,6 +233,7 @@
       return '<button class="chip' + (state.license === d.key ? " is-active" : "") + '" data-license="' + d.key + '">' + esc(d.label) + '</button>';
     }).join("");
     document.getElementById("licenseChips").innerHTML = html;
+    updateEdgeFades();
   }
 
   /* ---------- 筛选 ---------- */
@@ -381,15 +383,34 @@
   }
 
   /* ---------- 页脚：授权速查文档入口（guide 类不进侧栏，但仍需可达） ---------- */
+  /* 页脚用短标签：完整标题太长会把单行挤到换行，悬浮仍显示全称 */
+  var FOOT_GUIDE_SHORT = {
+    zh: { "28": "授权速查", "29": "多媒体速查" },
+    en: { "28": "License basics", "29": "Media licenses" }
+  };
   function renderFooterGuides() {
     var box = document.getElementById("footGuides");
     if (!box) return;
     var guides = DATA.categories.filter(function (c) { return c.type === "guide"; });
     box.innerHTML = guides.map(function (c) {
-      var title = state.lang === "zh" ? c.titleZh : c.titleEn;
-      return '<a href="' + esc(guideHref(c.id)) + '" target="_blank" rel="noopener">' +
-        ICONS.doc + esc(title) + '</a>';
+      var full = state.lang === "zh" ? c.titleZh : c.titleEn;
+      var short = (FOOT_GUIDE_SHORT[state.lang] || {})[c.id] ||
+        (state.lang === "zh" ? full.replace(/与常见坑$/, "") : full);
+      return '<a href="' + esc(guideHref(c.id)) + '" target="_blank" rel="noopener" title="' + esc(full) + '">' +
+        esc(short) + '</a>';
     }).join("");
+  }
+
+  /* ---------- 横滚边缘渐隐：仅在对应侧确实还有内容时才渐隐 ----------
+     无条件渐隐会把行首 chip（"全部许可"）的左缘切虚，故按滚动位置开关。 */
+  function updateEdgeFades() {
+    var els = document.querySelectorAll("#licenseChips, .cat-dock .cat-nav");
+    for (var i = 0; i < els.length; i++) {
+      var el = els[i];
+      var max = el.scrollWidth - el.clientWidth;
+      el.classList.toggle("fade-l", el.scrollLeft > 2);
+      el.classList.toggle("fade-r", max > 2 && el.scrollLeft < max - 2);
+    }
   }
 
   /* ---------- 事件 ---------- */
@@ -449,6 +470,14 @@
     });
 
     window.addEventListener("scroll", onScroll, { passive: true });
+
+    // 横滚条：滚动中实时更新渐隐边；窗口尺寸变化后重算
+    var ls = document.getElementById("licenseChips");
+    if (ls) ls.addEventListener("scroll", updateEdgeFades, { passive: true });
+    var dn = document.querySelector("#catDock .cat-nav");
+    if (dn) dn.addEventListener("scroll", updateEdgeFades, { passive: true });
+    window.addEventListener("resize", updateEdgeFades);
+    if (catMq.addEventListener) catMq.addEventListener("change", updateEdgeFades);
   }
 
   /* ---------- 分类导航停靠：桌面侧栏 / 窄屏工具栏 ---------- */
@@ -460,6 +489,7 @@
     if (!catNavEl || !catDock || !catBox) return;
     if (catMq.matches) catDock.appendChild(catNavEl);
     else catBox.appendChild(catNavEl);
+    updateEdgeFades();
   }
   if (catMq.addEventListener) catMq.addEventListener("change", layoutCatNav);
   else if (catMq.addListener) catMq.addListener(layoutCatNav);
@@ -481,6 +511,10 @@
     bindEvents();
     onScroll();
     syncURL();
+    // 字体/布局稳定后重算横滚渐隐边（首帧测量可能早于字体替换）
+    updateEdgeFades();
+    window.requestAnimationFrame(updateEdgeFades);
+    window.addEventListener("load", updateEdgeFades);
   }
 
   if (document.readyState === "loading") {
