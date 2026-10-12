@@ -3,6 +3,7 @@
 # 04 · Icon Resources (Icons)
 
 > This is **the most worry-free licensing tier** in the whole repo: icon libraries almost all use MIT / ISC / Apache-2.0 / CC0, commercial use with no attribution.
+> Added in Oct 2026: **open-source design-system icons from major global companies** (IBM Carbon, Shopify Polaris, Red Hat PatternFly, HPE Grommet, Uber Base Web, Tencent TDesign/WeUI, ByteDance Arco/Semi, Alibaba Element Plus, JD NutUI, Youzan Vant, Ionic, Twilio Paste, GitLab, WordPress Dashicons).
 > The only pitfalls are some brand icons (trademarks themselves) and a few "free but attribution-required" platforms.
 
 **Legend**: Commercial use ✅ allowed ｜ ⚠️ partial ｜ ❌ not allowed　·　Attribution: Not required / Required / Varies
@@ -51,12 +52,33 @@
 | Zondicons | https://zondicons.com | Custom free license (no attribution) | ✅ | Not required | No | Global | 270+ clean line icons. | — |
 | Iconmonstr | https://iconmonstr.com | Custom free license (no attribution) | ✅ | Not required | No | Global | 4,500+ monochrome icons. | — |
 | Line Awesome | https://icons8.com/line-awesome | MIT / Good Boy License | ✅ | Required | No | Global | 1,500+ outline icons, dual license. | https://github.com/icons8/line-awesome |
+| Carbon Icons | https://carbondesignsystem.com/elements/icons/library/ | Apache-2.0 | ✅ | Not required | No | US | IBM's official design system icons. | https://github.com/carbon-design-system/carbon |
+| Polaris Icons | https://polaris.shopify.com | MIT | ✅ | Not required | No | CA | Shopify's official e-commerce design system. | https://github.com/Shopify/polaris |
+| PatternFly Icons | https://www.patternfly.org | MIT | ✅ | Not required | No | US | Red Hat's official enterprise design system. | https://github.com/patternfly/patternfly-react |
+| Grommet Icons | https://icons.grommet.io | Apache-2.0 | ✅ | Not required | No | US | HPE's official design system icons. | https://github.com/grommet/grommet-icons |
+| Base Web Icons | https://baseweb.design/components/icon | MIT | ✅ | Not required | No | US | Uber's official Base design language. | https://github.com/uber/baseweb |
+| TDesign Icons | https://tdesign.tencent.com | MIT | ✅ | Not required | No | CN | Tencent's enterprise design system, multi-framework. | https://github.com/Tencent/tdesign |
+| WeUI Icons | https://weui.io | MIT | ✅ | Not required | No | CN | WeChat's official mobile UI library icons. | https://github.com/Tencent/weui |
+| Arco Design Icons | https://arco.design/react/components/icon | MIT | ✅ | Not required | No | CN | ByteDance's enterprise design system. | https://github.com/arco-design/arco-design |
+| Semi Design Icons | https://semi.design/en-US/basic/icon | MIT | ✅ | Not required | No | CN | ByteDance's design system, AI-friendly. | https://github.com/DouyinFE/semi-design |
+| Element Plus Icons | https://element-plus.org/en-US/component/icon | MIT | ✅ | Not required | No | CN | Icons for Alibaba's Element Plus component library. | https://github.com/element-plus/element-plus-icons |
+| NutUI Icons | https://nutui.jd.com | MIT | ✅ | Not required | No | CN | JD.com's mobile component library icons. | https://github.com/jdf2e/nutui |
+| Vant Icons | https://vant-ui.github.io/vant/#/en-US/icon | MIT | ✅ | Not required | No | CN | Youzan's mobile component library icons. | https://github.com/youzan/vant |
+| Ionicons | https://ionic.io/ionicons | MIT | ✅ | Not required | No | US | 1,300+ hand-crafted icons for mobile and web. | https://github.com/ionic-team/ionicons |
+| Paste Icons | https://paste.twilio.design | MIT | ✅ | Not required | No | US | Twilio's official design system icons. | https://github.com/twilio-labs/paste |
+| GitLab UI Icons | https://design.gitlab.com | MIT | ✅ | Not required | No | US | GitLab's official Pajamas design system icons. | https://gitlab.com/gitlab-org/gitlab-ui |
+| Dashicons | https://developer.wordpress.org/resource/dashicons/ | GPL-3.0 | ⚠️ | Not required | No | US | WordPress admin icons; GPL copyleft applies. | https://github.com/WordPress/dashicons |
+| EUI Icons | https://eui.elastic.ai | SSPL v1 / Elastic License 2.0 dual license | ⚠️ | Not required | No | US | Elastic's official (Kibana) icons; non-standard open-source license. | https://github.com/elastic/eui |
 
 > **Selection Tips**
 > - **For product UI, pick blindly**: Lucide, Tabler, Phosphor — MIT/ISC, no attribution, modern style, active communities, full frontend packages.
 > - **Chinese projects / domestic teams**: Remix Icon and IconPark are both domestic Apache-2.0 with Chinese-friendly docs.
+> - **Same icons as the big tech design systems**: IBM Carbon, Shopify Polaris, Red Hat PatternFly, HPE Grommet, Uber Base Web, Tencent TDesign, ByteDance Arco/Semi — icons open-sourced from corporate design systems: consistent style, long-term maintenance, ideal for products in those ecosystems.
 > - **For design systems**: Material Symbols supports variable weight; Radix Icons is built for design systems.
 > - ⚠️ **Font Awesome Free actually requires attribution** (icons are CC BY 4.0) — many people don't know this.
 > - ⚠️ **Simple Icons contains only brand trademarks**: you may reference them in articles, but the trademark rights themselves are outside the CC0 grant — don't imply brand partnership.
+> - ⚠️ **EUI Icons is not standard open source**: Elastic uses a dual SSPL v1 / Elastic License 2.0 — read the terms before commercial use.
+> - ⚠️ **Dashicons is GPL-3.0**: copyleft applies — use caution in closed-source commercial products; no issue inside the WordPress ecosystem.
+> - ⚠️ **Apple SF Symbols is free but not open source** (restricted to Apple platform use cases) — don't mix it with open-source icons.
 
 [← Back to Index](../README.en.md)

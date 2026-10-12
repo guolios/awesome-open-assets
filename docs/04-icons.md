@@ -3,6 +3,7 @@
 # 04 · 图标资源（Icons）
 
 > 这一类是整个仓库里**授权最省心的一档**：图标库几乎全部采用 MIT / ISC / Apache-2.0 / CC0，免署名即可商用。
+> 2026-10 补充了一批**全球大厂开源的设计体系图标**（IBM Carbon、Shopify Polaris、Red Hat PatternFly、HPE Grommet、Uber Base Web、腾讯 TDesign/WeUI、字节 Arco/Semi、阿里 Element Plus、京东 NutUI、有赞 Vant、Ionic、Twilio Paste、GitLab、WordPress Dashicons）。
 > 唯一的坑在于部分品牌图标（商标本身）和少量”免费需署名”的平台。
 
 **图例**：免费商用 ✅ 可商用 ｜ ⚠️ 部分可商用 ｜ ❌ 不可商用　·　署名：不需要 / 需要 / 视情况
@@ -51,12 +52,33 @@
 | Zondicons | https://zondicons.com | 自有免费许可（免署名） | ✅ | 不需要 | 否 | Global | 270+ 简洁线形图标 | — |
 | Iconmonstr | https://iconmonstr.com | 自有免费许可（免署名） | ✅ | 不需要 | 否 | Global | 4500+ 单色图标 | — |
 | Line Awesome | https://icons8.com/line-awesome | MIT / Good Boy License | ✅ | 需要 | 否 | Global | 1500+ 轮廓图标，双许可 | https://github.com/icons8/line-awesome |
+| Carbon Icons | https://carbondesignsystem.com/elements/icons/library/ | Apache-2.0 | ✅ | 不需要 | 否 | US | IBM 官方设计系统图标 | https://github.com/carbon-design-system/carbon |
+| Polaris Icons | https://polaris.shopify.com | MIT | ✅ | 不需要 | 否 | CA | Shopify 官方电商设计系统 | https://github.com/Shopify/polaris |
+| PatternFly Icons | https://www.patternfly.org | MIT | ✅ | 不需要 | 否 | US | Red Hat 官方企业级设计系统 | https://github.com/patternfly/patternfly-react |
+| Grommet Icons | https://icons.grommet.io | Apache-2.0 | ✅ | 不需要 | 否 | US | HPE 官方设计系统图标 | https://github.com/grommet/grommet-icons |
+| Base Web Icons | https://baseweb.design/components/icon | MIT | ✅ | 不需要 | 否 | US | Uber 官方设计语言 Base | https://github.com/uber/baseweb |
+| TDesign Icons | https://tdesign.tencent.com | MIT | ✅ | 不需要 | 否 | CN | 腾讯企业级设计体系，多技术栈 | https://github.com/Tencent/tdesign |
+| WeUI Icons | https://weui.io | MIT | ✅ | 不需要 | 否 | CN | 微信官方移动端组件库图标 | https://github.com/Tencent/weui |
+| Arco Design Icons | https://arco.design/react/components/icon | MIT | ✅ | 不需要 | 否 | CN | 字节跳动企业级设计系统 | https://github.com/arco-design/arco-design |
+| Semi Design Icons | https://semi.design/zh-CN/basic/icon | MIT | ✅ | 不需要 | 否 | CN | 字节跳动设计系统，AI 友好 | https://github.com/DouyinFE/semi-design |
+| Element Plus Icons | https://element-plus.org/en-US/component/icon | MIT | ✅ | 不需要 | 否 | CN | 阿里 Element Plus 组件库配套图标 | https://github.com/element-plus/element-plus-icons |
+| NutUI Icons | https://nutui.jd.com | MIT | ✅ | 不需要 | 否 | CN | 京东移动端组件库图标 | https://github.com/jdf2e/nutui |
+| Vant Icons | https://vant-ui.github.io/vant/#/zh-CN/icon | MIT | ✅ | 不需要 | 否 | CN | 有赞移动端组件库图标 | https://github.com/youzan/vant |
+| Ionicons | https://ionic.io/ionicons | MIT | ✅ | 不需要 | 否 | US | 1300+ 手绘风图标，移动端与 Web 通用 | https://github.com/ionic-team/ionicons |
+| Paste Icons | https://paste.twilio.design | MIT | ✅ | 不需要 | 否 | US | Twilio 官方设计系统图标 | https://github.com/twilio-labs/paste |
+| GitLab UI Icons | https://design.gitlab.com | MIT | ✅ | 不需要 | 否 | US | GitLab 官方设计系统 Pajamas 图标 | https://gitlab.com/gitlab-org/gitlab-ui |
+| Dashicons | https://developer.wordpress.org/resource/dashicons/ | GPL-3.0 | ⚠️ | 不需要 | 否 | US | WordPress 后台图标，GPL 传染性 | https://github.com/WordPress/dashicons |
+| EUI Icons | https://eui.elastic.ai | SSPL v1 / Elastic License 2.0 双授权 | ⚠️ | 不需要 | 否 | US | Elastic 官方（Kibana）图标，非标准开源许可 | https://github.com/elastic/eui |
 
 > **选型建议**
 > - **做产品 UI，闭眼选**：Lucide、Tabler、Phosphor — MIT/ISC 免署名，风格现代，社区活跃，前端包齐全
 > - **中文项目 / 国内团队**：Remix Icon、IconPark 都是国产 Apache-2.0，文档中文友好
+> - **大厂设计系统同款**：IBM Carbon、Shopify Polaris、Red Hat PatternFly、HPE Grommet、Uber Base Web、腾讯 TDesign、字节 Arco/Semi — 企业内部设计体系开源出来的图标，风格统一、长期维护，适合做与这些生态一致的产品
 > - **做设计系统**：Material Symbols 支持可变字重，Radix Icons 专为设计系统打磨
 > - ⚠️ **Font Awesome Free 免费版其实要求署名**（图标部分 CC BY 4.0），很多人不知道这点
 > - ⚠️ **Simple Icons 里全是品牌商标**：可以在文章里引用，但商标权本身不属于 CC0 授权范围，别拿来暗示品牌合作
+> - ⚠️ **EUI Icons 不是标准开源**：Elastic 采用 SSPL v1 / Elastic License 2.0 双授权，商用前务必读条款
+> - ⚠️ **Dashicons 是 GPL-3.0**：传染性许可，闭源商用产品慎用；WordPress 生态内使用无障碍
+> - ⚠️ **Apple SF Symbols 虽免费但非开源**（仅限 Apple 平台使用场景），不要与开源图标混用
 
 [← 返回总目录](../README.md)
