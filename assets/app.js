@@ -154,9 +154,11 @@
 
   function renderStats() {
     var m = DATA.meta;
+    // 分类数只计资源型分类（授权速查类 guide 不算资源分类）
+    var catCount = DATA.categories.filter(function (c) { return c.type !== "guide"; }).length;
     var items = [
       { num: m.totalResources || 0, label: t().statResources, animate: true },
-      { num: m.totalCategories || 0, label: t().statCategories, animate: true },
+      { num: catCount || m.totalCategories || 0, label: t().statCategories, animate: true },
       { num: m.license || "CC BY 4.0", label: t().statLicense, animate: false },
       { num: (m.generated || "").slice(0, 7) || "—", label: t().statUpdated, animate: false }
     ];
@@ -173,7 +175,8 @@
 
   /* ---------- 分类筛选 chips ---------- */
   function renderCatChips() {
-    var cats = DATA.categories;
+    // 只展示资源型分类；guide 类（授权速查文档）不在此导航中，改由页脚入口进入
+    var cats = DATA.categories.filter(function (c) { return c.type !== "guide"; });
     var html = '<button class="chip' + (state.cat === "all" ? " is-active" : "") + '" data-cat="all" title="' + esc(t().all) + '"><span class="chip-label">' + esc(t().all) + '</span></button>';
     html += cats.map(function (c) {
       var title = state.lang === "zh" ? c.titleZh : c.titleEn;
@@ -238,7 +241,7 @@
 
     return '<article class="card' + enterCls + '"' + delay + '>' +
       '<div class="card-head">' +
-        '<div><div class="card-name">' + esc(r.name) + '</div>' +
+        '<div class="card-titlebox"><div class="card-name">' + esc(r.name) + '</div>' +
         '<div class="card-cat">' + esc(catLabel) + (sectionLabel ? ' · ' + esc(sectionLabel) : '') + '</div></div>' +
         '<span class="badge ' + r.commercial + '">' + lm.icon + esc(badgeText) + '</span>' +
       '</div>' +
@@ -347,6 +350,18 @@
     return !!(cat && cat.type === "guide");
   }
 
+  /* ---------- 页脚：授权速查文档入口（guide 类不进侧栏，但仍需可达） ---------- */
+  function renderFooterGuides() {
+    var box = document.getElementById("footGuides");
+    if (!box) return;
+    var guides = DATA.categories.filter(function (c) { return c.type === "guide"; });
+    box.innerHTML = guides.map(function (c) {
+      var title = state.lang === "zh" ? c.titleZh : c.titleEn;
+      return '<a href="' + esc(guideHref(c.id)) + '" target="_blank" rel="noopener">' +
+        ICONS.doc + esc(title) + '</a>';
+    }).join("");
+  }
+
   /* ---------- 事件 ---------- */
   function bindEvents() {
     document.getElementById("search").addEventListener("input", function (e) {
@@ -388,6 +403,7 @@
       renderStats();
       renderCatChips();
       renderLicenseChips();
+      renderFooterGuides();
       renderResults(true);
     });
 
@@ -421,6 +437,7 @@
     renderStats();
     renderCatChips();
     renderLicenseChips();
+    renderFooterGuides();
     layoutCatNav();
     renderResults(true);
     bindEvents();

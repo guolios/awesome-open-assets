@@ -469,19 +469,25 @@ a { color: inherit; text-decoration: none; }
 @keyframes cardIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
 
 .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px; }
+/* 标题区必须可收缩，否则分类标签的 nowrap 会把徽章挤出卡片 */
+.card-titlebox { min-width: 0; flex: 1 1 auto; }
 .card-name {
   font-size: 14px; font-weight: 600; letter-spacing: -.01em; line-height: 1.35;
   color: var(--text);
   display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  overflow-wrap: anywhere;
 }
 .card-cat {
   font-size: 11px; color: var(--text-ghost); margin-top: 3px; font-weight: 500;
+  min-width: 0;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 
 /* 商用徽章：浅底彩字小 pill */
 .badge {
   flex: 0 0 auto;
+  max-width: 46%;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   font-size: 10px; font-weight: 600;
   padding: 3px 8px;
   border-radius: 999px;
@@ -497,16 +503,18 @@ a { color: inherit; text-decoration: none; }
   min-height: 30px;
   line-height: 1.55;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
+  overflow-wrap: anywhere;
 }
 
-.card-meta { display: flex; flex-wrap: wrap; gap: 5px; font-size: 11.5px; }
+.card-meta { display: flex; flex-wrap: wrap; gap: 5px; font-size: 11.5px; min-width: 0; }
 .tag {
   color: var(--text-soft);
   background: var(--hover);
   padding: 2px 8px;
   border-radius: 7px;
   font-weight: 500;
-  max-width: 140px;
+  max-width: 100%;
+  min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -520,7 +528,10 @@ a { color: inherit; text-decoration: none; }
 }
 .verify-tag .ic-sm { width: 11px; height: 11px; }
 
-.card-foot { display: flex; align-items: center; gap: 10px; margin-top: auto; padding-top: 2px; }
+.card-foot {
+  display: flex; align-items: center; gap: 10px; margin-top: auto; padding-top: 2px;
+  flex-wrap: wrap; row-gap: 6px; min-width: 0;
+}
 .card-link {
   font-size: 12px; font-weight: 600;
   color: var(--text);
@@ -562,6 +573,9 @@ a { color: inherit; text-decoration: none; }
 .foot-meta { display: flex; flex-direction: column; gap: 7px; font-size: 13.5px; color: var(--text-faint); text-align: right; }
 .foot-meta a { color: var(--text); font-weight: 600; display: inline-flex; align-items: center; gap: 5px; transition: color .16s; }
 .foot-meta a:hover { color: var(--text-faint); }
+/* 授权速查文档入口（guide 类分类） */
+.foot-guides { display: flex; flex-wrap: wrap; gap: 12px; justify-content: flex-end; }
+.foot-guides a { font-weight: 500; color: var(--text-soft); font-size: 13px; }
 
 /* ---------- 响应式 ---------- */
 /* 窄屏：隐藏左侧栏，分类行由 JS 停靠回工具栏（保持原移动端布局） */
@@ -577,6 +591,7 @@ a { color: inherit; text-decoration: none; }
   .hero-inner { padding: 72px 16px 32px; }
   .footer-inner { flex-direction: column; }
   .foot-meta { text-align: left; }
+  .foot-guides { justify-content: flex-start; gap: 14px; }
 }
 /* 超窄屏：收起导航账户名文字，避免换行溢出 */
 @media (max-width: 360px) {
