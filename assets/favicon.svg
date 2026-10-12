@@ -1,0 +1,10 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Awesome Open Assets</title>
+  <style>
+    .m{fill:#0a0a0a}
+    @media (prefers-color-scheme: dark){.m{fill:#fafafa}}
+  </style>
+  <path class="m" d="M20 8H8v48h12v-9h-3V17h3V8Z"/>
+  <path class="m" d="M44 8h12v48H44v-9h3V17h-3V8Z"/>
+  <rect class="m" x="23" y="23" width="18" height="18" rx="6"/>
+</svg>
