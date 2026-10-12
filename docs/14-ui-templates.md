@@ -20,6 +20,30 @@
 | One Page Love 免费 | https://onepagelove.com/free-templates | 免费（逐款） | ⚠️ | 视情况 | 否 | Global | 单页网站免费模板 | — |
 | FreeHTML5.co | https://freehtml5.co | 免费可商用（署名） | ✅ | 需要 | 否 | Global | 免费 Bootstrap HTML5 模板 | — |
 | GraphBerry | https://graphberry.com | 免费可商用（署名） | ✅ | 需要 | 否 | Global | 免费网站 / UI 模板 | ⚠️待核实 |
+| Tooplate | https://tooplate.com | 免费（署名） | ✅ | 需要 | 否 | Global | 90+ 免费 Bootstrap 模板 | — |
+| TemplateMo | https://templatemo.com | 100% 免费自有许可 | ✅ | 不需要 | 否 | Global | 500+ 免费 HTML5 模板 | — |
+| Flowbite | https://flowbite.com | MIT | ✅ | 不需要 | 否 | Global | Tailwind 组件库与模板 | https://github.com/themesberg/flowbite |
+| daisyUI | https://daisyui.com | MIT | ✅ | 不需要 | 否 | Global | Tailwind CSS 组件库 | https://github.com/saadeghi/daisyui |
+| Preline UI | https://preline.co | MIT | ✅ | 不需要 | 否 | Global | 300+ Tailwind 组件 | https://github.com/htmlstreamofficial/preline |
+| Tailblocks | https://tailblocks.cc | MIT | ✅ | 不需要 | 否 | Global | 60+ 复制即用区块 | https://github.com/mertjf/tailblocks |
+| Meraki UI | https://merakiui.com | 免费自有许可 | ✅ | 不需要 | 否 | Global | 50+ Tailwind 组件（RTL） | https://github.com/merakiui/merakiui |
+| Material Tailwind | https://material-tailwind.com | MIT | ✅ | 不需要 | 否 | Global | Material Design Tailwind 组件 | https://github.com/creativetimofficial/material-tailwind |
+| TW Elements | https://tw-elements.com | MIT | ✅ | 不需要 | 否 | Global | 500+ Tailwind 组件套件 | https://github.com/mdbootstrap/TW-Elements |
+| Tabler | https://tabler.io | MIT | ✅ | 不需要 | 否 | Global | 免费 Dashboard 模板与图标 | https://github.com/tabler/tabler |
+| AdminLTE | https://adminlte.io | MIT | ✅ | 不需要 | 否 | Global | 老牌 Bootstrap 后台模板 | https://github.com/ColorlibHQ/AdminLTE |
+| CoreUI 免费版 | https://coreui.io | MIT（免费版） | ✅ | 不需要 | 否 | Global | Bootstrap 后台免费模板 | https://github.com/coreui/coreui-free-bootstrap-admin-template |
+| Bootswatch | https://bootswatch.com | MIT | ✅ | 不需要 | 否 | US | 免费 Bootstrap 主题 | https://github.com/thomaspark/bootswatch |
+| Material Dashboard | https://www.creative-tim.com/product/material-dashboard | MIT（免费版） | ✅ | 不需要 | 否 | US | 免费 Bootstrap 仪表盘 | https://github.com/creativetimofficial/material-dashboard |
+| Volt Dashboard | https://themesberg.com/product/free-dashboard/volt-bootstrap-5-dashboard | MIT（免费版） | ✅ | 不需要 | 否 | Global | 免费 Bootstrap 5 仪表盘 | https://github.com/themesberg/volt-bootstrap-5-dashboard |
+| Sneat 免费版 | https://themeselection.com/item/sneat-free-bootstrap-html-admin-template | MIT（免费版） | ✅ | 需要 | 否 | Global | 免费 Bootstrap 5 后台 | https://github.com/themeselection/sneat-bootstrap-html-admin-template-free |
+| MDBootstrap | https://mdbootstrap.com | MIT（免费版） | ✅ | 不需要 | 否 | Global | Material Design Bootstrap | https://github.com/mdbootstrap/mdb-ui-kit |
+| shadcn/ui | https://ui.shadcn.com | MIT | ✅ | 不需要 | 否 | Global | 复制即用 React 组件 | https://github.com/shadcn-ui/ui |
+| NextUI | https://nextui.org | MIT | ✅ | 不需要 | 否 | Global | React + Tailwind 组件库 | https://github.com/nextui-org/nextui |
+| Headless UI | https://headlessui.com | MIT | ✅ | 不需要 | 否 | Global | 无样式可访问组件 | https://github.com/tailwindlabs/headlessui |
+| Tremor | https://tremor.so | MIT | ✅ | 不需要 | 否 | Global | 仪表盘数据可视化组件 | https://github.com/tremorlabs/tremor |
+| Kutty | https://kutty.netlify.app | MIT | ✅ | 不需要 | 否 | Global | 轻量 Tailwind 组件集 | https://github.com/praveenjuge/kutty |
+| Untitled UI | https://www.untitledui.com | 免费自有许可 | ✅ | 不需要 | 是 | Global | 免费 Figma UI Kit（禁转售） | — |
+| Bootstrapdash 免费 | https://www.bootstrapdash.com | 免费（署名） | ⚠️ | 需要 | 否 | Global | 免费 Bootstrap 后台模板 | — |
 
 > **要零署名最省心** → MIT/CCA：HTML5 UP、Start Bootstrap、Colorlib、Templated、ThemeWagon。
 > Figma Community 资源量大但需逐款确认授权与署名。

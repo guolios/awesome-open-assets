@@ -23,6 +23,18 @@
 | Vecteezy Videos | https://www.vecteezy.com/videos | Vecteezy Free（需署名）/ Pro | ⚠️ | Required | Yes | US | Free tier requires the attribution text generated at download | — |
 | Ignite Motion | https://www.ignitemotion.com/ | 站内免费商用条款 | ✅ | Varies | No | US | Sci-fi space loop backgrounds ⚠️ verify | — |
 | Monzoom | https://www.monzoom.com/ | monzoom Royalty Free EULA | ✅ | Varies | Yes | DE / EU | Transition packs and motion backgrounds; membership required ⚠️ verify | — |
+| Free Nature Stock | https://freenaturestock.com/ | CC0 | ✅ | Not required | No | US | 4K nature shots, whole site CC0, no attribution | — |
+| PikWizard | https://pikwizard.com/ | PikWizard License | ✅ | Not required | No | US / Global | 100k+ videos and photos, free for commercial use | — |
+| MitchMartinez | https://mitchmartinez.com/ | CC BY 4.0 | ✅ | Required | No | US | 4K abstract backgrounds and particle motion; attribution required | — |
+| MotionElements | https://www.motionelements.com/ | Free tier (restricted) | ⚠️ | Varies | No | Global | Asian stock site; free clips subject to per-item terms | — |
+| Canva Free Videos | https://www.canva.com/ | Canva Free Media License | ✅ | Not required | Yes | AU | Free videos inside the design tool, bound to platform | — |
+| Adobe Stock Free Collection | https://stock.adobe.com/free | Adobe Free Asset License | ✅ | Varies | Yes | US | Official free sample set; check each clip's terms | — |
+| Motion Array Free | https://motionarray.com/ | Motion Array Free License | ✅ | Required | Yes | US | Free clips from subscription site; credit required | — |
+| Unsplash Videos | https://unsplash.com/s/photos/video | Unsplash License (CC0-like) | ✅ | Not required | No | US | Photo site also offers videos, all commercial-use free | — |
+| Vimeo Free HD Group | https://vimeo.com/groups/freehd | Group CC0 / per-item | ⚠️ | Varies | No | US | Creator-shared HD clips; license per item | — |
+| XStockVideo | https://www.xstockvideo.com/ | Site free terms | ⚠️ | Varies | No | US | Free clip library; confirm each license | — |
+| Clipcanvas Free Section | https://www.clipcanvas.com/ | Royalty-free (some free) | ⚠️ | Not required | No | US | Royalty-free clips, some free to download | — |
+| The Tanuri Experiment | https://tanuri.com/ | Site free terms (attribution) | ⚠️ | Required | No | Global | Travel footage clips; attribution required | — |
 
 ## 11.2 Public-Domain & Institutional Audiovisual Archives (Archive Footage)
 
@@ -39,6 +51,16 @@
 | 国会图书馆 国家放映室 | https://www.loc.gov/collections/national-screening-room/ | 多为 PD / 无已知限制 | ⚠️ | Varies | No | US | Early films and curated collection screenings | — |
 | Flickr 视频 CC 筛选 | https://www.flickr.com/search/?media=videos&license=2%2C3%2C4%2C5%2C6%2C9 | PD / CC 混合 | ⚠️ | Varies | Yes | US | Find UGC videos via the license filter | — |
 | British Pathé | https://www.britishpathe.com/ | 需付费 / 按条授权 | ❌ | Required | Yes | UK | Historical newsreel library since 1896 ⚠️ verify | — |
+| Open Beelden (Netherlands Inst. for Sound & Vision) | https://www.openbeelden.nl/ | CC / PD per item | ⚠️ | Varies | No | NL / EU | Open collection of the Dutch audiovisual institute | — |
+| Pond5 Public Domain Project | https://www.pond5.com/free | Public domain / free download | ✅ | Varies | Yes | US | Public-domain footage collection; sign-up required | — |
+| NPS B-Roll (US National Park Service) | https://www.nps.gov/ | US government work (Public Domain) | ✅ | Varies | No | US | Real B-roll footage of national parks | — |
+| Europeana | https://www.europeana.eu/ | Per-item PD / CC | ⚠️ | Varies | No | EU | Search portal for European cultural-heritage film | — |
+| The Public Domain Review | https://publicdomainreview.org/ | Curated public domain | ⚠️ | Varies | No | UK | Essays and selections of public-domain audiovisual works | — |
+| A/V Geeks | https://archive.org/details/avgeeks | Mostly PD | ⚠️ | Varies | No | US | Online archive of nostalgic educational films | — |
+| Splashbase | https://splashbase.co/ | Per-item license | ⚠️ | Varies | No | US | Random stream of HD photos and videos | — |
+| Archive.org Stock Footage | https://archive.org/details/stock_footage | Mostly PD | ⚠️ | Varies | No | US | Free stock-footage collection on Archive.org | — |
+| US Fish & Wildlife Service Media | https://www.fws.gov/ | US government work (Public Domain) | ✅ | Varies | No | US | Wildlife and habitat footage, public domain | — |
+| USGS Video Gallery | https://www.usgs.gov/ | US government work (Public Domain) | ✅ | Varies | No | US | Geology and science imagery, public domain | — |
 
 > **Selection Guide**
 > - **Most hassle-free**: Pexels, Pixabay, Coverr, ISO Republic — no attribution required; the only ban is bundling into a competing stock site or reselling originals.

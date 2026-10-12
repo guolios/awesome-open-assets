@@ -21,6 +21,11 @@
 | 100font | https://100font.com/ | 逐款中文厂商声明 | ⚠️ | 视情况 | 否 | CN | Batch downloads of free-for-commercial Chinese fonts | — |
 | DaFont | https://www.dafont.com/ | freeware / shareware / demo / PD 混杂 | ⚠️ | 视情况 | 否 | FR / EU | 100k+ fonts; check each license individually | — |
 | 1001fonts | https://www.1001fonts.com/ | 逐款混杂（含 personal use） | ⚠️ | 视情况 | 否 | Global | 60k+ fonts, each with a license block on its page | — |
+| Bunny Fonts | https://fonts.bunny.net/ | SIL OFL 1.1 (Google Fonts mirror) | ✅ | Not required | No | EU / NL | GDPR-friendly open-source font mirror | — |
+| Fontshare | https://www.fontshare.com/ | ITF Free Font License / OFL | ✅ | Not required | No | IN | Free-for-commercial fonts by Indian Type Foundry | — |
+| SIL Fonts | https://software.sil.org/fonts/ | SIL OFL 1.1 | ✅ | Not required | No | US / SIL | SIL's catalog of academic multilingual fonts | — |
+| Open Foundry | https://open-foundry.com/ | OFL / free license | ✅ | Varies | No | BE / EU | Curated collection of OFL typefaces | — |
+| Velvetyne | https://www.velvetyne.fr/ | SIL OFL 1.1 | ✅ | Required | No | FR / EU | French experimental libre type foundry | — |
 
 ## 13.2 Open-Source Latin & Monospace (Latin & Mono)
 
@@ -50,6 +55,12 @@
 | Fraunces | https://fontsource.org/fonts/fraunces | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | Variable "soft" serif with a WONK axis | https://github.com/googlefonts/fraunces |
 | Atkinson Hyperlegible | https://fontsource.org/fonts/atkinson-hyperlegible | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | High-legibility glyphs for low-vision users | https://github.com/googlefonts/atkinson-hyperlegible |
 | Zilla Slab | https://fontsource.org/fonts/zilla-slab | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | Mozilla brand serif, with a highlighted variant | https://github.com/mozilla/zilla-slab |
+| Work Sans | https://fontsource.org/fonts/work-sans | SIL OFL 1.1 | ✅ | Not required | No | US | Humanist sans with many weights | https://github.com/weiweihuanghuang/Work-Sans |
+| Montserrat | https://fontsource.org/fonts/montserrat | SIL OFL 1.1 | ✅ | Not required | No | ES / EU | Geometric urban-inspired sans | https://github.com/googlefonts/Montserrat |
+| Raleway | https://fontsource.org/fonts/raleway | SIL OFL 1.1 | ✅ | Not required | No | US | Elegant thin display sans | https://github.com/googlefonts/Raleway |
+| Source Serif 4 | https://fontsource.org/fonts/source-serif-4 | SIL OFL 1.1 | ✅ | Not required | No | US | Adobe's open-source text serif | https://github.com/adobe-fonts/source-serif |
+| Bitter | https://fontsource.org/fonts/bitter | SIL OFL 1.1 | ✅ | Not required | No | BR / EU | Slab-serif optimized for screens | — |
+| Public Sans | https://fontsource.org/fonts/public-sans | SIL OFL 1.1 | ✅ | Not required | No | US | Open-source sans by US government | https://github.com/uswds/public-sans |
 
 ## 13.3 Chinese & CJK Fonts (Chinese & CJK)
 
@@ -68,6 +79,10 @@
 | OPPO Sans 4.0 | https://open.oppomobile.com/ | OPPO 免费商用声明 | ✅ | 不需要 | 否 | CN | Free license for all, commercial included ⚠️ verify | — |
 | 钉钉进步体 | https://www.dingtalk.com/ | 钉钉免费商用声明 | ✅ | 不需要 | 否 | CN | DingTalk's official display typeface ⚠️ verify | — |
 | 抖音美好体 / 字节字体合集 | https://github.com/bytedance/fonts | 字节免费商用声明（非开源协议） | ⚠️ | 视情况 | 否 | CN | ByteDance's free font collection ⚠️ verify | https://github.com/bytedance/fonts |
+| Noto Serif SC | https://fontsource.org/fonts/noto-serif-sc | SIL OFL 1.1 | ✅ | Not required | No | US | Google's release of Source Han Serif | https://github.com/notofonts/noto-cjk |
+| Sarasa Gothic | https://github.com/be5invis/Sarasa-Gothic | SIL OFL 1.1 | ✅ | Not required | No | CN | CJK family mixing Source Han and mono | https://github.com/be5invis/Sarasa-Gothic |
+| Glow Sans | https://github.com/max32002/Glow-Sans | SIL OFL 1.1 (Source Han derivative) | ✅ | Not required | No | CN | Screen-friendly Source Han variant | https://github.com/max32002/Glow-Sans |
+| Fusion Pixel Font | https://github.com/TakWolf/fusion-pixel-font | SIL OFL 1.1 | ✅ | Not required | No | CN | Open-source pixel-style Chinese font | https://github.com/TakWolf/fusion-pixel-font |
 
 > **13.3 Selection Advice**
 > - **Lowest-risk for Chinese text**: Source Han Sans, Source Han Serif, LXGW WenKai, Smiley Sans — true SIL OFL 1.1, free for commercial use, modifiable, distributable with your product, no attribution.
@@ -101,6 +116,8 @@ Covers Traditional Mongolian (vertical), Cyrillic Mongolian, Tibetan, Uyghur/Kaz
 | Tibetan Machine Uni | https://sourceforge.net/projects/thdltools/ | GPL 1.0+（可商用） | ✅ | 需要 | 否 | US / THDL | Long-standing open-source Tibetan OpenType font | — |
 | DDC Uchen | https://www.dzongkha.gov.bt/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | BT | Bhutanese Dzongkha Tibetan-style font | — |
 | Qomolangma 藏文系列（珠峰） | https://www.yalasoo.com/ | 厂商免费下载（商用未明） | ⚠️ | 不需要 | 否 | CN | 17 free Tibetan fonts to download ⚠️ verify | — |
+| Noto Serif KR | https://fontsource.org/fonts/noto-serif-kr | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Korean serif | https://github.com/notofonts/korean |
+| Gowun Batang | https://fonts.google.com/specimen/Gowun+Batang | SIL OFL 1.1 | ✅ | Not required | No | KR | Humanist Korean serif for text | — |
 
 ## 13.5 Devanagari / Indic Scripts (Devanagari / Bengali / Tamil / etc.)
 
@@ -130,6 +147,8 @@ Covers Devanagari (Sanskrit / Hindi / Marathi / Nepali), Bengali, Tamil, Telugu,
 | Hind Madurai | https://fontsource.org/fonts/hind-madurai | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | Tamil sans-serif | — |
 | Hind Siliguri | https://fontsource.org/fonts/hind-siliguri | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | Bengali sans-serif | — |
 | Hind Vadodara | https://fontsource.org/fonts/hind-vadodara | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | Gujarati sans-serif | — |
+| Noto Serif Telugu | https://fontsource.org/fonts/noto-serif-telugu | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Telugu serif | https://github.com/notofonts/telugu |
+| Baloo 2 | https://fontsource.org/fonts/baloo-2 | SIL OFL 1.1 | ✅ | Not required | No | IN | Rounded Devanagari display face | — |
 
 ## 13.6 Thai & Southeast Asian Scripts (Thai / Khmer / Lao / Myanmar)
 
@@ -157,6 +176,8 @@ Covers Thai, Khmer (Cambodia), Lao, and Myanmar (Burmese). Thai has **complex co
 | Niramit | https://fontsource.org/fonts/niramit | SIL OFL 1.1 | ✅ | 不需要 | 否 | TH | Clear Thai body text | — |
 | Padauk | https://fontsource.org/fonts/padauk | SIL OFL 1.1 | ✅ | 不需要 | 否 | MM / SIL | SIL open-source Myanmar font | https://github.com/silnrsi/padauk |
 | Pyidaungsu | https://github.com/mcfnlp/Pyidaungsu | 自由许可（具体待确认） | ✅ | 不需要 | 否 | MM | Myanmar Unicode font ⚠️ verify | https://github.com/mcfnlp/Pyidaungsu |
+| Noto Serif Khmer | https://fontsource.org/fonts/noto-serif-khmer | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Khmer serif | https://github.com/notofonts/khmer |
+| Kantumruy | https://fontsource.org/fonts/kantumruy | SIL OFL 1.1 | ✅ | Not required | No | KH | Clean Khmer sans-serif | — |
 
 ## 13.7 Arabic / Hebrew / Persian (Arabic / Hebrew / Farsi)
 
@@ -184,6 +205,8 @@ Covers Arabic, Persian (Farsi), Urdu (Arabic-script variant), and Hebrew. Arabic
 | Assistant | https://fontsource.org/fonts/assistant | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | Hebrew sans-serif | — |
 | Heebo | https://fontsource.org/fonts/heebo | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | Modern Hebrew sans-serif | — |
 | David CLM | https://culmus.sourceforge.net/ | Culmus 自由许可（可商用） | ✅ | 不需要 | 否 | IL | Classic Hebrew serif (Culmus) | https://github.com/gooselinux/culmus-fonts |
+| Noto Serif Arabic | https://fontsource.org/fonts/noto-serif-arabic | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Arabic serif | https://github.com/notofonts/arabic |
+| Noto Nastaliq Urdu | https://fontsource.org/fonts/noto-nastaliq-urdu | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Urdu Nastaliq calligraphic style | — |
 
 ## 13.8 Cyrillic / Greek / African & Pacific Scripts (Cyrillic / Greek / Ethiopic / IPA)
 
@@ -204,6 +227,8 @@ Covers Cyrillic (Russian, etc.), Greek, the International Phonetic Alphabet (IPA
 | Noto Sans Ethiopic | https://fontsource.org/fonts/noto-sans-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Amharic / Ge'ez | https://github.com/notofonts/ethiopic |
 | Noto Serif Ethiopic | https://fontsource.org/fonts/noto-serif-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | Ethiopian serif | https://github.com/notofonts/ethiopic |
 | Abyssinica SIL | https://fontsource.org/fonts/abyssinica-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | Ethiopian font by SIL | https://github.com/silnrsi/abyssinica |
+| Noto Sans Greek | https://fontsource.org/fonts/noto-sans-greek | SIL OFL 1.1 | ✅ | Not required | No | 全球 / Google | Greek sans-serif | — |
+| Doulos SIL | https://software.sil.org/doulos/ | SIL OFL 1.1 | ✅ | Not required | No | US / SIL | Latin + IPA newspaper serif | — |
 
 > **Notes on multi-script fonts**
 > 1. **One family often spans multiple scripts**: the Noto / SIL series are mostly "one family covering an entire script family". For example, a single Noto Sans family includes Cyrillic and Greek extensions; Gentium Plus includes Latin, Greek and IPA; Andika includes Cyrillic and IPA. Check family coverage when selecting to avoid duplicate entries.

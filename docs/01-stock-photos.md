@@ -35,6 +35,30 @@
 | Public Domain Pictures | https://www.publicdomainpictures.net | Public Domain / CC0 | ⚠️ | 不需要 | 部分 | EU | 公有领域图量大，部分需注册 | — |
 | Jay Mantri | https://jaymantri.com | CC0 | ✅ | 不需要 | 否 | US | 极简干净的 CC0 照片 ⚠️待核实 | — |
 | Realistic Shots | https://realisticshots.com | CC0 | ✅ | 不需要 | 否 | Global | 每周更新的写实 CC0 照 ⚠️待核实 | — |
+| Picspree | https://www.picspree.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | US | 免费图库，含照片视频与矢量 | — |
+| PickPik | https://pickpik.com | CC0 | ✅ | 不需要 | 否 | Global | AI 精选的 CC0 照片库 | — |
+| Nappy | https://www.nappy.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | US | 聚焦黑棕肤色人群写真 | — |
+| Morguefile | https://morguefile.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | US | 老牌免费照片社区 | — |
+| PxHere | https://pxhere.com | CC0 | ✅ | 不需要 | 否 | Global | 类 Pixabay 的 CC0 图库 | — |
+| Stockvault | https://www.stockvault.net | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 个人与商用皆免费的照片站 | — |
+| Magdeleine | https://magdeleine.co | CC0 | ✅ | 不需要 | 否 | FR / EU | 手工精选的 CC0 每日一图 | — |
+| Foter | https://foter.com | 混合（CC0 / CC BY） | ⚠️ | 视情况 | 否 | Global | 聚合 Flickr 免费图，授权杂 ⚠️待核实 | — |
+| Stockio | https://stockio.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 照片字体矢量一站免费 | — |
+| FreeImages | https://www.freeimages.com | 自有许可（商用受限） | ⚠️ | 视情况 | 否 | Global | 老牌免费图库，条款需注意 ⚠️待核实 | — |
+| Cupcake | https://cupcake.nilssonlee.se | CC0 | ✅ | 不需要 | 否 | SE / EU | 摄影师个人 CC0 小众精品 | — |
+| Jeshoots | https://jeshoots.com | CC0 | ✅ | 不需要 | 否 | SK / EU | 人像与办公场景 CC0 | — |
+| MMT Stock | https://www.mmtstock.com | CC0 | ✅ | 不需要 | 否 | Global | 金属与硬币主题 CC0 照 | — |
+| Good Free Photos | https://www.goodfreephotos.com | CC0 / Public Domain | ✅ | 不需要 | 否 | US | 公有领域风光照与航拍 | — |
+| Visual Hunt | https://visualhunt.com | 混合（CC0 / CC BY） | ⚠️ | 视情况 | 否 | Global | 海量免费图，授权混合 ⚠️待核实 | — |
+| DesignersPics | https://www.designerspics.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | IN / Global | 生活与商业场景免费照 | — |
+| Fancycrave | https://fancycrave.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 旅行与概念免费大片 | — |
+| Travel Coffee Book | https://travelcoffeebook.com | CC0 | ✅ | 不需要 | 否 | Global | 旅行主题 CC0 摄影集 | — |
+| New Old Stock | https://nos.twnsnd.co | Public Domain | ✅ | 不需要 | 否 | Global | 复古历史照片公有领域 | — |
+| Startup Stock Photos | https://startupstockphotos.com | CC0 | ✅ | 不需要 | 否 | US | 创业主题 CC0 配图 | — |
+| Styled Stock | https://styledstock.co | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 女性创业风免费摆拍 | — |
+| RGBStock | https://www.rgbstock.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | Global | 社区贡献的免费图库 | — |
+| StreetWill | https://streetwill.co | CC0 | ✅ | 不需要 | 否 | Global | 城市与人文 CC0 小站 | — |
+| Freejpg | https://en.freejpg.com | 自有许可（免费商用） | ✅ | 不需要 | 否 | ES / EU | 西班牙免费图库，可商用 | — |
 
 > **选型建议**
 > - 想要**授权最干净** → 认准标 CC0 的：StockSnap、Negative Space、Pixnio、Life of Pix、LibreShot、Skitterphoto、Freestocks、Picography

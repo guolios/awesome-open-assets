@@ -35,6 +35,30 @@
 | Public Domain Pictures | https://www.publicdomainpictures.net | Public Domain / CC0 | ⚠️ | Not required | Partial | EU | Large public domain collection; some require sign-up. | — |
 | Jay Mantri | https://jaymantri.com | CC0 | ✅ | Not required | No | US | Clean minimalist CC0 photos ⚠️ verify | — |
 | Realistic Shots | https://realisticshots.com | CC0 | ✅ | Not required | No | Global | Realistic CC0 photos updated weekly ⚠️ verify | — |
+| Picspree | https://www.picspree.com | Own license (free commercial) | ✅ | Not required | No | US | Free library with photos, video, and vectors. | — |
+| PickPik | https://pickpik.com | CC0 | ✅ | Not required | No | Global | AI-curated CC0 photo library. | — |
+| Nappy | https://www.nappy.com | Own license (free commercial) | ✅ | Not required | No | US | Photos centered on Black and Brown people. | — |
+| Morguefile | https://morguefile.com | Own license (free commercial) | ✅ | Not required | No | US | Long-running free photo community. | — |
+| PxHere | https://pxhere.com | CC0 | ✅ | Not required | No | Global | Pixabay-like CC0 image library. | — |
+| Stockvault | https://www.stockvault.net | Own license (free commercial) | ✅ | Not required | No | Global | Free photos for personal and commercial use. | — |
+| Magdeleine | https://magdeleine.co | CC0 | ✅ | Not required | No | FR / EU | Hand-picked CC0 photo of the day. | — |
+| Foter | https://foter.com | Mixed (CC0 / CC BY) | ⚠️ | Varies | No | Global | Aggregates Flickr free images; mixed licenses ⚠️ verify | — |
+| Stockio | https://stockio.com | Own license (free commercial) | ✅ | Not required | No | Global | Free photos, fonts, and vectors in one place. | — |
+| FreeImages | https://www.freeimages.com | Own license (commercial limited) | ⚠️ | Varies | No | Global | Long-running free library; mind the terms ⚠️ verify | — |
+| Cupcake | https://cupcake.nilssonlee.se | CC0 | ✅ | Not required | No | SE / EU | Personal CC0 niche collection. | — |
+| Jeshoots | https://jeshoots.com | CC0 | ✅ | Not required | No | SK / EU | CC0 portraits and office scenes. | — |
+| MMT Stock | https://www.mmtstock.com | CC0 | ✅ | Not required | No | Global | CC0 photos of metal and coins. | — |
+| Good Free Photos | https://www.goodfreephotos.com | CC0 / Public Domain | ✅ | Not required | No | US | Public-domain landscapes and aerials. | — |
+| Visual Hunt | https://visualhunt.com | Mixed (CC0 / CC BY) | ⚠️ | Varies | No | Global | Huge free library, mixed licensing ⚠️ verify | — |
+| DesignersPics | https://www.designerspics.com | Own license (free commercial) | ✅ | Not required | No | IN / Global | Free lifestyle and business shots. | — |
+| Fancycrave | https://fancycrave.com | Own license (free commercial) | ✅ | Not required | No | Global | Free travel and concept photography. | — |
+| Travel Coffee Book | https://travelcoffeebook.com | CC0 | ✅ | Not required | No | Global | CC0 travel photography collection. | — |
+| New Old Stock | https://nos.twnsnd.co | Public Domain | ✅ | Not required | No | Global | Vintage historical photos in the public domain. | — |
+| Startup Stock Photos | https://startupstockphotos.com | CC0 | ✅ | Not required | No | US | CC0 images for startups. | — |
+| Styled Stock | https://styledstock.co | Own license (free commercial) | ✅ | Not required | No | Global | Free styled shots for female entrepreneurs. | — |
+| RGBStock | https://www.rgbstock.com | Own license (free commercial) | ✅ | Not required | No | Global | Community-contributed free photo library. | — |
+| StreetWill | https://streetwill.co | CC0 | ✅ | Not required | No | Global | Small CC0 site for urban and people photos. | — |
+| Freejpg | https://en.freejpg.com | Own license (free commercial) | ✅ | Not required | No | ES / EU | Spanish free library, commercial-friendly. | — |
 
 > **Selection Tips**
 > - Want the **cleanest licensing** → look for CC0: StockSnap, Negative Space, Pixnio, Life of Pix, LibreShot, Skitterphoto, Freestocks, Picography

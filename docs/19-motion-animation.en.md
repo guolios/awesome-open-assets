@@ -23,6 +23,30 @@
 | SVGator | https://www.svgator.com/ | 自有条款（免费档限项目数） | ⚠️ | Varies | Yes | RO / EU | Code-free SVG animation maker | — |
 | Giphy | https://giphy.com/ | Giphy 条款 + 上游版权混杂 | ❌ | Varies | No | US | Largest GIF library, lots of third-party IP | — |
 | Tenor | https://tenor.com/ | Tenor API 条款 + 上游版权混杂 | ❌ | Varies | No | US | Google's GIF search engine ⚠️ verify | — |
+| lottie-ios | https://github.com/airbnb/lottie-ios | Apache-2.0 | ✅ | Not required | No | US | Airbnb's official native Lottie player for iOS | https://github.com/airbnb/lottie-ios |
+| lottie-android | https://github.com/airbnb/lottie-android | Apache-2.0 | ✅ | Not required | No | US | Airbnb's official native Lottie player for Android | https://github.com/airbnb/lottie-android |
+| lottie-react | https://github.com/Gamote/lottie-react | MIT | ✅ | Not required | No | Global | Lightweight React wrapper for Lottie | https://github.com/Gamote/lottie-react |
+| dotLottie Web | https://github.com/LottieFiles/dotlottie-web | MIT | ✅ | Not required | No | US | LottieFiles' player for the .lottie format | https://github.com/LottieFiles/dotlottie-web |
+| Rive | https://rive.app | MIT (runtime) | ✅ | Not required | Partial | US | Interactive animation runtime, MIT-licensed | https://github.com/rive-app/rive-runtime |
+| anime.js | https://animejs.com | MIT | ✅ | Not required | No | Global | Lightweight JavaScript animation engine | https://github.com/juliangarnier/anime |
+| GSAP | https://gsap.com | Custom (100% free incl. commercial) | ✅ | Not required | No | US | Pro-grade JS animation library, free since 2025 | https://github.com/greensock/GSAP |
+| Motion | https://motion.dev | MIT | ✅ | Not required | No | Global | React animation library, formerly Framer Motion | https://github.com/pmndrs/motion |
+| react-spring | https://react-spring.dev | MIT | ✅ | Not required | No | Global | Physics-based spring animations for React | https://github.com/pmndrs/react-spring |
+| AutoAnimate | https://auto-animate.formkit.com | MIT | ✅ | Not required | No | Global | Add motion to any UI with one line | https://github.com/formkit/autoAnimate |
+| PixiJS | https://pixijs.com | MIT | ✅ | Not required | No | Global | WebGL 2D rendering and animation engine | https://github.com/pixijs/pixijs |
+| mo.js | https://mojs.github.io | MIT | ✅ | Not required | No | Global | Motion graphics and particle animation lib | https://github.com/mojs/mojs |
+| tsParticles | https://particles.js.org | MIT | ✅ | Not required | No | Global | Highly configurable particle animation engine | https://github.com/tsparticles/tsparticles |
+| AOS | https://michalsnik.github.io/aos | MIT | ✅ | Not required | No | Global | Animate On Scroll library for elements | https://github.com/michalsnik/aos |
+| Synfig Studio | https://synfig.org | GPL-2.0 | ✅ | Not required | No | Global | Open-source 2D vector animation software | https://github.com/synfig/synfig |
+| OpenToonz | https://opentoonz.github.io | BSD-3-Clause | ✅ | Not required | No | JP | Open-source 2D animation production software | https://github.com/opentoonz/opentoonz |
+| Blender | https://www.blender.org | GPL-3.0 | ✅ | Not required | No | NL | Open-source 3D animation and VFX suite | https://github.com/blender/blender |
+| Glaxnimate | https://glaxnimate.org | GPL-3.0 | ✅ | Not required | No | Global | Open-source Lottie vector animation editor | https://invent.kde.org/graphics/glaxnimate |
+| Bodymovin | https://github.com/airbnb/lottie-web | Custom (free AE plugin) | ✅ | Not required | No | US | Official AE plugin that exports to Lottie | — |
+| Mixkit AE Templates | https://mixkit.co/free-after-effects-templates | Mixkit Free License | ✅ | Not required | No | Global | Free, commercially usable AE/PR templates | — |
+| Preloaders.net | https://icons8.com/preloaders | Custom (free GIFs, commercial) | ✅ | Not required | No | RU | Generator for loading-animation GIFs | — |
+| Jitter | https://jitter.video | Custom (free tier watermarked) | ⚠️ | Required | Partial | US | Browser motion-design tool, free exports watermarked | ⚠️ verify |
+| Spline | https://spline.design | Custom (community CC BY 4.0) | ⚠️ | Required | Partial | US | Browser 3D motion design and embeds | ⚠️ verify |
+| Cavalry | https://cavalry.scenegroup.co | Custom (free for individuals) | ✅ | Not required | Yes | UK | Canva's procedural 2D motion tool, free | — |
 
 > **Selection Tips**
 > - **For animated icons without attribution** → UseAnimations (MIT, 298), or use Phosphor/Lucide icons + Lottie rendering

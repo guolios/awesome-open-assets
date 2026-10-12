@@ -29,6 +29,21 @@
 | Uppbeat | https://uppbeat.io/ | Uppbeat 免费 / 付费 | ⚠️ | Varies | Yes | UK | Free use limited to 3 personal downloads ⚠️ verify | — |
 | YouTube Audio Library | https://studio.youtube.com | YouTube 平台条款 | ⚠️ | Varies | Yes | US | Per-track 'attribution required'; bound to platform terms | — |
 | Openverse（音频检索） | https://openverse.org/search/audio | PD / CC 混合，多源聚合 | ⚠️ | Varies | No | Global | Multi-source search with one-click attribution text | — |
+| AudionautiX | https://audionautix.com/ | CC BY 4.0 | ✅ | Required | No | US | Self-made score library; CC BY attribution required | — |
+| TeknoAXE | https://teknoaxe.com/ | CC BY 4.0 | ✅ | Required | No | US | Vast free electronic and orchestral tracks | — |
+| Scott Buckley | https://www.scottbuckley.com.au/ | CC BY 4.0 | ✅ | Required | No | AU | Epic scores; commercial use with attribution | — |
+| Unminus | https://unminus.com/ | Unminus License | ✅ | Not required | No | Global | Modern scores and SFX, no attribution | — |
+| Kongano | https://kongano.com/ | CC BY 4.0 | ✅ | Required | No | FI / EU | African-rhythm free tracks; attribution required | — |
+| SoundJay | https://www.soundjay.com/ | SoundJay License | ✅ | Not required | No | US | Ready-to-use SFX; resale explicitly banned | — |
+| FiftySounds | https://fiftysounds.com/ | Site free license | ✅ | Required | No | IT / EU | Royalty-free SFX; credit required | — |
+| IMSLP (Petrucci Music Library) | https://imslp.org/ | Public domain (scores) | ✅ | Not required | No | Global | Public-domain classical scores; recordable | — |
+| Coverr Music | https://coverr.co/free-stock-music | Coverr License | ✅ | Not required | No | US | Cinematic attribution-free scores | — |
+| ProductionCrate | https://productioncrate.com/ | CC0 (partial) | ✅ | Not required | No | US | FX and SFX, partly CC0 | — |
+| SoundGator | https://soundgator.com/ | Site free license | ✅ | Not required | No | US | Free SFX, download without login | — |
+| HookSounds | https://www.hooksounds.com/ | HookSounds free license | ⚠️ | Required | Yes | US | Curated free tracks; attribution and use-limited | — |
+| StockTune | https://stocktune.com/ | AI-generated own license | ⚠️ | Not required | No | Global | AI-generated scores, no attribution (unverified) | — |
+| YourFreeSounds | https://yourfreesounds.com/ | Free tier (attribution + sign-up) | ⚠️ | Required | Yes | DE / EU | Free SFX library; sign-up and credit required | — |
+| 淘声网 (Tosound) | https://www.tosound.com/ | CC0 / CC BY partial | ⚠️ | Varies | No | CN | Chinese SFX aggregator; partially commercial | — |
 
 ## 12.2 Open Audio Datasets (Research-focused)
 
@@ -44,6 +59,14 @@
 | AudioSet | https://research.google.com/audioset/ | 标注 CC BY 4.0；本体为 YouTube ID | ❌ | Required | No | US | 527-class audio event ontology with weak labels ⚠️ verify | — |
 | FMA Dataset | https://github.com/mdeff/fma | 元数据 CC0，音频为各曲 CC 许可 | ❌ | Required | No | Global | Hundred-thousand tracks + features/metadata ⚠️ verify | https://github.com/mdeff/fma |
 | MTG Jamendo Dataset | https://mtg.github.io/mtg-jamendo-dataset/ | 音乐为 CC，商用需另行取得 | ❌ | Required | No | ES / EU | Multi-label/lyrics/genre auto-annotated set | https://github.com/MTG/mtg-jamendo-dataset |
+| LibriSpeech | https://www.openslr.org/12/ | CC BY 4.0 | ✅ | Required | No | Global | Thousand-hour English read-speech benchmark | — |
+| MAESTRO | https://magenta.tensorflow.org/datasets/MAESTRO | CC BY 4.0 | ✅ | Required | No | US | Piano performances with aligned MIDI | https://github.com/magenta/magenta |
+| VocalSet | https://vocalset.cs.cmu.edu/ | CC BY 4.0 | ✅ | Required | No | US | Multi-style singing-technique recordings | — |
+| Spoken Wikipedia | https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia | PD / CC BY mixed | ⚠️ | Varies | No | Global | Read-aloud speech of Wikipedia articles | — |
+| MLS (Multilingual LibriSpeech) | https://www.openslr.org/94/ | CC0 | ✅ | Not required | No | Global | Multilingual read-speech corpus, CC0 | — |
+| LJSpeech | https://keithito.com/LJ_Speech-Demo/ | Public domain (from LibriVox) | ✅ | Not required | No | US | Single-speaker English read-speech set | — |
+| VCTK | https://datashare.ed.ac.uk/handle/10283/3443 | ODbl / site terms | ⚠️ | Varies | Yes | UK | Hundred-speaker multi-accent speech set | — |
+| Tatoeba | https://tatoeba.org/ | CC BY mixed | ⚠️ | Varies | No | Global | Multilingual sentence-audio pairing database | https://github.com/Tatoeba/tatoeba2 |
 
 > **Selection Tips**
 > - **For self-media scoring** → Pixabay Music, Mixkit Music (no attribution); YouTube Audio Library, check per-track attribution

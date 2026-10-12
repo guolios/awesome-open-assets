@@ -23,6 +23,21 @@
 | Toptal Subtle Patterns | https://www.toptal.com/designers/subtlepatterns/ | CC BY 3.0（多数纹理） | ✅ | Required | No | US | Classic seamless texture library, needs credit ⚠️ verify | — |
 | Color Hunt | https://colorhunt.co/ | 站内未明示许可 | ⚠️ | Varies | No | Global | Human-curated palette wall, frequent updates ⚠️ verify | — |
 | Transparent Textures | https://www.transparenttextures.com/ | 站内未明示许可 | ⚠️ | Varies | No | US | Veteran site for transparent overlay textures ⚠️ verify | — |
+| Happy Hues | https://www.happyhues.co/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Curated copy-paste palette reference | — |
+| Paletton | https://paletton.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Color-wheel scheme designer | — |
+| Muzli Colors | https://colors.muz.li/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | US | Gradient and palette explorer | — |
+| Pigment | https://pigment.shapefactory.co/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | US | One-click harmonious palettes | — |
+| Khroma | https://www.khroma.co/ | Own terms (AI-generated values) | ✅ | Not required | No | Global | AI palettes trained to your taste | — |
+| Colormind | http://colormind.io/ | Own terms (AI-generated values) | ✅ | Not required | No | Global | Neural-network palette generator | — |
+| Realtime Colors | https://www.realtimecolors.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Preview full-site palettes live | — |
+| Colorsinspo | https://colorsinspo.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Aggregated palette inspiration | — |
+| BrandColors | https://brandcolors.net/ | Own terms (brand color values) | ✅ | Not required | No | Global | Quick lookup of brand hex codes | — |
+| Hypercolor | https://hypercolor.dev/ | MIT (open source) | ✅ | Not required | No | Global | Tailwind gradient code library | https://github.com/jordihales/hypercolor |
+| Leonardo | https://leonardocolor.io/ | Apache-2.0 (open source) | ✅ | Not required | No | US | Adobe contrast-based color system | https://github.com/adobe/leonardo-contrast-colors |
+| Randoma11y | https://randoma11y.com/ | Own terms (accessible) | ✅ | Not required | No | Global | Random accessible color pairs | — |
+| Tint & Shade Generator | https://maketintsandshades.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Generate tint and shade scales | — |
+| ColorHexa | https://www.colorhexa.com/ | Own terms (color values uncopyrighted) | ✅ | Not required | No | Global | Color conversion and mixing tool | — |
+| Huemint | https://huemint.com/ | Own terms (free tier needs credit) | ✅ | Required | No | Global | Context-aware AI palette tool | — |
 
 ## 15.2 SVG Backgrounds, Textures & Dividers (SVG Backgrounds)
 
@@ -38,6 +53,15 @@
 | SVG Backgrounds | https://www.svgbackgrounds.com/ | 免费档 / Pro 双轨 | ⚠️ | Varies | Partial | US | No ZIP, copy SVG code directly | — |
 | Patternico | https://patternico.com/ | 站内未明示许可 | ⚠️ | Varies | No | Global | Online seamless pattern generator ⚠️ verify | — |
 | Magic Pattern | https://www.magicpattern.design/ | 自有条款（免费档可用） | ⚠️ | Varies | No | US | Pattern/grid/gradient tool collection ⚠️ verify | — |
+| SVG Wave | https://svgwave.in/ | Generated SVG free for commercial | ✅ | Not required | No | Global | Parametric SVG wave backgrounds | — |
+| Trianglify | https://trianglify.io/ | MIT | ✅ | Not required | No | Global | Low-poly gradient SVG generator | https://github.com/qrohlf/trianglify |
+| PatternPad | https://patternpad.com/ | Own terms (commercial needs credit) | ✅ | Required | No | Global | Parametric seamless pattern maker | — |
+| Cool Backgrounds | https://coolbackgrounds.io/ | Algorithmic output (CC0) | ✅ | Not required | No | Global | Polygon and particle backgrounds | — |
+| Glassmorphism Generator | https://glassmorphism.com/ | Generated CSS uncopyrighted | ✅ | Not required | No | Global | Glassmorphism CSS generator | — |
+| Neumorphism | https://neumorphism.io/ | Generated CSS uncopyrighted | ✅ | Not required | No | Global | Neumorphic UI shadow CSS | — |
+| Clippy | https://bennettfeely.com/clippy/ | Generated CSS uncopyrighted | ✅ | Not required | No | Global | CSS clip-path generator | — |
+| Fancy Border Radius | https://9elements.github.io/fancy-border-radius/ | MIT (open source) | ✅ | Not required | No | DE / EU | Organic blobby border-radius maker | https://github.com/9elements/fancy-border-radius |
+| Tabbied | https://tabbied.com/ | MIT | ✅ | Not required | No | Global | Generative patterns exported as SVG | — |
 
 > **Selection Tips**
 > - **Pick colors & schemes** → Coolors (industry benchmark), ColorSpace (full scheme from one color), Adobe Color (with accessibility check)

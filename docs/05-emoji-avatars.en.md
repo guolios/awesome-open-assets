@@ -18,6 +18,30 @@
 | UI Faces | https://www.uifaces.co | 页面未明确标注 | ⚠️ | 视情况 | 否 | Global | AI avatars; commercial license unconfirmed ⚠️ verify | — |
 | Pravatar | https://pravatar.cc | 未明确标注 | ⚠️ | 视情况 | 否 | Global | Placeholder avatar service; license unconfirmed ⚠️ verify | — |
 | JoyPixels | https://www.joypixels.com | 自有（免费版仅限个人使用） | ❌ | 需要 | 否 | US | Commercial use requires paid license; do not misuse | — |
+| Blobmoji | https://github.com/C1710/blobmoji | Apache-2.0 | ✅ | Not required | No | DE | Revived Google blob emoji | https://github.com/C1710/blobmoji |
+| Tossface | https://github.com/toss/tossface | Custom (free commercial) | ✅ | Not required | No | KR | Free open-source emoji by Toss | https://github.com/toss/tossface |
+| EmojiTwo | https://github.com/EmojiTwo/emojitwo | CC BY 4.0 | ✅ | Required | No | Global | EmojiOne successor; attribution needed | https://github.com/EmojiTwo/emojitwo |
+| Boring Avatars | https://boringavatars.com | MIT | ✅ | Not required | No | EU | 6 geometric SVG avatar styles | https://github.com/boringdesigners/boring-avatars |
+| Open Peeps | https://www.openpeeps.com | CC0 | ✅ | Not required | Partial | MX | Mix-and-match hand-drawn people | — |
+| Avataaars | https://www.avataaars.com | Custom (free commercial) | ✅ | Not required | Partial | US | Customizable cartoon avatar library | — |
+| Multiavatar | https://multiavatar.com | Custom (free commercial) | ✅ | Not required | No | Global | Multicultural avatars, 12B combos | https://github.com/multiavatar/Multiavatar |
+| Bean Heads | https://beanheads.robertbroersma.com | MIT | ✅ | Not required | No | US | Round "bean head" character avatars | https://github.com/RobertBroersma/beanheads |
+| NI Nice Avatar | https://nice-avatar.chilllab.io | MIT | ✅ | Not required | No | TW | Customizable cartoon face component | https://github.com/chilllab/react-nice-avatar |
+| Big Heads | https://bigheads.robertbroersma.com | MIT | ✅ | Not required | No | US | React bean-head avatar generator | https://github.com/RobertBroersma/bigheads |
+| Humaaans | https://www.humaaans.com | CC0 | ✅ | Not required | Partial | MX | Mix-and-match people illustrations | — |
+| Jdenticon | https://jdenticon.com | MIT | ✅ | Not required | No | Global | Hash-based symmetric identicons | https://github.com/dmester/jdenticon |
+| Minidenticons | https://laurentpayot.github.io/minidenticons | MIT | ✅ | Not required | No | FR | Minimal pixel identicons, zero-dep | https://github.com/laurentpayot/minidenticons |
+| Blockies | https://github.com/ethereum/blockies | WTFPL | ✅ | Not required | No | Global | Ethereum-style color-block identicons | https://github.com/ethereum/blockies |
+| Robohash | https://robohash.org | Code MIT / Art CC-BY | ✅ | Required | No | US | Text generates robot/monster avatars | https://github.com/e1ven/Robohash |
+| UI Avatars | https://ui-avatars.com | Unspecified | ⚠️ | Varies | No | Global | Initial avatars; license unverified ⚠️ verify | — |
+| Random User Generator | https://randomuser.me | Unspecified | ⚠️ | Varies | No | Global | Random photo placeholder API ⚠️ verify | — |
+| Iconify | https://iconify.design | MIT | ✅ | Not required | No | Global | Aggregates open emoji/icon sets | https://github.com/iconify/iconify |
+| Emojidex | https://emojidex.com | LGPL | ✅ | Required | No | JP | Open emoji set; attribution needed | — |
+| Personas | https://personas.design | Custom (free commercial) | ✅ | Not required | Partial | US | Free Figma avatar library | — |
+| Gravatar | https://en.gravatar.com | Custom (free service) | ✅ | Not required | No | US | Automattic user avatar service | — |
+| Fresh Folk | https://fresh-folk.com | Custom (free commercial) | ✅ | Not required | Partial | AU | Mix-and-match illustration kit | — |
+| Open Doodles | https://www.opendoodles.com | CC0 | ✅ | Not required | Partial | MX | Hand-drawn doodle illustrations | — |
+| EmojiMart | https://emoji-mart.com | MIT | ✅ | Not required | No | BE | Emoji picker component | https://github.com/missive/emoji-mart |
 
 > **Selection Guide**
 > - **Use emoji artwork in a product** (not system IME) → choose **Noto Emoji** (Apache-2.0) or **Fluent Emoji** (MIT), both attribution-free and comprehensive

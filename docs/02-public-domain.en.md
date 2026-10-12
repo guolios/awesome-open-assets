@@ -28,6 +28,28 @@
 | Library of Congress Free to Use | https://www.loc.gov/free-to-use/ | 混合（PD + 权利说明） | ⚠️ | Varies | No | US | Curated subset flagged free-to-use by the library. | — |
 | British Library | https://www.bl.uk | 混合（多为 Public Domain） | ⚠️ | Varies | No | UK | Digitized ancient books and manuscripts ⚠️ verify | — |
 | Internet Archive | https://archive.org | 混合（大量 Public Domain） | ⚠️ | Varies | No | US | Books, images, and historical archives at massive scale. | — |
+| Paris Musées | https://www.parismuseescollections.paris.fr | CC0 | ✅ | Not required | No | FR / EU | A dozen Paris museums, 300K+ CC0 works. | — |
+| Yale Center for British Art | https://collections.britishart.yale.edu | CC0 | ✅ | Not required | No | US | British art collection released as CC0. | — |
+| SMK Open (National Gallery of Denmark) | https://open.smk.dk | CC0 | ✅ | Not required | No | DK / EU | Nordic masterpieces in CC0 HD. | — |
+| Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | Not required | No | US | 20K+ CC0 art holdings. | — |
+| Dallas Museum of Art | https://www.dma.org/art/collection | CC0 | ✅ | Not required | No | US | DMA Open Access CC0 collection. | — |
+| Harvard Art Museums | https://harvardartmuseums.org/collection | CC0 | ✅ | Not required | No | US | Harvard art museums' CC0 open access. | — |
+| Openverse | https://openverse.org | Mixed (CC0 / CC BY / PD) | ⚠️ | Varies | No | Global | WP-origin aggregator of open media. | https://github.com/WordPress/openverse |
+| NOAA Photo Library | https://www.photolib.noaa.gov | Public Domain | ✅ | Not required | No | US | U.S. ocean and atmosphere public-domain images. | — |
+| USGS Multimedia Gallery | https://www.usgs.gov/media | Public Domain | ✅ | Not required | No | US | U.S. Geological Survey public-domain media. | — |
+| NARA (U.S. National Archives) | https://www.archives.gov | Mostly Public Domain | ✅ | Not required | No | US | U.S. National Archives public-domain imagery. | — |
+| CDC PHIL | https://phil.cdc.gov | Public Domain | ✅ | Not required | No | US | CDC public-domain medical imagery. | — |
+| Minneapolis Institute of Art | https://collections.artsmia.org | CC0 | ✅ | Not required | No | US | Mia Open Access CC0 collection. | — |
+| LACMA | https://www.lacma.org/collection | CC0 | ✅ | Not required | No | US | L.A. County Museum of Art CC0 release. | — |
+| Nationalmuseum Stockholm | https://collection.nationalmuseum.se | Public Domain | ✅ | Not required | No | SE / EU | Swedish Nationalmuseum public-domain art. | — |
+| Belvedere | https://sammlung.belvedere.at | CC0 | ✅ | Not required | No | AT / EU | Vienna Belvedere CC0 open content. | — |
+| Mauritshuis | https://www.mauritshuis.nl/ontdek-collectie | Public Domain | ✅ | Not required | No | NL / EU | Dutch Golden Age paintings, public domain. | — |
+| RISD Museum | https://risdmuseum.org/art-design/collection | CC0 | ✅ | Not required | No | US | Rhode Island School of Design museum CC0. | — |
+| Indianapolis Museum of Art (Newfields) | https://collections.discovernewfields.org | CC0 | ✅ | Not required | No | US | Newfields collection released as CC0. | — |
+| National Park Service | https://www.nps.gov/photosmultimedia | Public Domain | ✅ | Not required | No | US | U.S. National Park Service public-domain images. | — |
+| U.S. Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | Not required | No | US | FWS public-domain wildlife imagery. | — |
+| Clark Art Institute | https://www.clarkart.edu/collection | Public Domain | ✅ | Not required | No | US | Clark Art Institute public-domain images. | — |
+| DigitaltMuseum | https://digitaltmuseum.org | Mixed (CC0 / CC BY / PD) | ⚠️ | Varies | No | NO / SE | Nordic museums aggregator; mixed licenses ⚠️ verify | — |
 
 > **Selection Tips**
 > - For **book covers / cultural merchandise**: prioritize The Met, Rijksmuseum, Smithsonian — the artworks themselves are long in the public domain, and the scans are CC0, double safety.

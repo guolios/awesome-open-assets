@@ -23,6 +23,21 @@
 | Toptal Subtle Patterns | https://www.toptal.com/designers/subtlepatterns/ | CC BY 3.0（多数纹理） | ✅ | 需要 | 否 | US | 经典无缝纹理库，需署名 ⚠️待核实 | — |
 | Color Hunt | https://colorhunt.co/ | 站内未明示许可 | ⚠️ | 视情况 | 否 | Global | 人工精选配色墙，更新频繁 ⚠️待核实 | — |
 | Transparent Textures | https://www.transparenttextures.com/ | 站内未明示许可 | ⚠️ | 视情况 | 否 | US | 透明叠加纹理老牌站 ⚠️待核实 | — |
+| Happy Hues | https://www.happyhues.co/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 精选可抄配色参考站 | — |
+| Paletton | https://paletton.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 色轮配色方案设计器 | — |
+| Muzli Colors | https://colors.muz.li/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | US | 渐变与配色探索工具 | — |
+| Pigment | https://pigment.shapefactory.co/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | US | 一键生成协调配色 | — |
+| Khroma | https://www.khroma.co/ | 自有条款（AI 生成色值） | ✅ | 不需要 | 否 | Global | 训练偏好的 AI 配色 | — |
+| Colormind | http://colormind.io/ | 自有条款（AI 生成色值） | ✅ | 不需要 | 否 | Global | 神经网络配色生成 | — |
+| Realtime Colors | https://www.realtimecolors.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 实时预览整站配色 | — |
+| Colorsinspo | https://colorsinspo.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 配色灵感聚合站 | — |
+| BrandColors | https://brandcolors.net/ | 自有条款（品牌色值） | ✅ | 不需要 | 否 | Global | 大牌品牌色值速查 | — |
+| Hypercolor | https://hypercolor.dev/ | MIT（代码开源） | ✅ | 不需要 | 否 | Global | Tailwind 渐变代码库 | https://github.com/jordihales/hypercolor |
+| Leonardo | https://leonardocolor.io/ | Apache-2.0（开源） | ✅ | 不需要 | 否 | US | Adobe 对比度配色系统 | https://github.com/adobe/leonardo-contrast-colors |
+| Randoma11y | https://randoma11y.com/ | 自有条款（无障碍） | ✅ | 不需要 | 否 | Global | 随机无障碍配色对 | — |
+| Tint & Shade Generator | https://maketintsandshades.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 一键生成深浅色阶 | — |
+| ColorHexa | https://www.colorhexa.com/ | 自有条款（色值无版权） | ✅ | 不需要 | 否 | Global | 色值转换与调色 | — |
+| Huemint | https://huemint.com/ | 自有条款（免费档需署名） | ✅ | 需要 | 否 | Global | 情境感知 AI 配色 | — |
 
 ## 15.2 SVG 背景、纹理与分隔素材（SVG Backgrounds）
 
@@ -38,6 +53,15 @@
 | SVG Backgrounds | https://www.svgbackgrounds.com/ | 免费档 / Pro 双轨 | ⚠️ | 视情况 | 部分 | US | 免 ZIP，直接复制 SVG 代码 | — |
 | Patternico | https://patternico.com/ | 站内未明示许可 | ⚠️ | 视情况 | 否 | Global | 无缝图案在线生成器 ⚠️待核实 | — |
 | Magic Pattern | https://www.magicpattern.design/ | 自有条款（免费档可用） | ⚠️ | 视情况 | 否 | US | 图案/网格/渐变工具集合 ⚠️待核实 | — |
+| SVG Wave | https://svgwave.in/ | 产出 SVG 可商用 | ✅ | 不需要 | 否 | Global | 参数化 SVG 波浪背景 | — |
+| Trianglify | https://trianglify.io/ | MIT | ✅ | 不需要 | 否 | Global | 低多边形渐变 SVG | https://github.com/qrohlf/trianglify |
+| PatternPad | https://patternpad.com/ | 自有条款（商用需署名） | ✅ | 需要 | 否 | Global | 参数化无缝图案生成 | — |
+| Cool Backgrounds | https://coolbackgrounds.io/ | 算法生成（CC0 可商用） | ✅ | 不需要 | 否 | Global | 多边形/粒子背景图 | — |
+| Glassmorphism Generator | https://glassmorphism.com/ | 产出 CSS 无版权 | ✅ | 不需要 | 否 | Global | 毛玻璃效果 CSS 生成 | — |
+| Neumorphism | https://neumorphism.io/ | 产出 CSS 无版权 | ✅ | 不需要 | 否 | Global | 新拟态 UI 阴影 CSS | — |
+| Clippy | https://bennettfeely.com/clippy/ | 产出 CSS 无版权 | ✅ | 不需要 | 否 | Global | CSS 剪裁路径生成器 | — |
+| Fancy Border Radius | https://9elements.github.io/fancy-border-radius/ | MIT（开源） | ✅ | 不需要 | 否 | DE / EU | 有机圆角形状生成 | https://github.com/9elements/fancy-border-radius |
+| Tabbied | https://tabbied.com/ | MIT | ✅ | 不需要 | 否 | Global | 生成式图案导出 SVG | — |
 
 > **选型建议**
 > - **取色配方案** → Coolors（行业标杆）、ColorSpace（一色生成整套方案）、Adobe Color（带无障碍对比检查）

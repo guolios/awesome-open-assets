@@ -20,6 +20,27 @@
 | Poly Pizza | https://poly.pizza | 多为 CC0 | ⚠️ | 视情况 | 否 | EU | 1 万+ 模型，授权标注清晰 | — |
 | Sketchfab（CC 筛选） | https://sketchfab.com/search?licenses=322a749bcfa847c3a3d21c7adfb667bc | 混合 CC 授权 | ⚠️ | 视情况 | 是 | Global | 支持按授权筛选，须逐件确认 | — |
 | Free3D | https://free3d.com | 混合（部分免费商用） | ⚠️ | 视情况 | 部分 | US | 模型量大，免费部分授权不一 ⚠️待核实 | — |
+| CGBookcase | https://www.cgbookcase.com | CC0 | ✅ | 不需要 | 否 | CH | 木材/织物表面 CC0 扫描 | — |
+| TextureCan | https://www.texturecan.com | CC0 | ✅ | 不需要 | 否 | Global | 4K 无缝 PBR 含 SBSAR | — |
+| Texture Ninja | https://texture.ninja | 自定义（免版税） | ✅ | 不需要 | 否 | BE | 照片表面 PBR 纹理 | — |
+| Public Domain Textures | https://publicdomaintextures.com | CC0 | ✅ | 不需要 | 否 | DE | 公共领域照片纹理库 | — |
+| Duion | https://duion.de | CC0 | ✅ | 不需要 | 否 | DE | 地形/自然 CC0 纹理 | — |
+| HDRMAPS | https://hdrmaps.com | CC BY 4.0 | ✅ | 需要 | 否 | PL | HDRI 环境贴图需署名 | — |
+| HDRI-Skies | https://hdri-skies.com | 免费档（2K 可商用） | ⚠️ | 不需要 | 否 | IT | 免费 2K 天空 HDRI | — |
+| CGAxis | https://cgaxis.com | 免版税（免费样张） | ✅ | 不需要 | 部分 | PL | 免费样张可商用 | — |
+| NoEmotion HDRs | https://noemotionhdrs.net | CC BY-ND 4.0 | ⚠️ | 需要 | 否 | EU | HDRI 禁改作 ⚠️待核实 | — |
+| Material Maker | https://materialmaker.org | MIT | ✅ | 不需要 | 否 | Global | 开源程序化材质工具 | https://github.com/RodZill4/material-maker |
+| Texturelabs | https://texturelabs.org | 自定义（免版税） | ✅ | 不需要 | 否 | US | 做旧/污渍类纹理 | — |
+| Texturer | https://texturer.com | 免版税 | ✅ | 不需要 | 否 | Global | 高清照片纹理可商用 | — |
+| Viz-People（免费纹理） | https://www.viz-people.com | 免版税（免费档） | ✅ | 不需要 | 部分 | EU | 建筑地面免费纹理 | — |
+| Poliigon（免费档） | https://www.poliigon.com | 免版税（免费档） | ✅ | 不需要 | 是 | US | 高质量免费样张 | — |
+| Textures.com（免费档） | https://www.textures.com | 免版税（免费档） | ✅ | 不需要 | 是 | US | 每日免费额度可商用 | — |
+| Locker3d | https://www.locker3d.com | CC0 | ✅ | 不需要 | 否 | Global | 木/石/金属 CC0 贴图 | — |
+| 3DTexel | https://3dtexel.com/free-library | CC0（免费库） | ✅ | 不需要 | 是 | Global | 1650+ CC0 无缝材质与 HDRI | — |
+| PolyScann | https://polyscann.com | CC0 | ✅ | 不需要 | 否 | Global | 写实扫描 PBR 贴图 | — |
+| WildTextures | https://wildtextures.com | CC（部分需署名） | ✅ | 视情况 | 否 | Global | 自然材质免费商用 | — |
+| Pexels | https://www.pexels.com | Pexels License | ✅ | 不需要 | 否 | Global | 照片类表面纹理参考 | — |
+| Pixabay | https://pixabay.com | Pixabay License | ✅ | 不需要 | 否 | Global | 照片/矢量纹理来源 | — |
 
 > **选型建议**
 > - **HDRI 环境光照** → Poly Haven 是唯一推荐，质量与分辨率都在行业水准之上

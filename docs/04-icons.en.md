@@ -27,6 +27,30 @@
 | Font Awesome Free | https://fontawesome.com/search?o=r&m=free | 图标 CC BY 4.0 / 字体 SIL OFL 1.1 / 代码 MIT | ✅ | Required | No | US | Free-tier icons require attribution. | https://github.com/FortAwesome/Font-Awesome |
 | Noun Project（CC 部分） | https://thenounproject.com | CC BY 3.0 / 4.0（付费免署名） | ⚠️ | Required | Yes | US | 7M+ icons; free plan requires attribution. | — |
 | Icons8 | https://icons8.com/icons | 自有许可（免费需署名） | ⚠️ | Required | Yes | US | Multiple icon styles; free plan requires attribution. | — |
+| Boxicons | https://boxicons.com | CC BY 4.0 | ✅ | Required | No | Global | 1,600+ line and solid icons. | https://github.com/atisawd/boxicons |
+| Eva Icons | https://akveo.github.io/eva-icons | MIT | ✅ | Not required | No | Global | 480+ outline and filled icons. | https://github.com/akveo/eva-icons |
+| CoreUI Icons | https://coreui.io/icons | CC0 | ✅ | Not required | No | EU | 1,500+ icons, including brands. | https://github.com/coreui/coreui-icons |
+| Fluent UI System Icons | https://fluentui.com/icons | MIT | ✅ | Not required | No | US | Official Microsoft icons, 40K+. | https://github.com/microsoft/fluentui |
+| Ant Design Icons | https://ant.design/components/icon | MIT | ✅ | Not required | No | CN | Official Ant Design enterprise icons. | https://github.com/ant-design/ant-design-icons |
+| css.gg | https://css.gg | MIT | ✅ | Not required | No | Global | Pure-CSS icons, extremely lightweight. | https://github.com/astrit/css |
+| Clarity Icons | https://clarity.design/icons | MIT | ✅ | Not required | No | US | Official VMware icons, 700+. | https://github.com/vmware-clarity/core |
+| Weather Icons | https://erikflowers.github.io/weather-icons | SIL OFL 1.1 | ✅ | Not required | No | US | 222+ weather-specific icons. | https://github.com/erikflowers/weather-icons |
+| Flag Icons | https://lipis.github.io/flag-icons | MIT | ✅ | Not required | No | Global | 250+ country flag SVG icons. | https://github.com/lipis/flag-icons |
+| MingCute Icons | https://www.mingcute.com | Apache-2.0 | ✅ | Not required | No | CN | 3,200+ line and filled icons. | https://github.com/MingCuteDesign/mingcute |
+| Devicon | https://konpa.github.io/devicon | MIT | ✅ | Not required | No | Global | Programming / tech brand icons. | https://github.com/konpa/devicon |
+| Crypto Icons | https://cryptoicons.co | CC0 | ✅ | Not required | No | Global | Cryptocurrency logo icons. | https://github.com/wepaint/cryptocurrency-icons |
+| Academicons | https://jpswalsh.github.io/academicons | SIL OFL 1.1 | ✅ | Not required | No | Global | Academic institution / database icons. | https://github.com/jpswalsh/academicons |
+| React Icons | https://react-icons.github.io/react-icons | MIT (aggregator) | ✅ | Varies | No | Global | Aggregates many icon sets as React components. | https://github.com/react-icons/react-icons |
+| Fork Awesome | https://forkawesome.github.io | MIT / SIL OFL | ✅ | Not required | No | Global | Font Awesome fork with open-source brands. | https://github.com/ForkAwesome/Fork-Awesome |
+| UIkit Icons | https://getuikit.com/docs/icon | MIT | ✅ | Not required | No | EU | Icons built into the UIkit framework. | https://github.com/uikit/uikit |
+| MUI Icons | https://mui.com/material-ui/icons | MIT | ✅ | Not required | No | Global | Official Material UI icons. | https://github.com/mui/material-ui |
+| Flowbite Icons | https://flowbite.com/icons | MIT | ✅ | Not required | No | Global | Tailwind-style icons, 400+. | https://github.com/themesberg/flowbite |
+| Teenyicons | https://teenyicons.com | MIT | ✅ | Not required | No | Global | Minimal line / filled icons, lightweight. | https://github.com/terkelg/teenyicons |
+| System UIcons | https://www.systemuicons.com | Unlicense | ✅ | Not required | No | Global | 210+ minimal system icons. | https://github.com/CoreyGinnivan/system-uicons |
+| Solar Icons | https://solar-icons.com | CC BY 4.0 | ✅ | Required | No | Global | 1,451 icons across six styles. | https://github.com/saoudi-h/solar-icons |
+| Zondicons | https://zondicons.com | Custom free license (no attribution) | ✅ | Not required | No | Global | 270+ clean line icons. | — |
+| Iconmonstr | https://iconmonstr.com | Custom free license (no attribution) | ✅ | Not required | No | Global | 4,500+ monochrome icons. | — |
+| Line Awesome | https://icons8.com/line-awesome | MIT / Good Boy License | ✅ | Required | No | Global | 1,500+ outline icons, dual license. | https://github.com/icons8/line-awesome |
 
 > **Selection Tips**
 > - **For product UI, pick blindly**: Lucide, Tabler, Phosphor — MIT/ISC, no attribution, modern style, active communities, full frontend packages.

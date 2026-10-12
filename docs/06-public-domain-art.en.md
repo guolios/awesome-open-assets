@@ -21,6 +21,31 @@
 | Paris Musées | https://www.parismuseescollections.paris.fr | CC0 | ✅ | Not required | No | FR | CC0 | — |
 | Wellcome Collection | https://wellcomecollection.org/works | CC BY | ✅ | Required | No | UK | CC BY | — |
 | Art Institute of Chicago | https://www.artic.edu/collection | CC0 / 公有领域 | ✅ | Not required | No | US | CC0 / PD | https://github.com/art-institute-of-chicago/api |
+| Getty Museum Open Content | https://www.getty.edu/art/collection/ | CC0 | ✅ | Not required | No | US | Getty 88k+ works CC0 | — |
+| National Gallery of Art | https://www.nga.gov/artworks/free-images-and-open-access | CC0 | ✅ | Not required | No | US | 60k+ public-domain images | — |
+| Cleveland Museum of Art | https://openaccess.clevelandart.org | CC0 | ✅ | Not required | No | US | 37k+ CC0 with API | — |
+| Los Angeles County Museum | https://collections.lacma.org | CC0 / Public Domain | ✅ | Not required | No | US | LACMA CC0 collection | — |
+| Harvard Art Museums | https://harvardartmuseums.org/collections | CC0 | ✅ | Not required | No | US | 200k+ CC0 images | — |
+| The Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | Not required | No | US | Walters CC0 collection | — |
+| Minneapolis Institute of Art | https://collections.artsmia.org | CC0 | ✅ | Not required | No | US | Minneapolis CC0 art | — |
+| Library of Congress | https://www.loc.gov/free-to-use/ | Public Domain | ✅ | Not required | No | US | LOC free-to-use sets | — |
+| NASA Image Library | https://images.nasa.gov | Public Domain (US Gov) | ✅ | Not required | No | US | NASA public-domain imagery | — |
+| NOAA Photo Library | https://www.photolibrary.noaa.gov | Public Domain | ✅ | Not required | No | US | Ocean/atmosphere public domain | — |
+| David Rumsey Map Collection | https://www.davidrumsey.com | Public Domain | ✅ | Not required | No | US | Vast historical map collection | — |
+| Statens Museum for Kunst | https://open.smk.dk/en/ | CC0 / Public Domain Mark | ✅ | Not required | No | DK | Danish national gallery CC0 | — |
+| Nasjonalmuseet | https://www.nasjonalmuseet.no/en/ | CC0 / Public Domain | ✅ | Not required | No | NO | Norwegian national gallery CC0 | — |
+| Munch Museet | https://www.munchmuseet.no/en/ | CC0 / Public Domain | ✅ | Not required | No | NO | Munch museum CC0 | — |
+| Nationalmuseum | https://www.nationalmuseum.se | CC0 / Public Domain | ✅ | Not required | No | SE | Swedish national gallery CC0 | — |
+| Finnish National Gallery | https://kokoelma.kansallisgalleria.fi/en/ | CC0 | ✅ | Not required | No | FI | Finnish national gallery CC0 | — |
+| Mauritshuis | https://www.mauritshuis.nl/en/our-collection | CC0 | ✅ | Not required | No | NL | Dutch Golden Age CC0 | — |
+| Belvedere | https://www.belvedere.at/en | CC0 | ✅ | Not required | No | AT | Belvedere CC0 (Klimt) | — |
+| Kunstmuseum Basel | https://www.kunstmuseumbasel.ch | CC0 | ✅ | Not required | No | CH | Basel art museum CC0 | — |
+| Städel Museum | https://www.staedel.de/en | CC0 | ✅ | Not required | No | DE | Städel museum CC0 | — |
+| National Gallery in Prague | https://www.ngprague.cz/en | CC0 | ✅ | Not required | No | CZ | Prague national gallery CC0 | — |
+| National Museum in Krakow | https://mnk.pl | CC0 | ✅ | Not required | No | PL | Krakow national museum CC0 | — |
+| British Library (Flickr) | https://www.flickr.com/photos/britishlibrary | Public Domain | ✅ | Not required | No | UK | British Library public-domain images | — |
+| Te Papa Tongarewa | https://collections.tepapa.govt.nz/ | Mixed (No Known Copyright + CC BY-NC-ND) | ⚠️ | Varies | No | NZ | Partly commercial; some NC-ND | — |
+| Openverse | https://openverse.org | Mixed (CC / Public Domain) | ⚠️ | Varies | No | Global | CC/PD aggregation search | — |
 
 > Cleanest licenses → CC0: Met Museum, Rijksmuseum, Smithsonian, Paris Musées, Art Institute of Chicago.
 > Wikimedia Commons / Europeana are aggregators with mixed licenses — open each item's license before use.

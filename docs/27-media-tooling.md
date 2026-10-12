@@ -25,6 +25,30 @@
 | MediaInfo | https://mediaarea.net/en/MediaInfo | BSD-2-Clause | ✅ | 不需要 | 否 | FR / EU | 查看导出封装码率等元数据 | https://github.com/MediaArea/MediaInfo |
 | yt-dlp | https://github.com/yt-dlp/yt-dlp | Unlicense | ✅ | 不需要 | 否 | Global | 万能下载命令行，注意版权边界 | https://github.com/yt-dlp/yt-dlp |
 | ffmpeg.wasm | https://ffmpegwasm.netlify.app/ | MIT（构建）/ GPL（核心） | ⚠️ | 视情况 | 否 | Global | 浏览器里跑 FFmpeg，注意 GPL 传染 | https://github.com/ffmpegwasm/ffmpeg.wasm |
+| OpenShot | https://www.openshot.org/ | GPL-3.0 | ✅ | 视情况 | 否 | US | 跨平台易用非线性剪辑 | https://github.com/OpenShot/openshot-qt |
+| Olive | https://olivevideoeditor.org/ | GPL-3.0 | ✅ | 视情况 | 否 | Global | 节点式开源非线性剪辑（alpha） | https://github.com/olive-editor/olive |
+| Avidemux | https://avidemux.sourceforge.net/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 轻量剪切滤镜与转码 | https://github.com/mean00/avidemux2 |
+| Flowblade | https://jliljebl.github.io/flowblade/ | GPL-3.0 | ✅ | 视情况 | 否 | FI / EU | Linux 多轨非线性剪辑 | https://github.com/jliljebl/flowblade |
+| Natron | https://natrongithub.github.io/ | GPL-2.0 | ✅ | 视情况 | 否 | FR / EU | 节点合成特效对标 AE/Nuke | https://github.com/NatronGitHub/Natron |
+| Blender | https://www.blender.org/ | GPL-3.0 | ✅ | 视情况 | 否 | NL / EU | 全能 3D 套件含视频剪辑 | https://github.com/blender/blender |
+| Unmanic | https://github.com/Unmanic/unmanic | GPL-3.0 | ✅ | 视情况 | 否 | Global | 媒体库自动转码与整理 | https://github.com/Unmanic/unmanic |
+| ffmpeg-normalize | https://github.com/slhck/ffmpeg-normalize | MIT | ✅ | 不需要 | 否 | Global | EBU R128 批量响度归一 | https://github.com/slhck/ffmpeg-normalize |
+| video2x | https://github.com/k4yt3x/video2x | GPL-3.0 | ✅ | 视情况 | 否 | Global | AI 视频超分无损放大 | https://github.com/k4yt3x/video2x |
+| VapourSynth | https://www.vapoursynth.com/ | LGPL-2.1 | ✅ | 视情况 | 否 | Global | Python 视频处理框架 | https://github.com/vapoursynth/vapoursynth |
+| Subtitle Edit | https://www.nikse.dk/SubtitleEdit/ | GPL-3.0 | ✅ | 视情况 | 否 | DK / EU | 全能字幕编辑与同步 | https://github.com/SubtitleEdit/subtitleedit |
+| Aegisub | https://www.aegisub.org/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 高级字幕排版与特效 | https://github.com/TypesettingTools/Aegisub |
+| whisper.cpp | https://github.com/ggerganov/whisper.cpp | MIT | ✅ | 不需要 | 否 | Global | C/C++ 本地语音转写 | https://github.com/ggerganov/whisper.cpp |
+| faster-whisper | https://github.com/SYSTRAN/faster-whisper | MIT | ✅ | 不需要 | 否 | FR / EU | CTranslate2 高速转写 | https://github.com/SYSTRAN/faster-whisper |
+| demucs | https://github.com/facebookresearch/demucs | MIT | ✅ | 不需要 | 否 | US | AI 人声伴奏分离提取 | https://github.com/facebookresearch/demucs |
+| SimpleScreenRecorder | https://www.maartenbaert.be/simplescreenrecorder/ | GPL-2.0+ | ✅ | 视情况 | 否 | BE / EU | Linux 录屏捕获 OpenGL | https://github.com/MaartenBaert/ssr |
+| MediaMTX | https://github.com/bluenviron/mediamtx | MIT | ✅ | 不需要 | 否 | Global | 多协议流媒体服务器 | https://github.com/bluenviron/mediamtx |
+| SRS | https://ossrs.io/ | MIT | ✅ | 不需要 | 否 | CN | 高性能实时流媒体服务器 | https://github.com/ossrs/srs |
+| Owncast | https://owncast.online/ | MIT | ✅ | 不需要 | 否 | US | 自托管直播与聊天服务 | https://github.com/owncast/owncast |
+| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | 视情况 | 否 | DE / EU | MKV 封装合并与提取 | https://github.com/mbunkus/mkvtoolnix |
+| mpv | https://mpv.io/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 可嵌入命令行播放器 | https://github.com/mpv-player/mpv |
+| MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | 不需要 | 否 | Global | Python 脚本化视频编辑 | https://github.com/Zulko/moviepy |
+| PySceneDetect | https://pyscenedetect.readthedocs.io/ | BSD-3-Clause | ✅ | 不需要 | 否 | US | OpenCV 视频转场切分 | https://github.com/Breakthrough/PySceneDetect |
+
 
 > **按场景快速决策**
 >

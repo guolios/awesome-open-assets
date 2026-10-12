@@ -24,6 +24,27 @@
 | Vecteezy（免费部分） | https://www.vecteezy.com/free-vector-art | 自有许可（免费需署名） | ⚠️ | Required | Yes | US | Free vectors and videos; attribution required. | — |
 | Icons8 Ouch | https://icons8.com/ouch | 自有许可（免费需署名） | ⚠️ | Required | Yes | US | Style-consistent illustration packs, large volume. | — |
 | Blush | https://blush.design | 自有许可（免费版有限制） | ⚠️ | Varies | Yes | US | Illustration character combiner; free tier is limited ⚠️ verify | — |
+| Lukas Adam Illustrations | https://lukaszadam.com/illustrations | CC0 | ✅ | Not required | No | EU | 80+ minimal single-color line illustrations, public domain. | — |
+| Illlustrations | https://illlustrations.co | MIT | ✅ | Not required | No | Global | 120+ open-source illustrations, free for commercial, no attribution. | https://github.com/realvjy/illlustrations |
+| Absurd Design | https://absurd.design | Custom free license (attribution required) | ✅ | Required | No | ES / EU | Surreal hand-drawn illustrations; free tier needs attribution. | — |
+| Stubborn Generator | https://stubborn.fun | Custom free license (commercial OK) | ✅ | Not required | No | Global | Composable character & scene generator. | https://github.com/shepovalovdenis/Stubborn-Illustrations-Generator |
+| Paaatterns | https://products.ls.graphics/paaatterns | Custom free license (no attribution) | ✅ | Not required | No | EU | Free geometric patterns, commercial with no attribution. | — |
+| Control Illustrations | https://control.rocks | Custom free license (no attribution) | ✅ | Not required | Partial | RO / EU | 108 character illustrations, free PNG tier. | — |
+| Delesign Illustrations | https://delesign.com/free-designs/graphics | Custom free license (no attribution) | ✅ | Not required | No | US | Large illustration + icon library, no attribution. | — |
+| Blobmaker | https://blobmaker.app | Custom free license | ✅ | Not required | No | Global | Generate commercial-usable SVG blobs online. | — |
+| Haikei | https://haikei.app | Custom free license | ✅ | Not required | No | Global | Generate wave / blob SVG shapes. | — |
+| Get Waves | https://getwaves.io | Custom free license | ✅ | Not required | No | Global | Generate SVG wave dividers online. | — |
+| Hero Patterns | https://heropatterns.com | MIT | ✅ | Not required | No | US | Tileable SVG background patterns. | https://github.com/steveschoger/hero-patterns |
+| Cool Backgrounds | https://coolbackgrounds.io | CC0 | ✅ | Not required | No | Global | Gradient background generator, CC0. | — |
+| Error 404 Illustrations | https://error404.fun | CC0 / Public Domain | ✅ | Not required | No | GR / EU | 404-page illustrations, public domain ⚠️ verify | — |
+| Fresh Folk | https://fresh-folk.com | CC BY 4.0 | ✅ | Required | Partial | Global | Dress-up character illustrations; attribution required. | — |
+| Pixel True Illustrations | https://www.pixeltrue.com/free-illustrations | Custom free license (sign-up required) | ⚠️ | Required | Yes | US | Free animated illustrations; sign-up needed. | — |
+| Patternpad | https://patternpad.com | Custom free license | ✅ | Not required | No | Global | Free SVG pattern generator. | — |
+| Storytale Free Illustrations | https://storytale.io/free-illustrations | Custom free license (sign-up required) | ⚠️ | Required | Yes | US | Free illustrations; sign-up required. | — |
+| Wikimedia Commons (SVG) | https://commons.wikimedia.org | CC / Public Domain (varies) | ⚠️ | Varies | No | Global | Huge public-domain vector pool, licenses vary. | — |
+| Pixabay | https://pixabay.com | Pixabay License (custom) | ✅ | Not required | No | Global | Millions of free vectors, no attribution. | — |
+| Sketchvalley | https://sketchvalley.com | CC0 | ✅ | Not required | No | Global | 70+ hand-drawn illustrations, public domain ⚠️ verify | — |
+| Shapefest | https://shapefest.com | Custom free license | ✅ | Not required | No | US | 160K+ free 3D shape PNGs. | — |
 
 > **Selection Tips**
 > - **Recolor to match your brand**: unDraw, IRA Design, and Open Doodles all support online direct recoloring, no Figma needed.

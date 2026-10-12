@@ -18,6 +18,30 @@
 | UI Faces | https://www.uifaces.co | 页面未明确标注 | ⚠️ | 视情况 | 否 | Global | AI 头像，商用授权待确认 ⚠️待核实 | — |
 | Pravatar | https://pravatar.cc | 未明确标注 | ⚠️ | 视情况 | 否 | Global | 占位头像服务，授权待确认 ⚠️待核实 | — |
 | JoyPixels | https://www.joypixels.com | 自有（免费版仅限个人使用） | ❌ | 需要 | 否 | US | 商用须付费授权，切勿误用 | — |
+| Blobmoji | https://github.com/C1710/blobmoji | Apache-2.0 | ✅ | 不需要 | 否 | DE | 还原谷歌弃用的 blob 表情 | https://github.com/C1710/blobmoji |
+| Tossface | https://github.com/toss/tossface | 自有（商用免费） | ✅ | 不需要 | 否 | KR | 韩国 Toss 免费开源 emoji | https://github.com/toss/tossface |
+| EmojiTwo | https://github.com/EmojiTwo/emojitwo | CC BY 4.0 | ✅ | 需要 | 否 | Global | EmojiOne 续作须署名 | https://github.com/EmojiTwo/emojitwo |
+| Boring Avatars | https://boringavatars.com | MIT | ✅ | 不需要 | 否 | EU | 6 种几何风 SVG 头像 | https://github.com/boringdesigners/boring-avatars |
+| Open Peeps | https://www.openpeeps.com | CC0 | ✅ | 不需要 | 部分 | MX | 手绘可拼装人物插画 | — |
+| Avataaars | https://www.avataaars.com | 自有（个人/商用免费） | ✅ | 不需要 | 部分 | US | 可换装卡通头像库 | — |
+| Multiavatar | https://multiavatar.com | 自有（商用免费） | ✅ | 不需要 | 否 | Global | 多元文化头像 120 亿组合 | https://github.com/multiavatar/Multiavatar |
+| Bean Heads | https://beanheads.robertbroersma.com | MIT | ✅ | 不需要 | 否 | US | 圆滚滚豆豆头角色头像 | https://github.com/RobertBroersma/beanheads |
+| NI Nice Avatar | https://nice-avatar.chilllab.io | MIT | ✅ | 不需要 | 否 | TW | 可定制卡通人脸组件 | https://github.com/chilllab/react-nice-avatar |
+| Big Heads | https://bigheads.robertbroersma.com | MIT | ✅ | 不需要 | 否 | US | React 豆豆头头像生成 | https://github.com/RobertBroersma/bigheads |
+| Humaaans | https://www.humaaans.com | CC0 | ✅ | 不需要 | 部分 | MX | 可拼装人物插画库 | — |
+| Jdenticon | https://jdenticon.com | MIT | ✅ | 不需要 | 否 | Global | 哈希生成对称几何标识 | https://github.com/dmester/jdenticon |
+| Minidenticons | https://laurentpayot.github.io/minidenticons | MIT | ✅ | 不需要 | 否 | FR | 极简像素标识零依赖 | https://github.com/laurentpayot/minidenticons |
+| Blockies | https://github.com/ethereum/blockies | WTFPL | ✅ | 不需要 | 否 | Global | 以太坊风色块标识 | https://github.com/ethereum/blockies |
+| Robohash | https://robohash.org | 代码 MIT / 图形 CC-BY | ✅ | 需要 | 否 | US | 文本生成机器人怪物头像 | https://github.com/e1ven/Robohash |
+| UI Avatars | https://ui-avatars.com | 未明确标注 | ⚠️ | 视情况 | 否 | Global | 首字母占位头像授权待核 ⚠️待核实 | — |
+| Random User Generator | https://randomuser.me | 未明确标注 | ⚠️ | 视情况 | 否 | Global | 随机真人风头像授权待核 ⚠️待核实 | — |
+| Iconify | https://iconify.design | MIT | ✅ | 不需要 | 否 | Global | 聚合多套开源 emoji 集 | https://github.com/iconify/iconify |
+| Emojidex | https://emojidex.com | LGPL | ✅ | 需要 | 否 | JP | 开源 emoji 集须署名 | — |
+| Personas | https://personas.design | 自有（免费商用） | ✅ | 不需要 | 部分 | US | Figma 免费可商用头像 | — |
+| Gravatar | https://en.gravatar.com | 自有（免费服务） | ✅ | 不需要 | 否 | US | Automattic 用户头像服务 | — |
+| Fresh Folk | https://fresh-folk.com | 自有（免费商用） | ✅ | 不需要 | 部分 | AU | 可拼装人物插画库 | — |
+| Open Doodles | https://www.opendoodles.com | CC0 | ✅ | 不需要 | 部分 | MX | 手绘涂鸦插画素材 | — |
+| EmojiMart | https://emoji-mart.com | MIT | ✅ | 不需要 | 否 | BE | emoji 选择器组件 | https://github.com/missive/emoji-mart |
 
 > **选型建议**
 > - **产品里要用 emoji 图形**（不是调用系统输入法）→ 选 **Noto Emoji**（Apache-2.0）或 **Fluent Emoji**（MIT），免署名且覆盖全

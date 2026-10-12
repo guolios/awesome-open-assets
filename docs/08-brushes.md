@@ -20,6 +20,27 @@
 | MediBang Paint | https://medibang.com | 免费可商用（应用内） | ✅ | 不需要 | 是 | JP | 免费绘画软件 + 云笔刷库 | — |
 | Designer Brushes | https://designerbrushes.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 设计师免费笔刷合集 | ⚠️待核实 |
 | PSD Box Brushes | https://psdbox.com | 免费（逐款） | ⚠️ | 视情况 | 否 | Global | 教程站附免费笔刷资源 | ⚠️待核实 |
+| Jingsketch 基础笔刷 | https://jingsketch.com | 免费可商用（Basic 10） | ✅ | 不需要 | 否 | US | 10 支基础素描绘画笔刷 | — |
+| Krita 内置笔刷 | https://krita.org | 开源 GPL（笔刷随附） | ✅ | 不需要 | 否 | Global | 开源绘画软件内置笔刷 | https://invent.kde.org/graphics/krita |
+| David Revoy Krita 笔刷 | https://www.davidrevoy.com | CC-BY 4.0（使用免署名） | ✅ | 视情况 | 否 | FR | CC-BY 水彩厚涂 Krita 笔刷 | https://github.com/Deevad/deevad-krita-brushpresets |
+| GDQuest Krita 笔刷 | https://gdquest.com | CC-BY 4.0 | ✅ | 视情况 | 否 | Global | 游戏向免费 Krita 笔刷 | https://github.com/GDQuest/krita-free-brushes |
+| portnov Krita 笔刷集 | https://github.com/portnov/krita-brushes | CC0（部分逐作者） | ✅ | 视情况 | 否 | Global | 多套 Krita 笔刷合集 | https://github.com/portnov/krita-brushes |
+| Brush Galaxy | https://brushgalaxy.com | 免费档可商用 | ⚠️ | 不需要 | 部分 | Global | 精选 Procreate 笔刷免费档 | — |
+| Procreate Folio | https://folio.procreate.com | 免费（社区分享） | ✅ | 视情况 | 是 | Global | 官方论坛笔刷资源区 | — |
+| ArtStation 免费区 | https://www.artstation.com/marketplace | 免费档（逐款） | ⚠️ | 视情况 | 是 | Global | 3A 概念笔刷免费筛选 | — |
+| Design Cuts 免费区 | https://www.designcuts.com/freebies | 免费档可商用 | ✅ | 不需要 | 是 | Global | 高定设计免费笔刷 | — |
+| Cubebrush | https://cubebrush.co | 免费档（逐款） | ⚠️ | 视情况 | 是 | Global | CG 艺术家免费笔刷 | — |
+| Freepik 笔刷 | https://www.freepik.com | 免费档（需署名） | ⚠️ | 需要 | 部分 | ES | 综合素材含笔刷免费档 | — |
+| Gumroad | https://gumroad.com | 免费档（逐作者） | ⚠️ | 视情况 | 部分 | US | 独立作者 $0 笔刷 | — |
+| True Grit 免费样本 | https://www.truegrittexture.com | 免费样本可商用 | ⚠️ | 不需要 | 部分 | US | 复古质感笔刷免费样本 | — |
+| Brushonic 铅笔笔刷 | https://brushonic.com | 免费可商用 | ✅ | 不需要 | 否 | Global | 17 支写实铅笔笔刷 | — |
+| Tuhis 水彩笔刷 | https://tuhis.gumroad.com | 免费可商用 | ✅ | 不需要 | 部分 | Global | 23 支水彩笔刷套装 | — |
+| Mateusz 素描笔刷 | https://mateusz-urbanowicz.gumroad.com | 免费可商用 | ✅ | 不需要 | 部分 | JP | 水彩素描笔刷套装 | — |
+| Sketchbook 笔刷 | https://sketchbook.com | 免费（应用内置） | ✅ | 不需要 | 是 | US | 免费绘画软件笔刷 | — |
+| Retrosupply 免费区 | https://retrosupply.com | 免费样本可商用 | ⚠️ | 不需要 | 部分 | US | 复古印刷风免费笔刷 | — |
+| Clip Studio 素材 | https://assets.clip-studio.com | 免费素材（逐作者） | ⚠️ | 视情况 | 是 | JP | Clip Studio 免费笔刷素材 | — |
+| Ramon Miranda Krita 笔刷 | https://www.ramonmiranda.com | 免费可商用 | ✅ | 视情况 | 否 | ES | Krita 官方风免费笔刷 | — |
+| Ibis Paint 素材 | https://ibispaint.com | 免费素材（应用内） | ⚠️ | 视情况 | 是 | JP | 免费笔刷与素材库 | — |
 
 > **做商业稿** → 优先选明示免费商用的：BrushLovers、Obsidian Dawn、Fbrushes、Vecteezy 免费档。
 > DeviantArt、Brusheezy 为社区聚合，授权逐作者而异，务必点开单款确认。

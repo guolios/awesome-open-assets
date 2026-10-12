@@ -28,6 +28,28 @@
 | Library of Congress Free to Use | https://www.loc.gov/free-to-use/ | 混合（PD + 权利说明） | ⚠️ | 视情况 | 否 | US | 馆方标注可自由使用的子集 | — |
 | British Library | https://www.bl.uk | 混合（多为 Public Domain） | ⚠️ | 视情况 | 否 | UK | 古籍与手稿数字化 ⚠️待核实 | — |
 | Internet Archive | https://archive.org | 混合（大量 Public Domain） | ⚠️ | 视情况 | 否 | US | 书籍影像与历史档案，量巨大 | — |
+| Paris Musées | https://www.parismuseescollections.paris.fr | CC0 | ✅ | 不需要 | 否 | FR / EU | 巴黎十余馆 CC0 藏品超 30 万 | — |
+| Yale Center for British Art | https://collections.britishart.yale.edu | CC0 | ✅ | 不需要 | 否 | US | 英国艺术馆藏 CC0 开放 | — |
+| SMK Open（丹麦国家美术馆） | https://open.smk.dk | CC0 | ✅ | 不需要 | 否 | DK / EU | 北欧名画 CC0 高清下载 | — |
+| Walters Art Museum | https://art.thewalters.org | CC0 | ✅ | 不需要 | 否 | US | 2 万+ CC0 艺术馆藏 | — |
+| Dallas Museum of Art | https://www.dma.org/art/collection | CC0 | ✅ | 不需要 | 否 | US | DMA 开放获取 CC0 藏品 | — |
+| Harvard Art Museums | https://harvardartmuseums.org/collection | CC0 | ✅ | 不需要 | 否 | US | 哈佛艺术馆 CC0 开放 | — |
+| Openverse | https://openverse.org | 混合（CC0 / CC BY / PD） | ⚠️ | 视情况 | 否 | Global | WP 系聚合全网开放媒体 | https://github.com/WordPress/openverse |
+| NOAA Photo Library | https://www.photolib.noaa.gov | Public Domain | ✅ | 不需要 | 否 | US | 美国海洋大气局公有领域图 | — |
+| USGS Multimedia Gallery | https://www.usgs.gov/media | Public Domain | ✅ | 不需要 | 否 | US | 美国地质调查局公有领域素材 | — |
+| NARA（美国国家档案） | https://www.archives.gov | 多为 Public Domain | ✅ | 不需要 | 否 | US | 美国国家档案公有领域影像 | — |
+| CDC PHIL | https://phil.cdc.gov | Public Domain | ✅ | 不需要 | 否 | US | 疾控中心公有领域医学图 | — |
+| Minneapolis Institute of Art | https://collections.artsmia.org | CC0 | ✅ | 不需要 | 否 | US | Mia 开放获取 CC0 藏品 | — |
+| LACMA | https://www.lacma.org/collection | CC0 | ✅ | 不需要 | 否 | US | 洛杉矶郡美术馆 CC0 公开 | — |
+| Nationalmuseum Stockholm | https://collection.nationalmuseum.se | Public Domain | ✅ | 不需要 | 否 | SE / EU | 瑞典国立美术馆公有领域 | — |
+| Belvedere | https://sammlung.belvedere.at | CC0 | ✅ | 不需要 | 否 | AT / EU | 维也纳美景宫 CC0 开放 | — |
+| Mauritshuis | https://www.mauritshuis.nl/ontdek-collectie | Public Domain | ✅ | 不需要 | 否 | NL / EU | 荷兰黄金时代名画公有领域 | — |
+| RISD Museum | https://risdmuseum.org/art-design/collection | CC0 | ✅ | 不需要 | 否 | US | 罗德岛设计学院馆 CC0 | — |
+| Indianapolis Museum of Art（Newfields） | https://collections.discovernewfields.org | CC0 | ✅ | 不需要 | 否 | US | Newfields 馆藏 CC0 开放 | — |
+| National Park Service | https://www.nps.gov/photosmultimedia | Public Domain | ✅ | 不需要 | 否 | US | 美国国家公园公有领域图 | — |
+| US Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | 不需要 | 否 | US | 鱼类野生动物局公有领域图 | — |
+| Clark Art Institute | https://www.clarkart.edu/collection | Public Domain | ✅ | 不需要 | 否 | US | 克拉克艺术中心公有领域图 | — |
+| DigitaltMuseum | https://digitaltmuseum.org | 混合（CC0 / CC BY / PD） | ⚠️ | 视情况 | 否 | NO / SE | 北欧多馆聚合，授权杂 ⚠️待核实 | — |
 
 > **选型建议**
 > - 做**书籍封面 / 文创衍生品**：优先 The Met、Rijksmuseum、Smithsonian — 名画本身早已进入公有领域，扫描件又 CC0，双保险

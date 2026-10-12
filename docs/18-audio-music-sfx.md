@@ -29,6 +29,21 @@
 | Uppbeat | https://uppbeat.io/ | Uppbeat 免费 / 付费 | ⚠️ | 视情况 | 是 | UK | 免费用仅限 3 次个人下载 ⚠️待核实 | — |
 | YouTube Audio Library | https://studio.youtube.com | YouTube 平台条款 | ⚠️ | 视情况 | 是 | US | 逐曲标「需署名」，依附平台条款 | — |
 | Openverse（音频检索） | https://openverse.org/search/audio | PD / CC 混合，多源聚合 | ⚠️ | 视情况 | 否 | Global | 一键生成署名文本的多源搜索 | — |
+| AudionautiX | https://audionautix.com/ | CC BY 4.0 | ✅ | 需要 | 否 | US | 自制配乐库，CC BY 须署名 | — |
+| TeknoAXE | https://teknoaxe.com/ | CC BY 4.0 | ✅ | 需要 | 否 | US | 海量电子与管弦免费曲 | — |
+| Scott Buckley | https://www.scottbuckley.com.au/ | CC BY 4.0 | ✅ | 需要 | 否 | AU | 史诗配乐，署名即可商用 | — |
+| Unminus | https://unminus.com/ | Unminus License | ✅ | 不需要 | 否 | Global | 免署名现代配乐与音效 | — |
+| Kongano | https://kongano.com/ | CC BY 4.0 | ✅ | 需要 | 否 | FI / EU | 非洲律动免费曲，须署名 | — |
+| SoundJay | https://www.soundjay.com/ | SoundJay License | ✅ | 不需要 | 否 | US | 即用音效，明文禁转售 | — |
+| FiftySounds | https://fiftysounds.com/ | 站点免费许可 | ✅ | 需要 | 否 | IT / EU | 免版税音效，须署名 | — |
+| IMSLP（国际乐谱库） | https://imslp.org/ | 公有领域（乐谱） | ✅ | 不需要 | 否 | Global | 古典乐谱公有领域，可录播 | — |
+| Coverr 音乐 | https://coverr.co/free-stock-music | Coverr License | ✅ | 不需要 | 否 | US | 电影感免署名配乐 | — |
+| ProductionCrate | https://productioncrate.com/ | CC0（部分） | ✅ | 不需要 | 否 | US | FX 与音效，部分 CC0 | — |
+| SoundGator | https://soundgator.com/ | 站点免费许可 | ✅ | 不需要 | 否 | US | 免费音效，免登录下载 | — |
+| HookSounds | https://www.hooksounds.com/ | HookSounds 免费许可 | ⚠️ | 需要 | 是 | US | 精选免费曲，须署名限用途 | — |
+| StockTune | https://stocktune.com/ | AI 生成自有许可 | ⚠️ | 不需要 | 否 | Global | AI 生成配乐，免署名未核验 | — |
+| YourFreeSounds | https://yourfreesounds.com/ | 免费档（需署名+注册） | ⚠️ | 需要 | 是 | DE / EU | 免费音效档，需注册署名 | — |
+| 淘声网 | https://www.tosound.com/ | CC0 / CC BY 部分 | ⚠️ | 视情况 | 否 | CN | 中文音效聚合，部分可商用 | — |
 
 ## 12.2 开放音频数据集（研究用途为主）
 
@@ -44,6 +59,14 @@
 | AudioSet | https://research.google.com/audioset/ | 标注 CC BY 4.0；本体为 YouTube ID | ❌ | 需要 | 否 | US | 527 类音频事件本体与弱标签 ⚠️待核实 | — |
 | FMA Dataset | https://github.com/mdeff/fma | 元数据 CC0，音频为各曲 CC 许可 | ❌ | 需要 | 否 | Global | 十万级曲目 + 特征/元数据 ⚠️待核实 | https://github.com/mdeff/fma |
 | MTG Jamendo Dataset | https://mtg.github.io/mtg-jamendo-dataset/ | 音乐为 CC，商用需另行取得 | ❌ | 需要 | 否 | ES / EU | 多标签/歌词/流派自动标注集 | https://github.com/MTG/mtg-jamendo-dataset |
+| LibriSpeech | https://www.openslr.org/12/ | CC BY 4.0 | ✅ | 需要 | 否 | Global | 千小时英文朗读语料基准 | — |
+| MAESTRO | https://magenta.tensorflow.org/datasets/MAESTRO | CC BY 4.0 | ✅ | 需要 | 否 | US | 钢琴演奏与对齐 MIDI 集 | https://github.com/magenta/magenta |
+| VocalSet | https://vocalset.cs.cmu.edu/ | CC BY 4.0 | ✅ | 需要 | 否 | US | 歌唱技巧多风格录音集 | — |
+| Spoken Wikipedia | https://commons.wikimedia.org/wiki/Category:Spoken_Wikipedia | PD / CC BY 混合 | ⚠️ | 视情况 | 否 | Global | 维基条目朗读语音集 | — |
+| MLS（多语种 LibriSpeech） | https://www.openslr.org/94/ | CC0 | ✅ | 不需要 | 否 | Global | 多语种朗读语料，CC0 | — |
+| LJSpeech | https://keithito.com/LJ_Speech-Demo/ | 公有领域（源自 LibriVox） | ✅ | 不需要 | 否 | US | 单说话人英文朗读集 | — |
+| VCTK | https://datashare.ed.ac.uk/handle/10283/3443 | ODbl / 站点条款 | ⚠️ | 视情况 | 是 | UK | 百说话人多口音语音集 | — |
+| Tatoeba | https://tatoeba.org/ | CC BY 混合 | ⚠️ | 视情况 | 否 | Global | 多语种句子语音对照库 | https://github.com/Tatoeba/tatoeba2 |
 
 > **选型建议**
 > - **做自媒体配乐** → Pixabay Music、Mixkit Music 免署名；YouTube Audio Library 逐曲看是否需署名

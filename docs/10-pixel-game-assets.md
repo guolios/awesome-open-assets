@@ -21,6 +21,28 @@
 | CraftPix Freebies | https://craftpix.net/freebies/ | 自有许可（免费可商用） | ⚠️ | 不需要 | 部分 | EU | 2D 游戏素材免费包，更新频繁 | — |
 | Lospec | https://lospec.com | 依各素材 / 调色盘而异 | ⚠️ | 视情况 | 否 | Global | 像素调色盘与素材索引 ⚠️待核实 | — |
 | GrafxKid | https://grafxkid.com | 自有（免费部分可商用） | ⚠️ | 视情况 | 部分 | EU | 像素素材与 UI 模板 ⚠️待核实 | — |
+| Open Pixel Project | https://www.openpixelproject.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 像素角色与 tiles，2000+ 素材 | — |
+| Game-icons.net | https://game-icons.net | CC BY 3.0 | ✅ | 需要 | 否 | Global | 4180+ 游戏图标，CC BY 署名 | — |
+| ambientCG | https://ambientcg.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 PBR 材质/HDR/模型库 | — |
+| fakeimg.pl | https://fakeimg.pl | 开源（MIT） | ✅ | 不需要 | 否 | Global | 占位图生成器，自定义文字尺寸 | https://github.com/RomanistHere/fakeimgpl |
+| Poly Haven | https://polyhaven.com | CC0 | ✅ | 不需要 | 否 | Global | CC0 纹理/HDR/3D 模型库 | — |
+| Pixel Frog | https://pixelfrog-assets.itch.io | CC0 | ✅ | 不需要 | 否 | Global | Pixel Adventure 等 CC0 像素包 | — |
+| Pipoya | https://pipoya.itch.io | 免费可商用（禁转售） | ✅ | 不需要 | 否 | JP | 免费 RPG 角色/图标，可商用 | — |
+| Edermunizz | https://edermunizz.itch.io | 免费（需署名） | ✅ | 需要 | 否 | Global | 免费像素背景/森林，商用需署名 | — |
+| Ansimuz（SunnyLand） | https://ansimuz.itch.io | CC0 | ✅ | 不需要 | 否 | Global | SunnyLand 等 CC0 平台像素包 | — |
+| Cainos | https://cainos.itch.io | 免费可商用（禁转售） | ✅ | 不需要 | 否 | Global | 俯视 RPG tileset，免费商用 | — |
+| 0x72 DungeonTileset II | https://0x72.itch.io/dungeontileset-ii | CC0 | ✅ | 不需要 | 否 | Global | 16x16 地牢 tileset，CC0 | — |
+| Piskel | https://www.piskelapp.com | MIT | ✅ | 不需要 | 否 | Global | 开源像素画编辑器，带动画 | https://github.com/piskelapp/piskel |
+| Bevouliin | https://bevouliin.com | CC0 / 免费可商用 | ✅ | 不需要 | 否 | ID | 免费 2D 游戏美术，角色/背景 | — |
+| Szadi art | https://szadiart.itch.io | 公共领域（免费可商用） | ✅ | 不需要 | 否 | Global | 免费像素 tileset/角色，公共领域 | — |
+| SpriteLand | https://www.spriteland.com | 免费可商用（禁转售） | ✅ | 不需要 | 否 | Global | 免费精灵/角色素材，可商用 | — |
+| MillionthVector | http://millionthvector.blogspot.com | 免费（需署名） | ✅ | 需要 | 否 | Global | 免费矢量精灵，商用需署名 | — |
+| Poly Pizza | https://poly.pizza | CC0 | ✅ | 不需要 | 否 | Global | CC0 低多边形 3D 模型库 | — |
+| Game Art 2D | https://www.gameart2d.com | 免费区（授权不一） | ⚠️ | 视情况 | 否 | Global | 2D 游戏素材免费区，授权待核实 ⚠️待核实 | — |
+| Reiner's Tilesets | https://www.reinerstilesets.de | 免费（署名） | ⚠️ | 需要 | 否 | DE / EU | 免费 3D/2D 素材，授权待核实 ⚠️待核实 | — |
+| penusbmic | https://penusbmic.itch.io | 逐包授权（含免费样片） | ⚠️ | 视情况 | 否 | Global | 免费样片素材，逐包看授权 ⚠️待核实 | — |
+| Sketchfab 免费模型 | https://sketchfab.com | 混合（CC 各版） | ⚠️ | 视情况 | 部分 | Global | 免费 3D 模型，授权混合需筛选 ⚠️待核实 | — |
+| GameDev Market 免费区 | https://www.gamedevmarket.net | 混合（各作者） | ⚠️ | 视情况 | 部分 | Global | 免费游戏素材区，授权混合 ⚠️待核实 | — |
 
 > **选型建议**
 > - **做原型 Demo，闭眼选 Kenney**：全站 CC0，量大且不丑，是独立游戏圈的默认起点

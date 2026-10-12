@@ -25,6 +25,30 @@
 | MediaInfo | https://mediaarea.net/en/MediaInfo | BSD-2-Clause | ✅ | Not required | No | FR / EU | View/export metadata like container & bitrate | https://github.com/MediaArea/MediaInfo |
 | yt-dlp | https://github.com/yt-dlp/yt-dlp | Unlicense | ✅ | Not required | No | Global | Universal download CLI; mind copyright bounds | https://github.com/yt-dlp/yt-dlp |
 | ffmpeg.wasm | https://ffmpegwasm.netlify.app/ | MIT（构建）/ GPL（核心） | ⚠️ | Varies | No | Global | Run FFmpeg in browser; mind GPL copyleft | https://github.com/ffmpegwasm/ffmpeg.wasm |
+| OpenShot | https://www.openshot.org/ | GPL-3.0 | ✅ | Varies | No | US | Cross-platform, beginner-friendly NLE | https://github.com/OpenShot/openshot-qt |
+| Olive | https://olivevideoeditor.org/ | GPL-3.0 | ✅ | Varies | No | Global | Node-based open-source NLE (alpha) | https://github.com/olive-editor/olive |
+| Avidemux | https://avidemux.sourceforge.net/ | GPL-2.0+ | ✅ | Varies | No | Global | Lightweight cut, filter & transcode | https://github.com/mean00/avidemux2 |
+| Flowblade | https://jliljebl.github.io/flowblade/ | GPL-3.0 | ✅ | Varies | No | FI / EU | Multitrack NLE for Linux | https://github.com/jliljebl/flowblade |
+| Natron | https://natrongithub.github.io/ | GPL-2.0 | ✅ | Varies | No | FR / EU | Node compositor rivaling AE/Nuke | https://github.com/NatronGitHub/Natron |
+| Blender | https://www.blender.org/ | GPL-3.0 | ✅ | Varies | No | NL / EU | Full 3D suite with video editing | https://github.com/blender/blender |
+| Unmanic | https://github.com/Unmanic/unmanic | GPL-3.0 | ✅ | Varies | No | Global | Auto-transcode & organize library | https://github.com/Unmanic/unmanic |
+| ffmpeg-normalize | https://github.com/slhck/ffmpeg-normalize | MIT | ✅ | Not required | No | Global | Batch EBU R128 loudness normalize | https://github.com/slhck/ffmpeg-normalize |
+| video2x | https://github.com/k4yt3x/video2x | GPL-3.0 | ✅ | Varies | No | Global | AI upscaling, lossless enlargement | https://github.com/k4yt3x/video2x |
+| VapourSynth | https://www.vapoursynth.com/ | LGPL-2.1 | ✅ | Varies | No | Global | Python video processing framework | https://github.com/vapoursynth/vapoursynth |
+| Subtitle Edit | https://www.nikse.dk/SubtitleEdit/ | GPL-3.0 | ✅ | Varies | No | DK / EU | Full-featured subtitle editor | https://github.com/SubtitleEdit/subtitleedit |
+| Aegisub | https://www.aegisub.org/ | GPL-2.0+ | ✅ | Varies | No | Global | Advanced subtitle typesetting | https://github.com/TypesettingTools/Aegisub |
+| whisper.cpp | https://github.com/ggerganov/whisper.cpp | MIT | ✅ | Not required | No | Global | C/C++ on-device speech-to-text | https://github.com/ggerganov/whisper.cpp |
+| faster-whisper | https://github.com/SYSTRAN/faster-whisper | MIT | ✅ | Not required | No | FR / EU | CTranslate2 fast transcription | https://github.com/SYSTRAN/faster-whisper |
+| demucs | https://github.com/facebookresearch/demucs | MIT | ✅ | Not required | No | US | AI vocal/instrument separation | https://github.com/facebookresearch/demucs |
+| SimpleScreenRecorder | https://www.maartenbaert.be/simplescreenrecorder/ | GPL-2.0+ | ✅ | Varies | No | BE / EU | Linux screen & OpenGL capture | https://github.com/MaartenBaert/ssr |
+| MediaMTX | https://github.com/bluenviron/mediamtx | MIT | ✅ | Not required | No | Global | Multi-protocol media server | https://github.com/bluenviron/mediamtx |
+| SRS | https://ossrs.io/ | MIT | ✅ | Not required | No | CN | High-performance real-time media server | https://github.com/ossrs/srs |
+| Owncast | https://owncast.online/ | MIT | ✅ | Not required | No | US | Self-hosted live stream + chat | https://github.com/owncast/owncast |
+| MKVToolNix | https://mkvtoolnix.download/ | GPL-2.0+ | ✅ | Varies | No | DE / EU | MKV mux, merge & extract | https://github.com/mbunkus/mkvtoolnix |
+| mpv | https://mpv.io/ | GPL-2.0+ | ✅ | Varies | No | Global | Embeddable command-line player | https://github.com/mpv-player/mpv |
+| MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | Not required | No | Global | Scriptable video editing in Python | https://github.com/Zulko/moviepy |
+| PySceneDetect | https://pyscenedetect.readthedocs.io/ | BSD-3-Clause | ✅ | Not required | No | US | OpenCV scene-cut detection | https://github.com/Breakthrough/PySceneDetect |
+
 
 > **Quick decision by scenario**
 >

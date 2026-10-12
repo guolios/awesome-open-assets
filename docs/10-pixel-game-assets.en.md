@@ -21,6 +21,28 @@
 | CraftPix Freebies | https://craftpix.net/freebies/ | 自有许可（免费可商用） | ⚠️ | 不需要 | 部分 | EU | 2D game asset free packs, frequent updates | — |
 | Lospec | https://lospec.com | 依各素材 / 调色盘而异 | ⚠️ | 视情况 | 否 | Global | Pixel palette & asset index ⚠️ verify | — |
 | GrafxKid | https://grafxkid.com | 自有（免费部分可商用） | ⚠️ | 视情况 | 部分 | EU | Pixel assets & UI templates ⚠️ verify | — |
+| Open Pixel Project | https://www.openpixelproject.com | CC0 | ✅ | Not required | No | Global | CC0 pixel characters & tiles, 2000+ assets | — |
+| Game-icons.net | https://game-icons.net | CC BY 3.0 | ✅ | Required | No | Global | 4180+ game icons, CC BY attribution | — |
+| ambientCG | https://ambientcg.com | CC0 | ✅ | Not required | No | Global | CC0 PBR materials / HDRIs / models | — |
+| fakeimg.pl | https://fakeimg.pl | Open source (MIT) | ✅ | Not required | No | Global | Placeholder image generator, custom text & size | https://github.com/RomanistHere/fakeimgpl |
+| Poly Haven | https://polyhaven.com | CC0 | ✅ | Not required | No | Global | CC0 textures / HDRIs / 3D models | — |
+| Pixel Frog | https://pixelfrog-assets.itch.io | CC0 | ✅ | Not required | No | Global | Pixel Adventure and other CC0 pixel packs | — |
+| Pipoya | https://pipoya.itch.io | Free commercial (no resale) | ✅ | Not required | No | JP | Free RPG characters/icons, commercial OK | — |
+| Edermunizz | https://edermunizz.itch.io | Free (attribution) | ✅ | Required | No | Global | Free pixel backgrounds/forests, credit needed | — |
+| Ansimuz (SunnyLand) | https://ansimuz.itch.io | CC0 | ✅ | Not required | No | Global | SunnyLand and other CC0 platformer packs | — |
+| Cainos | https://cainos.itch.io | Free commercial (no resale) | ✅ | Not required | No | Global | Top-down RPG tileset, free commercial | — |
+| 0x72 DungeonTileset II | https://0x72.itch.io/dungeontileset-ii | CC0 | ✅ | Not required | No | Global | 16x16 dungeon tileset, CC0 | — |
+| Piskel | https://www.piskelapp.com | MIT | ✅ | Not required | No | Global | Open-source pixel editor with animation | https://github.com/piskelapp/piskel |
+| Bevouliin | https://bevouliin.com | CC0 / free commercial | ✅ | Not required | No | ID | Free 2D game art, characters/backgrounds | — |
+| Szadi art | https://szadiart.itch.io | Public domain (free commercial) | ✅ | Not required | No | Global | Free pixel tilesets/characters, public domain | — |
+| SpriteLand | https://www.spriteland.com | Free commercial (no resale) | ✅ | Not required | No | Global | Free sprite/character art, commercial OK | — |
+| MillionthVector | http://millionthvector.blogspot.com | Free (attribution) | ✅ | Required | No | Global | Free vector sprites, credit required | — |
+| Poly Pizza | https://poly.pizza | CC0 | ✅ | Not required | No | Global | CC0 low-poly 3D model library | — |
+| Game Art 2D | https://www.gameart2d.com | Free section (mixed) | ⚠️ | Varies | No | Global | 2D game assets free section, verify ⚠️ verify | — |
+| Reiner's Tilesets | https://www.reinerstilesets.de | Free (attribution) | ⚠️ | Required | No | DE / EU | Free 3D/2D assets, license unclear ⚠️ verify | — |
+| penusbmic | https://penusbmic.itch.io | Per-pack (free samples) | ⚠️ | Varies | No | Global | Free sample assets, check per pack ⚠️ verify | — |
+| Sketchfab Free Models | https://sketchfab.com | Mixed (CC variants) | ⚠️ | Varies | Partial | Global | Free 3D models, mixed licenses ⚠️ verify | — |
+| GameDev Market Free | https://www.gamedevmarket.net | Mixed (per author) | ⚠️ | Varies | Partial | Global | Free game-asset section, mixed licenses ⚠️ verify | — |
 
 > **Selection Guide**
 > - **For prototype demos, pick Kenney without hesitation**: all CC0, large volume and not ugly—the default starting point for indie games

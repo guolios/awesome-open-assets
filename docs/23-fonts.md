@@ -21,6 +21,11 @@
 | 100font | https://100font.com/ | 逐款中文厂商声明 | ⚠️ | 视情况 | 否 | CN | 中文免费商用字体打包下载 | — |
 | DaFont | https://www.dafont.com/ | freeware / shareware / demo / PD 混杂 | ⚠️ | 视情况 | 否 | FR / EU | 10 万+ 款，须逐款看授权 | — |
 | 1001fonts | https://www.1001fonts.com/ | 逐款混杂（含 personal use） | ⚠️ | 视情况 | 否 | Global | 6 万+ 款，每页附 license 区块 | — |
+| Bunny Fonts | https://fonts.bunny.net/ | SIL OFL 1.1（Google Fonts 镜像） | ✅ | 不需要 | 否 | EU / NL | GDPR 友好开源字体镜像 | — |
+| Fontshare | https://www.fontshare.com/ | ITF 免费字体许可 / OFL 混合 | ✅ | 不需要 | 否 | IN | 印度字体厂牌全免费商用 | — |
+| SIL Fonts | https://software.sil.org/fonts/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | SIL 学术多语字体官网 | — |
+| Open Foundry | https://open-foundry.com/ | OFL / 自由许可 | ✅ | 视情况 | 否 | BE / EU | 策展级 OFL 字体精选 | — |
+| Velvetyne | https://www.velvetyne.fr/ | SIL OFL 1.1 | ✅ | 需要 | 否 | FR / EU | 法国实验性 libre 字体厂 | — |
 
 ## 13.2 开源西文与等宽字体（Latin & Mono）
 
@@ -50,6 +55,12 @@
 | Fraunces | https://fontsource.org/fonts/fraunces | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 可变「软」衬线，带 WONK 轴 | https://github.com/googlefonts/fraunces |
 | Atkinson Hyperlegible | https://fontsource.org/fonts/atkinson-hyperlegible | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 弱视友好高辨识字形 | https://github.com/googlefonts/atkinson-hyperlegible |
 | Zilla Slab | https://fontsource.org/fonts/zilla-slab | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | Mozilla 品牌衬线，含高亮版 | https://github.com/mozilla/zilla-slab |
+| Work Sans | https://fontsource.org/fonts/work-sans | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 人文无衬线多字重 | https://github.com/weiweihuanghuang/Work-Sans |
+| Montserrat | https://fontsource.org/fonts/montserrat | SIL OFL 1.1 | ✅ | 不需要 | 否 | ES / EU | 几何无衬线城市风 | https://github.com/googlefonts/Montserrat |
+| Raleway | https://fontsource.org/fonts/raleway | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 优雅细体展示无衬线 | https://github.com/googlefonts/Raleway |
+| Source Serif 4 | https://fontsource.org/fonts/source-serif-4 | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | Adobe 开源衬线正文 | https://github.com/adobe-fonts/source-serif |
+| Bitter | https://fontsource.org/fonts/bitter | SIL OFL 1.1 | ✅ | 不需要 | 否 | BR / EU | 带衬线屏显易读体 | — |
+| Public Sans | https://fontsource.org/fonts/public-sans | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 美国政府开源无衬线 | https://github.com/uswds/public-sans |
 
 ## 13.3 中文与 CJK 字体（Chinese & CJK）
 
@@ -68,6 +79,10 @@
 | OPPO Sans 4.0 | https://open.oppomobile.com/ | OPPO 免费商用声明 | ✅ | 不需要 | 否 | CN | 免费授权全社会含商用 ⚠️待核实 | — |
 | 钉钉进步体 | https://www.dingtalk.com/ | 钉钉免费商用声明 | ✅ | 不需要 | 否 | CN | 钉钉官方标题字体 ⚠️待核实 | — |
 | 抖音美好体 / 字节字体合集 | https://github.com/bytedance/fonts | 字节免费商用声明（非开源协议） | ⚠️ | 视情况 | 否 | CN | 字节系免费字体合集 ⚠️待核实 | https://github.com/bytedance/fonts |
+| Noto Serif SC | https://fontsource.org/fonts/noto-serif-sc | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 思源宋体 Google 发行版 | https://github.com/notofonts/noto-cjk |
+| 更纱黑体 Sarasa Gothic | https://github.com/be5invis/Sarasa-Gothic | SIL OFL 1.1 | ✅ | 不需要 | 否 | CN | 思源+等宽混排中文家族 | https://github.com/be5invis/Sarasa-Gothic |
+| 未来荧黑 Glow Sans | https://github.com/max32002/Glow-Sans | SIL OFL 1.1（派生思源） | ✅ | 不需要 | 否 | CN | 思源变体屏显黑体 | https://github.com/max32002/Glow-Sans |
+| 缝合像素字体 Fusion Pixel | https://github.com/TakWolf/fusion-pixel-font | SIL OFL 1.1 | ✅ | 不需要 | 否 | CN | 开源像素风中文点阵 | https://github.com/TakWolf/fusion-pixel-font |
 
 > **13.3 选型建议**
 > - **中文场景风险最低**：思源黑体、思源宋体、霞鹜文楷、得意黑 —— 真正 SIL OFL 1.1，可商用可修改可随产品分发，无需署名
@@ -101,6 +116,8 @@
 | Tibetan Machine Uni | https://sourceforge.net/projects/thdltools/ | GPL 1.0+（可商用） | ✅ | 需要 | 否 | US / THDL | 藏文 OpenType 老牌开源字体 | — |
 | DDC Uchen | https://www.dzongkha.gov.bt/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | BT | 不丹 Dzongkha 藏式字体 | — |
 | Qomolangma 藏文系列（珠峰） | https://www.yalasoo.com/ | 厂商免费下载（商用未明） | ⚠️ | 不需要 | 否 | CN | 17 款藏文字体免费下载 ⚠️待核实 | — |
+| Noto Serif KR | https://fontsource.org/fonts/noto-serif-kr | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 朝鲜文衬线 | https://github.com/notofonts/korean |
+| Gowun Batang | https://fonts.google.com/specimen/Gowun+Batang | SIL OFL 1.1 | ✅ | 不需要 | 否 | KR | 韩文人文衬线正文 | — |
 
 ## 13.5 梵文 / 天城体与印度诸语（Devanagari / Bengali / Tamil / 等）
 
@@ -130,6 +147,8 @@
 | Hind Madurai | https://fontsource.org/fonts/hind-madurai | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | 泰米尔文无衬线 | — |
 | Hind Siliguri | https://fontsource.org/fonts/hind-siliguri | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | 孟加拉文无衬线 | — |
 | Hind Vadodara | https://fontsource.org/fonts/hind-vadodara | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | 古吉拉特文无衬线 | — |
+| Noto Serif Telugu | https://fontsource.org/fonts/noto-serif-telugu | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 泰卢固文衬线 | https://github.com/notofonts/telugu |
+| Baloo 2 | https://fontsource.org/fonts/baloo-2 | SIL OFL 1.1 | ✅ | 不需要 | 否 | IN | 天城体圆体展示 | — |
 
 ## 13.6 泰文与东南亚文字（Thai / Khmer / Lao / Myanmar）
 
@@ -157,6 +176,8 @@
 | Niramit | https://fontsource.org/fonts/niramit | SIL OFL 1.1 | ✅ | 不需要 | 否 | TH | 泰文清晰正文 | — |
 | Padauk | https://fontsource.org/fonts/padauk | SIL OFL 1.1 | ✅ | 不需要 | 否 | MM / SIL | 缅甸文 SIL 开源字体 | https://github.com/silnrsi/padauk |
 | Pyidaungsu | https://github.com/mcfnlp/Pyidaungsu | 自由许可（具体待确认） | ✅ | 不需要 | 否 | MM | 缅甸文 Unicode 字体 ⚠️待核实 | https://github.com/mcfnlp/Pyidaungsu |
+| Noto Serif Khmer | https://fontsource.org/fonts/noto-serif-khmer | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 高棉文衬线 | https://github.com/notofonts/khmer |
+| Kantumruy | https://fontsource.org/fonts/kantumruy | SIL OFL 1.1 | ✅ | 不需要 | 否 | KH | 高棉文清晰无衬线 | — |
 
 ## 13.7 阿拉伯文 / 希伯来文 / 波斯文（Arabic / Hebrew / Farsi）
 
@@ -184,6 +205,8 @@
 | Assistant | https://fontsource.org/fonts/assistant | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | 希伯来文无衬线 | — |
 | Heebo | https://fontsource.org/fonts/heebo | SIL OFL 1.1 | ✅ | 不需要 | 否 | IL | 希伯来文现代无衬线 | — |
 | David CLM | https://culmus.sourceforge.net/ | Culmus 自由许可（可商用） | ✅ | 不需要 | 否 | IL | 希伯来文经典衬线 | https://github.com/gooselinux/culmus-fonts |
+| Noto Serif Arabic | https://fontsource.org/fonts/noto-serif-arabic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 阿拉伯文衬线 | https://github.com/notofonts/arabic |
+| Noto Nastaliq Urdu | https://fontsource.org/fonts/noto-nastaliq-urdu | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 乌尔都文波斯体 | — |
 
 ## 13.8 西里尔 / 希腊 / 非洲与太平洋文字（Cyrillic / Greek / Ethiopic / IPA）
 
@@ -204,6 +227,8 @@
 | Noto Sans Ethiopic | https://fontsource.org/fonts/noto-sans-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 阿姆哈拉 / 吉兹文 | https://github.com/notofonts/ethiopic |
 | Noto Serif Ethiopic | https://fontsource.org/fonts/noto-serif-ethiopic | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 埃塞俄比亚文衬线 | https://github.com/notofonts/ethiopic |
 | Abyssinica SIL | https://fontsource.org/fonts/abyssinica-sil | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | 埃塞俄比亚文 SIL | https://github.com/silnrsi/abyssinica |
+| Noto Sans Greek | https://fontsource.org/fonts/noto-sans-greek | SIL OFL 1.1 | ✅ | 不需要 | 否 | 全球 / Google | 希腊文无衬线 | — |
+| Doulos SIL | https://software.sil.org/doulos/ | SIL OFL 1.1 | ✅ | 不需要 | 否 | US / SIL | 拉丁+IPA 报版衬线 | — |
 
 > **多文字字体的注意事项**
 > 1. **同一字体常含多语支系**：Noto / SIL 系列多为「一套字体覆盖整支文字系」。例如 Noto Sans 同一家族含西里尔、希腊扩展；Gentium Plus 同时含拉丁、希腊、IPA；Andika 含西里尔与 IPA。选型时看清家族覆盖范围，避免重复收录。

@@ -23,6 +23,31 @@
 | imgproxy | https://imgproxy.net | MIT | ✅ | Not required | No | EU | Real-time image processing server built on libvips | https://github.com/imgproxy/imgproxy |
 | thumbor | https://www.thumbor.org | MIT | ✅ | Not required | No | BR | Smart cropping and URL-parameter-based processing | https://github.com/thumbor/thumbor |
 | images.weserv.nl | https://images.weserv.nl | 开源核心（weserv/images） | ⚠️ | Not required | No | NL / EU | Zero-setup open-source image CDN ⚠️ verify | https://github.com/weserv/images |
+| Pillow | https://python-pillow.org | MIT / HPND | ✅ | Not required | No | Global | De facto Python imaging library | https://github.com/python-pillow/Pillow |
+| ImageSharp | https://sixlabors.com/products/imagesharp | Apache-2.0 | ⚠️ | Not required | No | Global | Cross-platform .NET imaging; >1M USD revenue needs license | https://github.com/SixLabors/ImageSharp |
+| GraphicsMagick | http://www.graphicsmagick.org | MIT | ✅ | Not required | No | US | Lean, faster ImageMagick fork | https://github.com/GraphicsMagick/GraphicsMagick |
+| libpng | http://www.libpng.org | libpng / zlib | ✅ | Not required | No | Global | Reference PNG codec library | https://github.com/glennrp/libpng |
+| libheif | https://github.com/strukturag/libheif | LGPL-3.0 / MIT | ✅ | Not required | No | Global | HEIF/AVIF codec core library | https://github.com/strukturag/libheif |
+| libavif | https://github.com/AOMediaCodec/libavif | BSD-2-Clause | ✅ | Not required | No | US | Official AVIF codec library | https://github.com/AOMediaCodec/libavif |
+| OptiPNG | https://optipng.sourceforge.net | zlib | ✅ | Not required | No | Global | Lossless PNG recompression | https://github.com/optipng/optipng |
+| pngcrush | https://pmt.sourceforge.io/pngcrush | libpng / zlib | ✅ | Not required | No | Global | Multi-strategy PNG optimizer | — |
+| gifsicle | https://www.lcdf.org/gifsicle | GPL-2.0 | ✅ | Not required | No | US | GIF animation creation and optimization | https://github.com/kohler/gifsicle |
+| svgo | https://github.com/svg/svgo | MIT | ✅ | Not required | No | Global | Lossless SVG optimizer | https://github.com/svg/svgo |
+| imagemin | https://github.com/imagemin/imagemin | MIT | ✅ | Not required | No | Global | Node.js image compression pipeline | https://github.com/imagemin/imagemin |
+| node-canvas | https://github.com/Automattic/node-canvas | MIT | ✅ | Not required | No | US | Canvas implementation for Node.js | https://github.com/Automattic/node-canvas |
+| Jimp | https://github.com/jimp-dev/jimp | MIT | ✅ | Not required | No | Global | Pure-JS image library, no native deps | https://github.com/jimp-dev/jimp |
+| bimg | https://github.com/h2non/bimg | MIT | ✅ | Not required | No | Global | Go bindings for libvips | https://github.com/h2non/bimg |
+| picfit | https://github.com/thoas/picfit | MIT | ✅ | Not required | No | FR | Go real-time image resize server | https://github.com/thoas/picfit |
+| Caesium | https://saerasoft.com/caesium | GPL-3.0 | ✅ | Not required | No | EU | Cross-platform batch image compressor | https://github.com/Lymphatus/caesium-image-compressor |
+| Trimage | https://trimage.org | MIT | ✅ | Not required | No | Global | Lossless compression GUI for Linux | https://github.com/Kilian/Trimage |
+| ECT | https://github.com/fhanau/Efficient-Compression-Tool | Apache-2.0 | ✅ | Not required | No | Global | CLI PNG/JPEG optimizer | https://github.com/fhanau/Efficient-Compression-Tool |
+| guetzli | https://github.com/google/guetzli | Apache-2.0 | ✅ | Not required | No | US | Google's perceptual JPEG encoder | https://github.com/google/guetzli |
+| cropperjs | https://github.com/fengyuanchen/cropperjs | MIT | ✅ | Not required | No | Global | In-browser image cropping component | https://github.com/fengyuanchen/cropperjs |
+| Pica | https://github.com/nodeca/pica | MIT | ✅ | Not required | No | Global | High-quality in-browser resizing | https://github.com/nodeca/pica |
+| heic2any | https://github.com/alexcorvi/heic2any | MIT | ✅ | Not required | No | Global | Convert HEIC to JPEG in browser | https://github.com/alexcorvi/heic2any |
+| GIMP | https://www.gimp.org | GPL-3.0 | ✅ | Not required | No | Global | Open-source image editor | — |
+| Krita | https://krita.org | GPL-3.0 | ✅ | Not required | No | Global | Open-source painting and editing | — |
+| OpenCV | https://opencv.org | Apache-2.0 | ✅ | Not required | No | Global | Computer vision & image library | https://github.com/opencv/opencv |
 
 > **Selection Guide**
 >

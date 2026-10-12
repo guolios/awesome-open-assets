@@ -1,15 +1,24 @@
 <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Awesome Open Assets">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6366f1"/>
-      <stop offset="1" stop-color="#4338ca"/>
+    <linearGradient id="bg" x1="6" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="0.55" stop-color="#6d4ae0"/>
+      <stop offset="1" stop-color="#7c3aed"/>
     </linearGradient>
+    <radialGradient id="sheen" cx="0.3" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#g)"/>
-  <!-- 图片/素材图标：山峦 + 太阳 -->
-  <circle cx="44" cy="22" r="6" fill="#ffffff" opacity="0.95"/>
-  <path d="M12 44 L26 26 L36 38 L44 30 L52 44 Z" fill="#ffffff" opacity="0.92"/>
-  <!-- 全球弧线 -->
-  <path d="M14 50 H50" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
-  <path d="M20 13 C28 18 28 28 22 33" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" opacity="0.5" fill="none"/>
+
+  <!-- 圆角渐变底板 -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
+  <!-- 顶部光泽 -->
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#sheen)"/>
+  <!-- 内描边 -->
+  <rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+
+  <!-- 光圈 / 抽象 A：圆角三角 + 中心镜头点 -->
+  <path d="M32 15 L50 47 L14 47 Z" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" fill="none"/>
+  <circle cx="32" cy="38" r="5.5" fill="#ffffff"/>
 </svg>
