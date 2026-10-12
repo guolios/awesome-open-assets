@@ -1,24 +1,23 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Awesome Open Assets">
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="6" y1="4" x2="58" y2="60" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#4f46e5"/>
-      <stop offset="0.55" stop-color="#6d4ae0"/>
-      <stop offset="1" stop-color="#7c3aed"/>
+    <linearGradient id="bg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b1f2e"/><stop offset="1" stop-color="#0a0b10"/>
     </linearGradient>
-    <radialGradient id="sheen" cx="0.3" cy="0.2" r="0.9">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
-      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+    <radialGradient id="sheen" cx="0.3" cy="0.18" r="0.9">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.6" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <!-- 圆角渐变底板 -->
   <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#bg)"/>
-  <!-- 顶部光泽 -->
   <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#sheen)"/>
-  <!-- 内描边 -->
-  <rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
-
-  <!-- 光圈 / 抽象 A：圆角三角 + 中心镜头点 -->
-  <path d="M32 15 L50 47 L14 47 Z" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" fill="none"/>
-  <circle cx="32" cy="38" r="5.5" fill="#ffffff"/>
+  <rect x="2.5" y="2.5" width="59" height="59" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
+  <!-- 入射白光 -->
+  <path d="M10 27 L24.5 33.5" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- 棱镜 -->
+  <path d="M32 15 L47 45 L17 45 Z" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.92" stroke-width="2.4" stroke-linejoin="round"/>
+  <!-- 出射光谱（从棱镜右腰扇出） -->
+  <path d="M37.5 35 L53 24" stroke="#ff5d5d" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M38.5 36.5 L53 32" stroke="#ff9f43" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M38.5 38.5 L53 40" stroke="#4dd8ac" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M37.5 40 L53 48" stroke="#4d9dff" stroke-width="2.6" stroke-linecap="round"/>
 </svg>
