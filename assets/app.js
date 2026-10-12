@@ -225,10 +225,7 @@
     var hl = state.lang === "zh" ? r.highlightZh : r.highlightEn;
     var badgeText = state.lang === "zh" ? lm.zh : lm.en;
 
-    var tags = [
-      '<span class="tag" title="' + esc(r.region) + '">' + esc(r.region) + '</span>',
-      '<span class="tag" title="' + esc(r.license) + '">' + esc(r.license) + '</span>'
-    ].join("");
+    var tags = '<span class="tag" title="' + esc(r.region) + ' · ' + esc(r.license) + '">' + esc(r.region) + ' · ' + esc(r.license) + '</span>';
 
     var links = '<a class="card-link" href="' + esc(r.url) + '" target="_blank" rel="noopener">' + ICONS.arrow + esc(t().visit) + '</a>';
     if (r.github) links += '<a class="card-link" href="' + esc(r.github) + '" target="_blank" rel="noopener">' + ICONS.arrow + esc(t().github) + '</a>';
