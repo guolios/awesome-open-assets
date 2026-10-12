@@ -113,6 +113,34 @@
     if (qTheme === "light" || qTheme === "dark") state.theme = qTheme;
     else if (savedTheme === "light" || savedTheme === "dark") state.theme = savedTheme;
     else state.theme = (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+
+    /* 状态可从 URL 复现：?cat=04&q=washi&lic=yes
+       原则：筛选/搜索/选中态应可通过 URL 回到同一视图（人与 Agent 都受益） */
+    var qCat = qs.get("cat");
+    if (qCat && (qCat === "all" || DATA.categories.some(function (c) { return c.id === qCat; }))) {
+      state.cat = qCat;
+    }
+    var qQ = qs.get("q");
+    if (typeof qQ === "string" && qQ !== "") state.query = qQ;
+    var qLic = qs.get("lic");
+    if (["all", "yes", "partial", "no"].indexOf(qLic) >= 0) state.license = qLic;
+  }
+
+  /* 把当前状态写回 URL（replaceState，不污染历史） */
+  function syncURL() {
+    if (!window.history || !window.history.replaceState) return;
+    var qs = new URLSearchParams(window.location.search);
+    var put = function (k, v, def) {
+      if (v !== undefined && v !== null && v !== "" && v !== def) qs.set(k, String(v));
+      else qs.delete(k);
+    };
+    put("lang", state.lang, "zh");
+    put("theme", state.theme, "light");
+    put("cat", state.cat, "all");
+    put("q", state.query, "");
+    put("lic", state.license, "all");
+    var s = qs.toString();
+    window.history.replaceState(null, "", window.location.pathname + (s ? "?" + s : ""));
   }
 
   function applyTheme() {
@@ -122,6 +150,8 @@
   function applyLang() {
     var t0 = I18N[state.lang];
     document.documentElement.setAttribute("lang", state.lang === "zh" ? "zh-CN" : "en");
+    var overline = document.getElementById("heroOverline");
+    if (overline) overline.textContent = t0.heroBadge;
     document.getElementById("heroTitle").textContent = t0.heroTitle;
     document.getElementById("heroSub").textContent = t0.heroSub;
     document.getElementById("ctaRepoText").textContent = t0.ctaRepo;
@@ -368,8 +398,9 @@
       var v = e.target.value;
       window.clearTimeout(searchTimer);
       searchTimer = window.setTimeout(function () {
-        state.query = v;
-        renderResults(true);
+      state.query = v;
+      renderResults(true);
+      syncURL();
       }, 130);
     });
 
@@ -384,6 +415,7 @@
       }
       renderCatChips();
       renderResults(true);
+      syncURL();
     });
 
     document.getElementById("licenseChips").addEventListener("click", function (e) {
@@ -392,6 +424,7 @@
       state.license = btn.getAttribute("data-license");
       renderLicenseChips();
       renderResults(true);
+      syncURL();
     });
 
     document.getElementById("langSwitch").addEventListener("click", function (e) {
@@ -405,12 +438,14 @@
       renderLicenseChips();
       renderFooterGuides();
       renderResults(true);
+      syncURL();
     });
 
     document.getElementById("themeToggle").addEventListener("click", function () {
       state.theme = state.theme === "dark" ? "light" : "dark";
       window.localStorage.setItem("aoa_theme", state.theme);
       applyTheme();
+      syncURL();
     });
 
     window.addEventListener("scroll", onScroll, { passive: true });
@@ -434,6 +469,9 @@
     initPrefs();
     applyTheme();
     applyLang();
+    // URL 带入的搜索词回填输入框（?q=）
+    var si = document.getElementById("search");
+    if (si && state.query) si.value = state.query;
     renderStats();
     renderCatChips();
     renderLicenseChips();
@@ -442,6 +480,7 @@
     renderResults(true);
     bindEvents();
     onScroll();
+    syncURL();
   }
 
   if (document.readyState === "loading") {

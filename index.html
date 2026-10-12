@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
+  <a class="skip-link" href="#results">跳到资源列表</a>
   <!-- 顶部导航（白底 90% + 轻模糊 + 1px 底边，sofindai 同款） -->
   <header class="nav" id="nav">
     <div class="nav-inner">
@@ -40,6 +41,7 @@
     <!-- Hero -->
     <section class="hero">
       <div class="hero-inner">
+        <p class="hero-overline" id="heroOverline">CC BY 4.0 · 持续更新</p>
         <h1 class="hero-title" id="heroTitle">全球开源素材资源导航</h1>
         <p class="hero-sub" id="heroSub">精选 1100+ 个全球开源 / CC 授权素材：图片、视频、音频、字体、3D、动效、配色与模板，逐条标注许可与商用可行性。</p>
         <div class="hero-stats" id="heroStats"></div>
@@ -73,7 +75,7 @@
               <span class="search-icon">
                 <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg>
               </span>
-              <input type="search" id="search" class="search-input" placeholder="搜索名称、特色、许可……" autocomplete="off" />
+              <input type="search" id="search" class="search-input" placeholder="搜索名称、特色、许可……" autocomplete="off" aria-label="搜索资源：名称、特色、许可" />
             </div>
             <div class="cat-dock" id="catDock"></div>
             <div class="filter-row">
