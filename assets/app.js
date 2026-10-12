@@ -174,13 +174,16 @@
   /* ---------- 分类筛选 chips ---------- */
   function renderCatChips() {
     var cats = DATA.categories;
-    var html = '<button class="chip' + (state.cat === "all" ? " is-active" : "") + '" data-cat="all">' + esc(t().all) + '</button>';
+    var html = '<button class="chip' + (state.cat === "all" ? " is-active" : "") + '" data-cat="all" title="' + esc(t().all) + '"><span class="chip-label">' + esc(t().all) + '</span></button>';
     html += cats.map(function (c) {
       var title = state.lang === "zh" ? c.titleZh : c.titleEn;
-      return '<button class="chip' + (state.cat === c.id ? " is-active" : "") + '" data-cat="' + esc(c.id) + '">' +
-        esc(title) + '<span class="chip-count">' + c.count + '</span></button>';
+      return '<button class="chip' + (state.cat === c.id ? " is-active" : "") + '" data-cat="' + esc(c.id) + '" title="' + esc(title) + '">' +
+        '<span class="chip-label">' + esc(title) + '</span>' +
+        '<span class="chip-count">' + c.count + '</span></button>';
     }).join("");
     document.getElementById("catChips").innerHTML = html;
+    var st = document.getElementById("sidebarTotal");
+    if (st) st.textContent = DATA.meta.totalResources;
   }
 
   /* ---------- 许可筛选 chips ---------- */
@@ -397,6 +400,19 @@
     window.addEventListener("scroll", onScroll, { passive: true });
   }
 
+  /* ---------- 分类导航停靠：桌面侧栏 / 窄屏工具栏 ---------- */
+  var catMq = window.matchMedia("(max-width: 1023px)");
+  var catNavEl = document.getElementById("catChips");
+  var catDock = document.getElementById("catDock");
+  var catBox = document.getElementById("catNavBox");
+  function layoutCatNav() {
+    if (!catNavEl || !catDock || !catBox) return;
+    if (catMq.matches) catDock.appendChild(catNavEl);
+    else catBox.appendChild(catNavEl);
+  }
+  if (catMq.addEventListener) catMq.addEventListener("change", layoutCatNav);
+  else if (catMq.addListener) catMq.addListener(layoutCatNav);
+
   /* ---------- 启动 ---------- */
   function main() {
     initPrefs();
@@ -405,6 +421,7 @@
     renderStats();
     renderCatChips();
     renderLicenseChips();
+    layoutCatNav();
     renderResults(true);
     bindEvents();
     onScroll();
