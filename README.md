@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-1126-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-1143-blue">
   <img alt="Categories" src="https://img.shields.io/badge/categories-29-blue">
 </p>
 
@@ -18,7 +18,7 @@
 全球开源 / 免费可商用多媒体素材导航。逐条标注**许可、可否商用、是否需署名**，覆盖图片、视频、音频、字体、3D、动效、配色、设计模板与工具链。
 
 - 🌐 在线站点：https://guolios.github.io/awesome-open-assets/
-- 📊 规模：**1126 条资源** · **29 个分类**（7 大专题）· 简体中文 / English 双语
+- 📊 规模：**1143 条资源** · **27 个资源分类** + 2 篇授权速查（7 大专题）· 简体中文 / English 双语
 
 ## 专题与分类
 
