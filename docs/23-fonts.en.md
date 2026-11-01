@@ -61,6 +61,14 @@
 | Source Serif 4 | https://fontsource.org/fonts/source-serif-4 | SIL OFL 1.1 | ✅ | Not required | No | US | Adobe's open-source text serif | https://github.com/adobe-fonts/source-serif |
 | Bitter | https://fontsource.org/fonts/bitter | SIL OFL 1.1 | ✅ | Not required | No | BR / EU | Slab-serif optimized for screens | — |
 | Public Sans | https://fontsource.org/fonts/public-sans | SIL OFL 1.1 | ✅ | Not required | No | US | Open-source sans by US government | https://github.com/uswds/public-sans |
+| Space Mono | https://fonts.google.com/specimen/Space+Mono | SIL OFL 1.1 | ✅ | Not required | No | Global | Monospace typeface, a Google Fonts coding classic. | https://github.com/googlefonts/spacemono |
+| Bricolage Grotesque | https://fonts.google.com/specimen/Bricolage+Grotesque | SIL OFL 1.1 | ✅ | Not required | No | Global | Expressive display sans-serif, OFL. | https://github.com/atelier-anchor/bricolage-grotesque |
+| Hanken Grotesk | https://fonts.google.com/specimen/Hanken+Grotesk | SIL OFL 1.1 | ✅ | Not required | No | Global | Geometric-feel sans-serif, OFL. | https://github.com/googlefonts/hanken-grotesk |
+| Newsreader | https://fonts.google.com/specimen/Newsreader | SIL OFL 1.1 | ✅ | Not required | No | Global | Serif text family with italics and variable weights. | https://github.com/productiontype/Newsreader |
+| Familjen Grotesk | https://fonts.google.com/specimen/Familjen+Grotesk | SIL OFL 1.1 | ✅ | Not required | No | Global | Modern sans-serif, OFL. | https://github.com/googlefonts/familjen-grotesk |
+| Schibsted Grotesk | https://fonts.google.com/specimen/Schibsted+Grotesk | SIL OFL 1.1 | ✅ | Not required | No | Global | News and UI sans-serif, OFL. | https://github.com/googlefonts/schibsted-grotesk |
+| Instrument Sans | https://fonts.google.com/specimen/Instrument+Sans | SIL OFL 1.1 | ✅ | Not required | No | Global | UI sans-serif, OFL (by Instrument). | https://github.com/Instrument/instrument-sans |
+| Sora | https://fonts.google.com/specimen/Sora | SIL OFL 1.1 | ✅ | Not required | No | Global | Tech-feel sans-serif, OFL. | https://github.com/googlefonts/sora |
 
 ## 13.3 Chinese & CJK Fonts (Chinese & CJK)
 

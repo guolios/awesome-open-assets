@@ -35,6 +35,7 @@
 | XStockVideo | https://www.xstockvideo.com/ | Site free terms | ⚠️ | Varies | No | US | Free clip library; confirm each license | — |
 | Clipcanvas Free Section | https://www.clipcanvas.com/ | Royalty-free (some free) | ⚠️ | Not required | No | US | Royalty-free clips, some free to download | — |
 | The Tanuri Experiment | https://tanuri.com/ | Site free terms (attribution) | ⚠️ | Required | No | Global | Travel footage clips; attribution required | — |
+| Videvo | https://www.videvo.net | Mixed (CC0 / CC-BY / free tier) | ⚠️ | Varies | No | Global | Free stock video with CC0/CC-BY and proprietary free tiers. | — |
 
 ## 11.2 Public-Domain & Institutional Audiovisual Archives (Archive Footage)
 

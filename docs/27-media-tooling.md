@@ -48,6 +48,8 @@
 | mpv | https://mpv.io/ | GPL-2.0+ | ✅ | 视情况 | 否 | Global | 可嵌入命令行播放器 | https://github.com/mpv-player/mpv |
 | MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | 不需要 | 否 | Global | Python 脚本化视频编辑 | https://github.com/Zulko/moviepy |
 | PySceneDetect | https://www.scenedetect.com/docs/ | BSD-3-Clause | ✅ | 不需要 | 否 | US | OpenCV 视频转场切分 | https://github.com/Breakthrough/PySceneDetect |
+| Shutter Encoder | https://www.shutterencoder.com | GPL-3.0 | ✅ | 不需要 | 否 | FR | 基于 FFmpeg 的开源音视频转码 GUI | https://github.com/paulpacifico/shutter-encoder |
+| MLT Framework | https://www.mltframework.org | GPL / LGPL | ✅ | 不需要 | 否 | Global | 非线性编辑引擎，Kdenlive/Shotcut 底层 | https://github.com/mltframework/mlt |
 
 
 > **按场景快速决策**
@@ -67,6 +69,6 @@
 >
 > ⚠️ **Copyleft 提醒**：FFmpeg 按具体编译选项可能是 **LGPL 或 GPL**——启用 GPL 组件（如 x264）后整体按 GPL 处理；静态链接进闭源产品需评估义务。ffmpeg.wasm 同理。
 > ⚠️ **yt-dlp 的法律边界**：工具本身开源合法，但下载受版权保护内容、规避技术保护措施在多数法域违法或违反平台条款，仅用于自己有权下载的媒体。
-> 注：Shutter Encoder 因闭源、libav 因 2019 年起停更，均不收录。
+> 注：libav 自 2019 年起停更，不收录；Shutter Encoder 现已开源（GPL-3.0）并已收录于上方。
 
 [← 返回总目录](../README.md)

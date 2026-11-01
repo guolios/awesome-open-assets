@@ -46,6 +46,12 @@
 | British Library (Flickr) | https://www.flickr.com/photos/britishlibrary | Public Domain | ✅ | Not required | No | UK | British Library public-domain images | — |
 | Te Papa Tongarewa | https://collections.tepapa.govt.nz/ | Mixed (No Known Copyright + CC BY-NC-ND) | ⚠️ | Varies | No | NZ | Partly commercial; some NC-ND | — |
 | Openverse | https://openverse.org | Mixed (CC / Public Domain) | ⚠️ | Varies | No | Global | CC/PD aggregation search | — |
+| 泰特美术馆（Tate） | https://www.tate.org.uk/art/artworks | CC-BY-NC-ND 4.0 | ❌ | Required | No | UK | Tate Open Content; non-commercial only (attribution required). | — |
+| 凡高博物馆（Van Gogh Museum） | https://www.vangoghmuseum.nl/en/collection | Free download, non-commercial only | ❌ | Required | No | NL | Van Gogh Museum images free to download, non-commercial with credit only. | — |
+| 伦敦国家肖像馆（National Portrait Gallery） | https://www.npg.org.uk/collections | CC-BY-NC-ND (low-res) | ❌ | Required | No | UK | UK National Portrait Gallery; low-res non-commercial only. | — |
+| 摩根图书馆与博物馆（The Morgan Library & Museum） | https://www.themorgan.org | Open access (non-commercial education) | ❌ | Required | No | US | Morgan Library's 10,000+ master drawings open for download (non-commercial). | — |
+| 伦敦国家美术馆（National Gallery） | https://www.nationalgallery.org.uk/paintings | CC-BY-NC-ND (some PD) | ❌ | Required | No | UK | National Gallery, London open images; non-commercial only. | — |
+| 法国国家图书馆 Gallica | https://gallica.bnf.fr | Mostly Public Domain | ✅ | Not required | No | FR | Bibliotheque nationale de France; millions of PD books, prints and images. | — |
 
 > Cleanest licenses → CC0: Met Museum, Rijksmuseum, Smithsonian, Paris Musées, Art Institute of Chicago.
 > Wikimedia Commons / Europeana are aggregators with mixed licenses — open each item's license before use.

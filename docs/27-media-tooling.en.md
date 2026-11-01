@@ -48,6 +48,8 @@
 | mpv | https://mpv.io/ | GPL-2.0+ | ✅ | Varies | No | Global | Embeddable command-line player | https://github.com/mpv-player/mpv |
 | MoviePy | https://zulko.github.io/moviepy/ | MIT | ✅ | Not required | No | Global | Scriptable video editing in Python | https://github.com/Zulko/moviepy |
 | PySceneDetect | https://www.scenedetect.com/docs/ | BSD-3-Clause | ✅ | Not required | No | US | OpenCV scene-cut detection | https://github.com/Breakthrough/PySceneDetect |
+| Shutter Encoder | https://www.shutterencoder.com | GPL-3.0 | ✅ | Not required | No | FR | Open-source FFmpeg-based A/V transcoding GUI. | https://github.com/paulpacifico/shutter-encoder |
+| MLT Framework | https://www.mltframework.org | GPL / LGPL | ✅ | Not required | No | Global | Non-linear editing engine behind Kdenlive/Shotcut. | https://github.com/mltframework/mlt |
 
 
 > **Quick decision by scenario**
@@ -67,6 +69,6 @@
 >
 > ⚠️ **Copyleft reminder**: depending on build options, FFmpeg may be **LGPL or GPL** — enabling GPL components (e.g. x264) makes the whole GPL; static linking into closed-source products needs obligation review. Same for ffmpeg.wasm.
 > ⚠️ **Legal boundary of yt-dlp**: the tool itself is open-source and legal, but downloading copyrighted content or circumventing technical protection measures is illegal or violates platform terms in most jurisdictions — only use it for media you have the right to download.
-> Note: Shutter Encoder (closed-source) and libav (no updates since 2019) are not included.
+> Note: libav has had no updates since 2019 and is not included; Shutter Encoder is now open-source (GPL-3.0) and listed above.
 
 [← Back to Index](../README.en.md)

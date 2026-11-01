@@ -50,6 +50,12 @@
 | US Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | 不需要 | 否 | US | 鱼类野生动物局公有领域图 | — |
 | Clark Art Institute | https://www.clarkart.edu/museum/collections/browse-collections | Public Domain | ✅ | 不需要 | 否 | US | 克拉克艺术中心公有领域图 | — |
 | DigitaltMuseum | https://digitaltmuseum.org | 混合（CC0 / CC BY / PD） | ⚠️ | 视情况 | 否 | NO / SE | 北欧多馆聚合，授权杂 ⚠️待核实 | — |
+| Tate | https://www.tate.org.uk/art/artworks | CC-BY-NC-ND 4.0 | ❌ | 需要 | 否 | UK | 泰特开放内容，仅非商用（须署名） | — |
+| Van Gogh Museum | https://www.vangoghmuseum.nl/en/collection | 免费下载但仅非商用 | ❌ | 需要 | 否 | NL | 凡高博物馆图像可免费下载，仅非商用须署名 | — |
+| National Portrait Gallery | https://www.npg.org.uk/collections | CC-BY-NC-ND（低清） | ❌ | 需要 | 否 | UK | 英国国家肖像馆，低清仅非商用 | — |
+| The Morgan Library & Museum | https://www.themorgan.org | 开放获取（仅非商用教育） | ❌ | 需要 | 否 | US | 摩根图书馆万余幅大师素描开放下载（非商用） | — |
+| National Gallery | https://www.nationalgallery.org.uk/paintings | CC-BY-NC-ND（部分 PD） | ❌ | 需要 | 否 | UK | 伦敦国家美术馆开放图像，仅非商用 | — |
+| Gallica | https://gallica.bnf.fr | 多为 Public Domain | ✅ | 不需要 | 否 | FR | 法国国图百万级公有领域书报图档 | — |
 
 > **选型建议**
 > - 做**书籍封面 / 文创衍生品**：优先 The Met、Rijksmuseum、Smithsonian — 名画本身早已进入公有领域，扫描件又 CC0，双保险

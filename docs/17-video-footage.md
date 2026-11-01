@@ -35,6 +35,7 @@
 | XStockVideo | https://www.xstockvideo.com/ | 站点免费条款 | ⚠️ | 视情况 | 否 | US | 免费片段库，逐条确认授权 | — |
 | Clipcanvas 免费区 | https://www.clipcanvas.com/ | 免版税（部分免费） | ⚠️ | 不需要 | 否 | US | 免版税片段，部分免费下载 | — |
 | The Tanuri Experiment | https://tanuri.com/ | 站点免费条款（需署名） | ⚠️ | 需要 | 否 | Global | 旅行实拍片段，须署名 | — |
+| Videvo | https://www.videvo.net | 混合（CC0 / CC-BY / 免费档） | ⚠️ | 视情况 | 否 | Global | 免费视频素材，含 CC0/CC-BY 与专有免费档 | — |
 
 ## 11.2 公共领域与机构影音档案（Archive Footage）
 

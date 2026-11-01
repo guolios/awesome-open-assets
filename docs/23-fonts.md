@@ -61,6 +61,14 @@
 | Source Serif 4 | https://fontsource.org/fonts/source-serif-4 | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | Adobe 开源衬线正文 | https://github.com/adobe-fonts/source-serif |
 | Bitter | https://fontsource.org/fonts/bitter | SIL OFL 1.1 | ✅ | 不需要 | 否 | BR / EU | 带衬线屏显易读体 | — |
 | Public Sans | https://fontsource.org/fonts/public-sans | SIL OFL 1.1 | ✅ | 不需要 | 否 | US | 美国政府开源无衬线 | https://github.com/uswds/public-sans |
+| Space Mono | https://fonts.google.com/specimen/Space+Mono | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 等宽字体，Google Fonts 经典编程体 | https://github.com/googlefonts/spacemono |
+| Bricolage Grotesque | https://fonts.google.com/specimen/Bricolage+Grotesque | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 富有表现力的展示无衬线 OFL 字体 | https://github.com/atelier-anchor/bricolage-grotesque |
+| Hanken Grotesk | https://fonts.google.com/specimen/Hanken+Grotesk | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 几何感无衬线 OFL 字体 | https://github.com/googlefonts/hanken-grotesk |
+| Newsreader | https://fonts.google.com/specimen/Newsreader | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 衬线阅读字体，含斜体与可变字重 | https://github.com/productiontype/Newsreader |
+| Familjen Grotesk | https://fonts.google.com/specimen/Familjen+Grotesk | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 现代无衬线 OFL 字体 | https://github.com/googlefonts/familjen-grotesk |
+| Schibsted Grotesk | https://fonts.google.com/specimen/Schibsted+Grotesk | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 新闻与界面无衬线 OFL 字体 | https://github.com/googlefonts/schibsted-grotesk |
+| Instrument Sans | https://fonts.google.com/specimen/Instrument+Sans | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 界面无衬线 OFL 字体（RSMS 出品） | https://github.com/Instrument/instrument-sans |
+| Sora | https://fonts.google.com/specimen/Sora | SIL OFL 1.1 | ✅ | 不需要 | 否 | Global | 科技感无衬线 OFL 字体 | https://github.com/googlefonts/sora |
 
 ## 13.3 中文与 CJK 字体（Chinese & CJK）
 

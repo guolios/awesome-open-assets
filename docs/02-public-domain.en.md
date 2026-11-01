@@ -50,6 +50,12 @@
 | U.S. Fish & Wildlife Service | https://images.fws.gov | Public Domain | ✅ | Not required | No | US | FWS public-domain wildlife imagery. | — |
 | Clark Art Institute | https://www.clarkart.edu/museum/collections/browse-collections | Public Domain | ✅ | Not required | No | US | Clark Art Institute public-domain images. | — |
 | DigitaltMuseum | https://digitaltmuseum.org | Mixed (CC0 / CC BY / PD) | ⚠️ | Varies | No | NO / SE | Nordic museums aggregator; mixed licenses ⚠️ verify | — |
+| Tate | https://www.tate.org.uk/art/artworks | CC-BY-NC-ND 4.0 | ❌ | Required | No | UK | Tate Open Content; non-commercial only (attribution required). | — |
+| Van Gogh Museum | https://www.vangoghmuseum.nl/en/collection | Free download, non-commercial only | ❌ | Required | No | NL | Van Gogh Museum images free to download, non-commercial with credit only. | — |
+| National Portrait Gallery | https://www.npg.org.uk/collections | CC-BY-NC-ND (low-res) | ❌ | Required | No | UK | UK National Portrait Gallery; low-res non-commercial only. | — |
+| The Morgan Library & Museum | https://www.themorgan.org | Open access (non-commercial education) | ❌ | Required | No | US | Morgan Library's 10,000+ master drawings open for download (non-commercial). | — |
+| National Gallery | https://www.nationalgallery.org.uk/paintings | CC-BY-NC-ND (some PD) | ❌ | Required | No | UK | National Gallery, London open images; non-commercial only. | — |
+| Gallica | https://gallica.bnf.fr | Mostly Public Domain | ✅ | Not required | No | FR | Bibliotheque nationale de France; millions of PD books, prints and images. | — |
 
 > **Selection Tips**
 > - For **book covers / cultural merchandise**: prioritize The Met, Rijksmuseum, Smithsonian — the artworks themselves are long in the public domain, and the scans are CC0, double safety.

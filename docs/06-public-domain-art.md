@@ -46,6 +46,12 @@
 | 大英图书馆（Flickr） | https://www.flickr.com/photos/britishlibrary | 公共领域 | ✅ | 不需要 | 否 | UK | 大英图书馆公共领域图 | — |
 | 蒂帕帕博物馆 | https://collections.tepapa.govt.nz/ | 混合（无版权限制 + CC BY-NC-ND） | ⚠️ | 视情况 | 否 | NZ | 部分可商用，含 CC BY-NC-ND | — |
 | Openverse | https://openverse.org | 混合（CC / 公共领域） | ⚠️ | 视情况 | 否 | Global | CC/公共领域聚合搜索引擎 | — |
+| 泰特美术馆（Tate） | https://www.tate.org.uk/art/artworks | CC-BY-NC-ND 4.0 | ❌ | 需要 | 否 | UK | 泰特开放内容，仅非商用（须署名） | — |
+| 凡高博物馆（Van Gogh Museum） | https://www.vangoghmuseum.nl/en/collection | 免费下载但仅非商用 | ❌ | 需要 | 否 | NL | 凡高博物馆图像可免费下载，仅非商用须署名 | — |
+| 伦敦国家肖像馆（National Portrait Gallery） | https://www.npg.org.uk/collections | CC-BY-NC-ND（低清） | ❌ | 需要 | 否 | UK | 英国国家肖像馆，低清仅非商用 | — |
+| 摩根图书馆与博物馆（The Morgan Library & Museum） | https://www.themorgan.org | 开放获取（仅非商用教育） | ❌ | 需要 | 否 | US | 摩根图书馆万余幅大师素描开放下载（非商用） | — |
+| 伦敦国家美术馆（National Gallery） | https://www.nationalgallery.org.uk/paintings | CC-BY-NC-ND（部分 PD） | ❌ | 需要 | 否 | UK | 伦敦国家美术馆开放图像，仅非商用 | — |
+| 法国国家图书馆 Gallica | https://gallica.bnf.fr | 多为 Public Domain | ✅ | 不需要 | 否 | FR | 法国国图百万级公有领域书报图档 | — |
 
 > 想找**最干净授权** → 认准 CC0：Met Museum、Rijksmuseum、Smithsonian、Paris Musées、Art Institute of Chicago。
 > **Wikimedia Commons / Europeana** 是聚合站，条目授权混合，下载前点开单条看 License。
