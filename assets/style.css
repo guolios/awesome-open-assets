@@ -32,7 +32,7 @@
   --r-md: 16px;     /* rounded-2xl 卡片 */
   --r-sm: 10px;
   --maxw: 1240px;
-  --nav-h: 56px;
+  --nav-h: 46px;
   color-scheme: light;
 }
 
@@ -142,7 +142,7 @@ a { color: inherit; text-decoration: none; }
 
 /* 方形图标按钮（sofindai 主题钮同款） */
 .icon-btn {
-  width: 36px; height: 36px;
+  width: 34px; height: 34px;
   display: grid; place-items: center;
   background: transparent;
   border: 0;
@@ -161,7 +161,7 @@ a { color: inherit; text-decoration: none; }
 /* 幽灵 pill 按钮（sofindai 筛选钮同款） */
 .ghost-btn {
   font-size: 13px; font-weight: 500;
-  height: 36px;
+  height: 34px;
   padding: 0 14px;
   border: 1px solid var(--border);
   border-radius: 999px;
