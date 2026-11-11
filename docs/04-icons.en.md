@@ -5,6 +5,7 @@
 > This is **the most worry-free licensing tier** in the whole repo: icon libraries almost all use MIT / ISC / Apache-2.0 / CC0, commercial use with no attribution.
 > Added in Oct 2026: **open-source design-system icons from major global companies** (IBM Carbon, Shopify Polaris, Red Hat PatternFly, HPE Grommet, Uber Base Web, Tencent TDesign/WeUI, ByteDance Arco/Semi, Alibaba Element Plus, JD NutUI, Youzan Vant, Ionic, Twilio Paste, GitLab, WordPress Dashicons).
 > The only pitfalls are some brand icons (trademarks themselves) and a few "free but attribution-required" platforms.
+> 🔖 **Boundary with "03 · Illustration & Decorative Graphics"**: this category is for small functional UI icons (navigation, actions, status); for large decorative illustrations / patterns / shapes see [03 · Illustration & Decorative Graphics](03-illustration-decorative.md).
 
 **Legend**: Commercial use ✅ allowed ｜ ⚠️ partial ｜ ❌ not allowed　·　Attribution: Not required / Required / Varies
 

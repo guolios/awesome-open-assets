@@ -5,6 +5,7 @@
 > 这一类是整个仓库里**授权最省心的一档**：图标库几乎全部采用 MIT / ISC / Apache-2.0 / CC0，免署名即可商用。
 > 2026-10 补充了一批**全球大厂开源的设计体系图标**（IBM Carbon、Shopify Polaris、Red Hat PatternFly、HPE Grommet、Uber Base Web、腾讯 TDesign/WeUI、字节 Arco/Semi、阿里 Element Plus、京东 NutUI、有赞 Vant、Ionic、Twilio Paste、GitLab、WordPress Dashicons）。
 > 唯一的坑在于部分品牌图标（商标本身）和少量”免费需署名”的平台。
+> 🔖 **与「03 · 插画与装饰图形」的边界**：本类是小尺寸功能性 UI 图标（导航、操作、状态）；大尺寸装饰性插画 / 图案 / 形状请看 [03 · 插画与装饰图形](03-illustration-decorative.md)。
 
 **图例**：免费商用 ✅ 可商用 ｜ ⚠️ 部分可商用 ｜ ❌ 不可商用　·　署名：不需要 / 需要 / 视情况
 

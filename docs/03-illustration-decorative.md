@@ -1,9 +1,10 @@
-> 🌐 Language: [简体中文](03-vector-illustration.md) · [🇬🇧 English](03-vector-illustration.en.md)
+> 🌐 Language: [简体中文](03-illustration-decorative.md) · [🇬🇧 English](03-illustration-decorative.en.md)
 
-# 03 · 矢量图与插画（Vector & Illustration）
+# 03 · 插画与装饰图形（Illustration & Decorative Graphics）
 
-> 扁平风插画、可改色矢量人物、UI 场景包。做落地页 hero 图、空状态、App 引导页的上手素材。
+> 扁平风插画、可改色矢量人物、UI 场景包、装饰图案与形状。做落地页 hero 图、空状态、App 引导页的上手素材。
 > 这一类的「免费」最容易掺 Creative Commons 与自有许可的混合，注意看**是否必须署名**。
+> 🔖 **与「04 · 图标资源」的边界**：本类是大尺寸、装饰性的插画 / 图案 / 形状；小尺寸功能性 UI 图标（导航、操作、状态）请看 [04 · 图标资源](04-icons.md)。
 
 **图例**：免费商用 ✅ 可商用 ｜ ⚠️ 部分可商用 ｜ ❌ 不可商用　·　署名：不需要 / 需要 / 视情况
 

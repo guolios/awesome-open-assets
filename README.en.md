@@ -22,7 +22,7 @@ A curated index of open-source / free-for-commercial multimedia assets, with per
 
 ## Topics & Categories
 
-- 🎨 **Visual Assets**: 01 Stock Photos · 02 Public Domain & Heritage · 03 Vector & Illustration · 04 Icons · 05 Emoji & Avatars · 06 Patterns & Textures · 07 Brushes · 08 Characters & Avatars · 09 Pixel Art & Game Assets
+- 🎨 **Visual Assets**: 01 Stock Photos · 02 Public Domain & Heritage · 03 Illustration & Decorative Graphics · 04 Icons · 05 Emoji & Avatars · 06 Patterns & Textures · 07 Brushes · 08 Characters & Avatars · 09 Pixel Art & Game Assets
 - 🧊 **3D & Spatial**: 10 3D & Textures/HDRI · 11 3D Models · 12 Scans & Photogrammetry
 - 🧩 **Design Templates**: 13 UI Templates & Kits · 14 Document Templates · 15 Mockups & Brand Kits
 - 🎬 **Motion & Media**: 16 Video Footage · 17 Audio, Music & SFX · 18 Motion & Animation · 19 GIFs & Stickers · 20 Audiobooks & Voice · 21 Stems & Loops

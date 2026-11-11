@@ -1,9 +1,10 @@
-> 🌐 Language: [🇨🇳 简体中文](03-vector-illustration.md) · **English**
+> 🌐 Language: [🇨🇳 简体中文](03-illustration-decorative.md) · **English**
 
-# 03 · Vector Graphics & Illustrations (Vector & Illustration)
+# 03 · Illustration & Decorative Graphics
 
-> Flat illustrations, recolorable vector characters, and UI scene packs — ready-to-use assets for landing-page hero images, empty states, and app onboarding.
+> Flat illustrations, recolorable vector characters, UI scene packs, decorative patterns and shapes — ready-to-use assets for landing-page hero images, empty states, and app onboarding.
 > "Free" in this category most easily mixes Creative Commons with proprietary licenses; watch **whether attribution is required**.
+> 🔖 **Boundary with "04 · Icons"**: this category is for large, decorative illustrations / patterns / shapes; for small functional UI icons (navigation, actions, status) see [04 · Icons](04-icons.md).
 
 **Legend**: Commercial use ✅ allowed ｜ ⚠️ partial ｜ ❌ not allowed　·　Attribution: Not required / Required / Varies
 
