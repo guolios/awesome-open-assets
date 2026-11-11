@@ -54,6 +54,13 @@
 | 卢浮宫 | https://collections.louvre.fr | CC-BY-NC-SA 4.0 | ❌ | 需要 | 否 | FR | 48 万+ 图像，全球访客最多，仅非商用 | — |
 | 维多利亚与阿尔伯特博物馆 | https://www.vam.ac.uk/collections | 仅个人 / 研究 / 非商用 | ❌ | 需要 | 否 | UK | 全球最大应用艺术博物馆，仅非商用 | — |
 | 东京国立博物馆 | https://colbase.nich.go.jp | CC-BY-NC | ❌ | 需要 | 否 | JP | 日本最高级别馆，e国宝 / ColBase，仅非商用 | — |
+| 国立故宫博物院 Open Data | https://theme.npm.edu.tw/opendata/ | CC0 / CC BY 4.0 | ✅ | 需要 | 否 | TW | 41 万+ 文物图，低阶 CC0、中阶 CC BY 4.0，含 IIIF | — |
+| 日本国立国会图书馆 NDL Image Bank | https://ndlsearch.ndl.go.jp/en/imagebank | 公共领域（保护期满） | ✅ | 不需要 | 否 | JP | 浮世绘 / 风景 / 植物图谱等版权期满图，可商用 | — |
+| 韩国国立中央博物馆 eMuseum | https://www.emuseum.go.kr | KOGL Type 1（商用可，需署名出处） | ✅ | 需要 | 否 | KR | 韩方国家级馆藏高清图，署名即可商用 | — |
+| Mexicana 墨西哥文化遗产库 | https://mexicana.cultura.gob.mx | 混合（多为 CC，部分保留权利） | ⚠️ | 视情况 | 否 | MX | 墨西哥文化部总库，绘画/摄影/文献逐件授权 | — |
+| Digital Benin | https://www.digitalbenin.org | 数据集 CC0 / 图像授权不一 | ⚠️ | 视情况 | 否 | NG | 尼日利亚贝宁王国流散文物数据库，偏研究/教育 | — |
+| Fahari Yetu / Iringa Boma | https://fahariyetu.org | CC BY-NC 4.0（照片）/ CC0（数据） | ❌ | 需要 | 否 | TZ | 坦桑尼亚地方博物馆，照片仅非商用 | — |
+| 埃尔米塔什博物馆 | https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection | 个人/教育用途，商用须申请授权 | ❌ | 需要 | 否 | RU | 俄罗斯国宝馆（冬宫），图像复用须申请、可能收费 | — |
 | 普拉多博物馆 | https://www.museodelprado.es | 免费下载仅非商用 | ❌ | 需要 | 否 | ES | 西班牙国宝馆（博斯 / 委拉斯开兹 / 戈雅） | — |
 | 华莱士收藏馆 | https://www.wallacecollection.org/collection | 仅私人 / 教育用途 | ❌ | 需要 | 否 | UK | 伦敦名馆（《秋千》），仅私人 / 教育 | — |
 | 费城艺术博物馆 | https://www.philamuseum.org/collection | CC-BY-NC | ❌ | 需要 | 否 | US | 美国重要博物馆，商用需申请付费 | — |
@@ -86,6 +93,7 @@
 > - 做**书籍封面 / 文创衍生品**：优先 The Met、Rijksmuseum、Smithsonian、巴黎博物馆联盟、Art Institute of Chicago — 名画本身早已进入公有领域，扫描件又 CC0，双保险
 > - 做**科技感 / 航天题材**：NASA Image Library 全部公有领域，连宇航员肖像都可商用
 > - ⚠️ **混合授权平台一定逐件看**：Wikimedia Commons、Europeana、DPLA、Openverse 里同一站的不同条目授权可能完全不同；NYPL 有大量仍在版权期的近代照片
-> - ❌ **标红机构（大英博物馆、卢浮宫、V&A、东京国立、普拉多、MoMA 等）仅非商用**，商用须向馆方申请并付费，请勿直接用于商业产出
+> - ❌ **标红机构（大英博物馆、卢浮宫、V&A、东京国立、普拉多、MoMA、埃尔米塔什等）仅非商用**，商用须向馆方申请并付费，请勿直接用于商业产出
+> - 🌏 **新增非西方来源**：本次补入了国立故宫博物院（台北）、日本国立国会图书馆、韩国国立中央博物馆、墨西哥 Mexicana、Digital Benin、坦桑尼亚 Fahari Yetu 等；拉美/非洲多为「逐件授权」或「仅非商用」，使用时务必看单件授权。俄罗斯暂无清洁开放授权馆，埃尔米塔什仅个人/教育用途、商用须申请，公开俄系艺术品请走 Wikimedia Commons 的 PD-Art（本类已收录）
 
 [← 返回总目录](../README.md)

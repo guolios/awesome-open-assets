@@ -55,6 +55,13 @@
 | 卢浮宫 | https://collections.louvre.fr | CC-BY-NC-SA 4.0 | ❌ | Required | No | FR | 480k+ images, non-commercial only | — |
 | 维多利亚与阿尔伯特博物馆 | https://www.vam.ac.uk/collections | Personal / research / non-commercial only | ❌ | Required | No | UK | world's largest applied-arts museum, NC only | — |
 | 东京国立博物馆 | https://colbase.nich.go.jp | CC-BY-NC | ❌ | Required | No | JP | Japan's top museum, non-commercial only | — |
+| 国立故宫博物院 Open Data | https://theme.npm.edu.tw/opendata/ | CC0 / CC BY 4.0 | ✅ | Required | No | TW | 410k+ artefact images; low-res CC0, mid-res CC BY 4.0, IIIF | — |
+| 日本国立国会图书馆 NDL Image Bank | https://ndlsearch.ndl.go.jp/en/imagebank | Public Domain (copyright expired) | ✅ | Not required | No | JP | ukiyo-e, landscapes, botanical plates — out-of-copyright, commercial OK | — |
+| 韩国国立中央博物馆 eMuseum | https://www.emuseum.go.kr | KOGL Type 1 (commercial OK, attribution) | ✅ | Required | No | KR | Korean national collection hi-res; free use with source credit | — |
+| Mexicana 墨西哥文化遗产库 | https://mexicana.cultura.gob.mx | Mixed (mostly CC, some reserved) | ⚠️ | Varies | No | MX | Mexico's culture-ministry hub; per-item licensing | — |
+| Digital Benin | https://www.digitalbenin.org | Dataset CC0 / image licenses vary | ⚠️ | Varies | No | NG | Database of looted Benin Kingdom artefacts; research/edu focus | — |
+| Fahari Yetu / Iringa Boma | https://fahariyetu.org | CC BY-NC 4.0 (photos) / CC0 (data) | ❌ | Required | No | TZ | Tanzanian regional museum; photos non-commercial | — |
+| 埃尔米塔什博物馆 | https://www.hermitagemuseum.org/wps/portal/hermitage/digital-collection | Personal/educational use; permission required | ❌ | Required | No | RU | Russia's Hermitage (Winter Palace); reuse needs permission, may incur fee | — |
 | 普拉多博物馆 | https://www.museodelprado.es | Free download, non-commercial only | ❌ | Required | No | ES | Spanish national treasure (Bosch/Velázquez/Goya) | — |
 | 华莱士收藏馆 | https://www.wallacecollection.org/collection | Private / educational use only | ❌ | Required | No | UK | London's Wallace Collection, private/edu only | — |
 | 费城艺术博物馆 | https://www.philamuseum.org/collection | CC-BY-NC | ❌ | Required | No | US | major US museum, commercial needs paid license | — |
@@ -87,6 +94,7 @@
 > - For **book covers / merch**: prefer The Met, Rijksmuseum, Smithsonian, Paris Musées, Art Institute of Chicago — the artworks are PD and the scans are CC0.
 > - For **space / tech themes**: NASA Image Library is entirely public domain, even astronaut portraits.
 > - ⚠️ **Always check per item on mixed platforms**: Wikimedia Commons, Europeana, DPLA, Openverse vary by item; NYPL has many still-copyrighted modern photos.
-> - ❌ **Red-flagged institutions (British Museum, Louvre, V&A, Tokyo National, Prado, MoMA…) are non-commercial only** — commercial use requires a paid license from the institution.
+> - ❌ **Red-flagged institutions (British Museum, Louvre, V&A, Tokyo National, Prado, MoMA, Hermitage…) are non-commercial only** — commercial use requires a paid license from the institution.
+> - 🌏 **New non-Western sources**: we added National Palace Museum (Taipei), NDL Image Bank (Japan), National Museum of Korea, Mexico's Mexicana, Digital Benin, and Tanzania's Fahari Yetu. Latin-American/African entries are mostly per-item or non-commercial — always check the individual license. Russia has no clean open-access museum; the Hermitage is personal/educational only and needs permission for commercial use. For openly-licensed Russian art, use Wikimedia Commons PD-Art (already in this category).
 
 [← Back to index](../README.md)

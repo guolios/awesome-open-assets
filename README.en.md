@@ -9,7 +9,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-1144-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-1151-blue">
   <img alt="Categories" src="https://img.shields.io/badge/categories-28-blue">
 </p>
 
