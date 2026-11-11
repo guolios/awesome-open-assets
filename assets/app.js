@@ -367,8 +367,8 @@
     return String(s || "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
   }
   var GUIDE_FILES = {
-    "10": { zh: "10-licenses.md", en: "10-licenses.en.md" },
-    "17": { zh: "17-media-licenses.md", en: "17-media-licenses.en.md" }
+    "27": { zh: "27-licenses.md", en: "27-licenses.en.md" },
+    "28": { zh: "28-media-licenses.md", en: "28-media-licenses.en.md" }
   };
   function guideHref(catId) {
     var g = GUIDE_FILES[catId];
@@ -385,8 +385,8 @@
   /* ---------- 页脚：授权速查文档入口（guide 类不进侧栏，但仍需可达） ---------- */
   /* 页脚用短标签：完整标题太长会把单行挤到换行，悬浮仍显示全称 */
   var FOOT_GUIDE_SHORT = {
-    zh: { "28": "授权速查", "29": "多媒体速查" },
-    en: { "28": "License basics", "29": "Media licenses" }
+    zh: { "27": "授权速查", "28": "多媒体速查" },
+    en: { "27": "License basics", "28": "Media licenses" }
   };
   function renderFooterGuides() {
     var box = document.getElementById("footGuides");

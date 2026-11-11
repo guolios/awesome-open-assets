@@ -9,8 +9,8 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-CC%20BY%204.0-blue">
-  <img alt="Resources" src="https://img.shields.io/badge/resources-1162-blue">
-  <img alt="Categories" src="https://img.shields.io/badge/categories-29-blue">
+  <img alt="Resources" src="https://img.shields.io/badge/resources-1144-blue">
+  <img alt="Categories" src="https://img.shields.io/badge/categories-28-blue">
 </p>
 
 # Awesome Open Assets
@@ -18,17 +18,17 @@
 A curated index of open-source / free-for-commercial multimedia assets, with per-entry license, commercial-use and attribution info — covering images, video, audio, fonts, 3D, motion, color, design templates and tooling.
 
 - 🌐 Live site: https://guolios.github.io/awesome-open-assets/
-- 📊 Scale: **1,162 resources** · **27 categories** + 2 license guides (7 groups) · Simplified Chinese / English
+- 📊 Scale: **1,144 resources** · **26 categories** + 2 license guides (7 groups) · Simplified Chinese / English
 
 ## Topics & Categories
 
-- 🎨 **Visual Assets**: 01 Stock Photos · 02 Public Domain · 03 Vector & Illustration · 04 Icons · 05 Emoji & Avatars · 06 Public Domain Art · 07 Patterns & Textures · 08 Brushes · 09 Characters & Avatars · 10 Pixel Art & Game Assets
-- 🧊 **3D & Spatial**: 11 3D & Textures/HDRI · 12 3D Models · 13 Scans & Photogrammetry
-- 🧩 **Design Templates**: 14 UI Templates & Kits · 15 Document Templates · 16 Mockups & Brand Kits
-- 🎬 **Motion & Media**: 17 Video Footage · 18 Audio, Music & SFX · 19 Motion & Animation · 20 GIFs & Stickers · 21 Audiobooks & Voice · 22 Stems & Loops
-- 🔤 **Fonts**: 23 Open-source Fonts (incl. CJK, minority & multilingual scripts)
-- 🛠 **Colors & Tooling**: 24 Colors & Generators · 25 AI Tools & Search · 26 Image Tooling · 27 Media Tooling
-- 📕 **Guides**: 28 License Basics · 29 Media License Basics
+- 🎨 **Visual Assets**: 01 Stock Photos · 02 Public Domain & Heritage · 03 Vector & Illustration · 04 Icons · 05 Emoji & Avatars · 06 Patterns & Textures · 07 Brushes · 08 Characters & Avatars · 09 Pixel Art & Game Assets
+- 🧊 **3D & Spatial**: 10 3D & Textures/HDRI · 11 3D Models · 12 Scans & Photogrammetry
+- 🧩 **Design Templates**: 13 UI Templates & Kits · 14 Document Templates · 15 Mockups & Brand Kits
+- 🎬 **Motion & Media**: 16 Video Footage · 17 Audio, Music & SFX · 18 Motion & Animation · 19 GIFs & Stickers · 20 Audiobooks & Voice · 21 Stems & Loops
+- 🔤 **Fonts**: 22 Open-source Fonts (incl. CJK, minority & multilingual scripts)
+- 🛠 **Colors & Tooling**: 23 Colors & Generators · 24 AI Tools & Search · 25 Image Tooling · 26 Media Tooling
+- 📕 **Guides**: 27 License Basics · 28 Media License Basics
 
 Category docs: [`docs/`](docs/). Browse and filter on the [live site](https://guolios.github.io/awesome-open-assets/).
 
